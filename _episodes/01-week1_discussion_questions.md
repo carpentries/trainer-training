@@ -15,7 +15,7 @@ keypoints:
 
   
 
-### ++How Learning Works++: 
+### _How Learning Works_: 
 #### Foreword
 
 1. “How Learning Works” is presented as a solution to the “too soft/too hard” problem. What experience have you had with sources that are too soft or too hard as you develop your teaching practices?
@@ -24,14 +24,14 @@ keypoints:
     
  
 
-#### ++How Learning Works++:About the Authors
+#### About the Authors
 
 3.  What disciplinary backgrounds do the authors come from? What are their research interests? How might their backgrounds and research interests shape their writing?
     
 
   
 
-#### ++How Learning Works++: Introduction
+#### Introduction
 
 4.  This book is organized around seven principles for teaching. Discuss an example of how you’ve seen one of these principles influence learners’ experience. Try to think of an example that involves a Carpentry workshop if you can.
     
@@ -40,7 +40,7 @@ keypoints:
 
   
 
-#### ++How Learning Works++: Chapter 1 -- How Does Students’ Prior Knowledge Affect Their Learning?
+#### Chapter 1: How Does Students’ Prior Knowledge Affect Their Learning?
 
 6.  Give an example of a time you were teaching and a learner’s prior knowledge negatively affected their learning. Was their knowledge inactive, insufficient, inappropriate or inaccurate?
     
@@ -50,7 +50,7 @@ keypoints:
     
 
 
-### ++Instructor Training Curriculum++
+### _Instructor Training Curriculum_
 #### [Welcome](https://carpentries.github.io/instructor-training/01-welcome/)
 
 9.  This module includes an activity for assessing trainee’s background. What information might this give us related to trainee’s prior knowledge? How could we use this information to adjust our teaching?
