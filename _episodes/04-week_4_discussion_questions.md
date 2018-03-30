@@ -10,7 +10,7 @@ keypoints:
 - "First key point."	
 ---
 
-#Trainer Training Book Club - Meeting 4
+# Trainer Training Book Club - Meeting 4
 
 ## Hypothes.is assignment: 
 1. Reply to one comment that was made last week on the Motivation lesson (http://carpentries.github.io/instructor-training/08-motivation/ )
