@@ -1,14 +1,15 @@
-----	
--title: "Week 4 Discussion Questions"	
--teaching: 0	
--exercises: 0	
--questions:	
--- "Key question"	
--objectives:	
--- "First objective."	
--keypoints:	
--- "First key point."	
-----
+---	
+title: "Week 4 Discussion Questions"	
+teaching: 0	
+exercises: 0	
+questions:	
+- "Key question"	
+objectives:	
+- "First objective."	
+keypoints:	
+- "First key point."	
+---
+
 #Trainer Training Book Club - Meeting 4
 
 ## Hypothes.is assignment: 
