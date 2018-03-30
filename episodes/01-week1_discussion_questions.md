@@ -46,7 +46,7 @@ keypoints:
     
 7.  Which of the strategies/methods discussed for addressing prior knowledge might be useful in a situation like this?
     
-8.  **Where are places in our workshop curriculum where learners might be hindered by inactive, insufficient, inappropriate or inaccurate knowledge?
+8.  \*\* Where are places in our workshop curriculum where learners might be hindered by inactive, insufficient, inappropriate or inaccurate knowledge?
     
 
 
