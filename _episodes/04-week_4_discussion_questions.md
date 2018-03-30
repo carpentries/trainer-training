@@ -27,7 +27,7 @@ keypoints:
 #### [Building Teaching Skill: The Importance of Practice](https://carpentries.github.io/instructor-training/11-practice-teaching/)
 3. The majority of this lesson consists of practice and feedback in various ways. Apart from those experiences, can you identify two key points that you would like to get across to learners during this lesson?
 
-#### [Creating a positive learning environment: mindset](https://carpentries.github.io/instructor-training/09-mindset/)
+#### [Creating a Positive Learning Environment: Mindset](https://carpentries.github.io/instructor-training/09-mindset/)
 4.  Take the “mindset self assessment” linked from the “What’s your Mindset?” activity. What do you think about this activity? How do you think different learners might respond to it? How might you address those responses?
 
 5. How might the concepts taught in this lesson apply to a learner’s process of becoming a better teacher?
