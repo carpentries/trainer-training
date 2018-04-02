@@ -50,7 +50,7 @@ Is there anything extraneous? Anything missing? How effectively does this lesson
 9. Write a sample self-assessment for one of the Software or Data Carpentry lessons. How would an instructor use the results of this self-assessment? Be specific.
 
 ### Introduction to Hypothes.is
-To prepare for next week, please visit https://web.hypothes.is/
+To prepare for next week, please visit [https://web.hypothes.is/](https://web.hypothes.is/)
 
 Try playing with this tool, and report back on how well it works for you.
 
