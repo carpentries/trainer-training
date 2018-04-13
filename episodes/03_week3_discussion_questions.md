@@ -11,7 +11,7 @@ keypoints:
 ---
 
 # Trainer Training Book Club - Meeting 3
-##Discussion Questions
+## Discussion Questions
 
 ### _How Learning Works_
 #### Chapter 3: What Factors Motivate Students to Learn?
