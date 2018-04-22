@@ -50,7 +50,7 @@ keypoints:
     
 
 
-### _Instructor Training Curriculum_
+### Instructor Training Curriculum
 #### [Welcome](https://carpentries.github.io/instructor-training/01-welcome/)
 
 9.  This module includes an activity for assessing trainee’s background. What information might this give us related to trainee’s prior knowledge? How could we use this information to adjust our teaching?
