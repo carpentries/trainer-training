@@ -27,7 +27,7 @@ could be more explicit?
 4. Where are places in our curriculum where we help learners develop the ability to use fluid representations of the material 
 taught? Where are places where we could do this better?
 
-### _Instructor Training Curriculum_
+### Instructor Training Curriculum
 #### [How Learning Works: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/)
 5. This episode includes material about dismissive language. This is a common issue for instructors, 
 new or experienced. What other examples can you give of dismissive language and how can we help our instructors avoid them?
