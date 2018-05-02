@@ -24,7 +24,7 @@ keypoints:
     
  
 
-    #### About the Authors
+####     About the Authors
 
 3.  What disciplinary backgrounds do the authors come from? What are their research interests? How might their backgrounds and research interests shape their writing?
     
