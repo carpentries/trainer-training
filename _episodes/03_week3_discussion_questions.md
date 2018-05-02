@@ -20,7 +20,7 @@ keypoints:
 2. Do you think learners at our workshops will have primarily learning goals or performance goals? Will they primarily be placing an attainment value, intrinsic value or instrumental value on learning the material? Is this also true of trainees at instructor training workshops?
 3. Pages 83-89 offer a number of strategies for establishing value and building positive expectancies. Pick one (or more) of these and explain how it is relevant to our workshop model? Are any of them not relevant in our workshops? Why not?
 
-### _Instructor Training Curriculum_
+### Instructor Training Curriculum
 #### [Building Teaching Skill: Getting Feedback](https://carpentries.github.io/instructor-training/06-feedback/)
 #### [Creating a Positive Learning Environment: Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/)
 
