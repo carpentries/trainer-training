@@ -71,5 +71,3 @@ keypoints:
 
 \*\* Suggested topic for PRs to workshop or IT curriculum.
 
-**
-
