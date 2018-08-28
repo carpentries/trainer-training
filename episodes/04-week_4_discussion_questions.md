@@ -13,6 +13,10 @@ keypoints:
 # Trainer Training Book Club - Meeting 4
 ## Reading
 _How Learning Works_ Chapter 6, Chapter 7
+### Introduction to Hypothes.is
+Please visit [https://web.hypothes.is/](https://web.hypothes.is/)
+
+Try playing with this tool, and report back with any questions or problems. We will begin using it next week.
 
 ## Discussion Questions
 
