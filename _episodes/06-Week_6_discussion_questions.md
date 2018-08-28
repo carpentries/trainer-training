@@ -11,21 +11,33 @@ keypoints:
 ---
 
 # Trainer Training Book Club - Meeting 6
+Reading: [How Learning Works: Working Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/), [Building Teaching Skill: Getting Feedback](https://carpentries.github.io/instructor-training/06-feedback/), [Creating a Positive Learning Environment: Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/), [Creating a Positive Learning Environment: Mindset](https://carpentries.github.io/instructor-training/09-mindset/)
+
 ## Discussion Questions
 
-1. What stood out to you this week?
+1\. What stood out to you this week?
 
-### _How Learning Works_
-#### Chapter 6: Why do Student Development and Course Climate Matter for Learning?
-2. What do you think are the most important things for new Carpentry instructors to know about course climate and student development? How do the principles discussed in this chapter come into play in our workshop environment?
-
-3. Which of the strategies suggested on pages 180-186 are applicable to our workshops? How can we help instructors implement them?
 
 ### Instructor Training Curriculum
-#### [The Carpentries: Workshop Introductions](https://carpentries.github.io/instructor-training/19-introductions/)
-4. This section includes a LOT of things that can be included in a good introduction. It is probably a good idea to give our instructors some guidance on how to use this information, and where to begin. How would you distill this message in a recap or summary of this lesson? What are the most important elements to convey?
+#### [How Learning Works: Working Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/)
+2\. This episode provides reasons why we go slowly and allow emphasize practice. However, instructors are often faced with the urge to go faster or cover more. How can we help instructors understand the importance of keeping it slow and resisting the urge to “cover” more material?
 
-#### [Code of Conduct](https://carpentries.github.io/instructor-training/conduct/)
-5. Code of Conduct issues don’t come up often at workshops, but when they do it can be difficult to know how to react. What do we want to communicate with our instructors about communicating the CoC and enforcing it?
+3\. Look at one page from a Software or Data Carpentry lesson. What pre-knowledge is absolutely required to learn the content? 
+Is there anything extraneous? Anything missing? How effectively does this lesson manage the learners’ cognitive load?
 
+4\. Where are places in our (computational) curriculum where we make connections among concepts and facts explicit? Where are places where we could be more explicit?
+
+5\. Where are places in our (computational) curriculum where we help learners develop the ability to use fluid representations of the material 
+taught? Where are places where we could do this better?
+
+#### [Building Teaching Skill: Getting Feedback](https://carpentries.github.io/instructor-training/06-feedback/)
+#### [Creating a Positive Learning Environment: Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/)
+
+6\. Avoiding demotivating learners is at least as important as motivating them, but there are lots of things an instructor could do to accidentally demotivate learners. What strategies can we give our instructors for recovering from these slip-ups?
+
+
+#### [Creating a Positive Learning Environment: Mindset](https://carpentries.github.io/instructor-training/09-mindset/)
+7\.  Take the “mindset self assessment” linked from the “What’s your Mindset?” activity. What do you think about this activity? How do you think different learners might respond to it? How might you address those responses?
+
+8\. How might the concepts taught in this lesson apply to a learner’s process of becoming a better teacher?
 
