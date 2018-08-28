@@ -36,5 +36,13 @@ What are strategies that instructors could (or do) use in workshops to help lear
 * Memory
 * Knowledge organization
 
+#### Chapter 3: What Factors Motivate Students to Learn?
+
+5\. This chapter has a lot of jargon. How would you summarize the main take away points in a sentence or two in a way that non-experts could understand?
+
+6\. Do you think learners at our workshops will have primarily learning goals or performance goals? Will they primarily be placing an attainment value, intrinsic value or instrumental value on learning the material? Is this also true of trainees at instructor training workshops?
+
+7\. Pages 83-89 offer a number of strategies for establishing value and building positive expectancies. Pick one of these and explain how it is relevant to our workshop model? Are any of them not relevant in our workshops? Why not?
+
 
 
