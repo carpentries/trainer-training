@@ -9,9 +9,11 @@ objectives:
 keypoints:	
 - "First key point."	
 ---
-
-# Trainer Training Book Club - Meeting 6
-Reading: Episodes 5-9 -- [How Learning Works: Working Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/), [Building Teaching Skill: Getting Feedback](https://carpentries.github.io/instructor-training/06-feedback/), [Creating a Positive Learning Environment: Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/), [Creating a Positive Learning Environment: Mindset](https://carpentries.github.io/instructor-training/09-mindset/)
+## Reading: 
+[How Learning Works: Working Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/)  
+[Building Teaching Skill: Getting Feedback](https://carpentries.github.io/instructor-training/06-feedback/)  
+[Creating a Positive Learning Environment: Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/)  
+[Creating a Positive Learning Environment: Mindset](https://carpentries.github.io/instructor-training/09-mindset/)
 
 ## Discussion Questions
 
