@@ -33,13 +33,16 @@ Is there anything extraneous? Anything missing? How effectively does this lesson
 taught? Where are places where we could do this better?
 
 #### [Building Teaching Skill: Getting Feedback](https://carpentries.github.io/instructor-training/06-feedback/)
+
+6\. How can we model good use of feedback in the context of instructor training?
+
 #### [Creating a Positive Learning Environment: Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/)
 
-6\. Avoiding demotivating learners is at least as important as motivating them, but there are lots of things an instructor could do to accidentally demotivate learners. What strategies can we give our instructors for recovering from these slip-ups?
+7\. Avoiding demotivating learners is at least as important as motivating them, but there are lots of things an instructor could do to accidentally demotivate learners. What strategies can we give our instructors for recovering from these slip-ups?
 
 
 #### [Creating a Positive Learning Environment: Mindset](https://carpentries.github.io/instructor-training/09-mindset/)
-7\.  Take the “mindset self assessment” linked from the “What’s your Mindset?” activity. What do you think about this activity? How do you think different learners might respond to it? How might you address those responses?
+8\.  Take the “mindset self assessment” linked from the “What’s your Mindset?” activity. What do you think about this activity? How do you think different learners might respond to it? How might you address those responses?
 
-8\. How might the concepts taught in this lesson apply to a learner’s process of becoming a better teacher?
+9\. How might the concepts taught in this lesson apply to a learner’s process of becoming a better teacher?
 
