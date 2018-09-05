@@ -12,7 +12,7 @@ keypoints:
 
 ## Reading
 [Building Teaching Skill: The Importance of Practice](https://carpentries.github.io/instructor-training/11-practice-teaching/)  
-[Wrap-up and Homework](https://carpentries.github.io/instructor-training/12-homework/index.html) 
+[Wrap-up and Homework](https://carpentries.github.io/instructor-training/12-homework/index.html)  
 [Welcome Back](http://carpentries.github.io/instructor-training/13-second-welcome/index.html)   
 [Building Teaching Skill: Lesson Study](https://carpentries.github.io/instructor-training/14-lesson-study/)  
 [Building Teaching Skill: Live Coding](https://carpentries.github.io/instructor-training/15-live/)  
