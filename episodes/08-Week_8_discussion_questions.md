@@ -16,13 +16,17 @@ keypoints:
 Please add comments to all modules covered today.
 
 ## Reading:
-_How Learning Works_: Conclusion
-Episodes 20-23: 
-Review Trainer Guide
+_How Learning Works_: Conclusion  
+[The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/20-carpentries/)  
+[The Carpentries: Teaching Practices](https://carpentries.github.io/instructor-training/22-practices/)  
+[Afternoon Wrap-Up](https://carpentries.github.io/instructor-training/23-checkout/)  
+[Operations Guide](https://software-carpentry.org/workshops/operations/)  
+[Pre-Workshop Reading: The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
+Review [Trainer Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html)
 
 
 ## Other homework:
-1. Diagram the instructor training curriculum! Call it a concept map if it helps you; otherwise call it whatever you want. Use your choice of tools -- draw.io is handy; so is a pencil and paper (though you may want to take a picture of your drawing to share).
+1. Create a concept map of the instructor training curriculum! Try to include at least 5 core pedagogical concepts.
 
 ## Discussion Questions
 
