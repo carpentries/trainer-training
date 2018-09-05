@@ -9,8 +9,6 @@ objectives:
 keypoints:
 - "First key point."
 ---
-
-# Trainer Training Book Club - Meeting 2
 ## Reading
 _How Learning Works_: Chapter 2, Appendix A, Appendix B, Chapter 3
 
