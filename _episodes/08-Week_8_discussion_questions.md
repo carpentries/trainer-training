@@ -13,7 +13,7 @@ keypoints:
 # Trainer Training Book Club Week 8
 
 ## Hypothes.is:
-Please add comments to all modules covered today.
+Please add comments to all curriculum modules covered today.
 
 ## Reading:
 _How Learning Works_: Conclusion  
