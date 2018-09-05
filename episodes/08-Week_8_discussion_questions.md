@@ -12,22 +12,40 @@ keypoints:
 
 # Trainer Training Book Club Week 8
 
-## Hypothes.is homework:
-1. Review some parts of the curriculum you haven’t visited in a while. Add comments and/or responses as appropriate.
+## Hypothes.is:
+1\. Please add comments/replies to all curriculum modules covered today.
+
+## Reading:
+_How Learning Works_: Conclusion  
+[The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/20-carpentries/)  
+[The Carpentries: Teaching Practices](https://carpentries.github.io/instructor-training/22-practices/)  
+[Afternoon Wrap-Up](https://carpentries.github.io/instructor-training/23-checkout/)  
+[Operations Guide](https://software-carpentry.org/workshops/operations/)  
+[Pre-Workshop Reading: The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)  
+Review [Trainer Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html)
+
 
 ## Other homework:
-1. Diagram the instructor training curriculum! Call it a concept map if it helps you; otherwise call it whatever you want. Use your choice of tools -- draw.io is handy; so is a pencil and paper (though you may want to take a picture of your drawing to share).
+2\. Create a concept map of the instructor training curriculum! Try to include at least 5 core pedagogical concepts.
 
 ## Discussion Questions
 
-1. What are the component skills of teaching? Are all of these skills addressed in our curriculum and/or represented in your diagram? Is anything missing?
+3\. What are the component skills of teaching? Are all of these skills addressed in our curriculum and/or represented in your diagram? Is anything missing?
 
 ### _How Learning Works_
 
 #### Conclusion p. 217-224
 
-2. What advice might you give to instructors to help them “play to their own strengths and weaknesses”? How might you advise instructors who identify as ‘introverts’ vs ‘extroverts’?
+4\. What advice might you give to instructors to help them “play to their own strengths and weaknesses”? How might you advise instructors who identify as ‘introverts’ vs ‘extroverts’?
 
+### Instructor Training Curriculum
+#### [The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/20-carpentries/)
 
+5\. Do you have any questions about policies and procedures for running a workshop? What do you think might be unclear to instructors reading these materials?
 
+6\. Have a look at the “What’s our Role” activity. This is a newer activity -- what do you think?
+
+#### [The Carpentries: Teaching Practices](http://carpentries.github.io/instructor-training/22-practices/) 
+
+7\. We will do the [worksheet activity](http://carpentries.github.io/instructor-training/files/handouts/Carpentries_teaching_practices.pdf) in groups during our discussion. Please have a look at this worksheet ahead of time and think about how you would fill it out. 
 

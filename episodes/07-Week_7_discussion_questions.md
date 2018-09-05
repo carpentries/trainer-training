@@ -10,30 +10,28 @@ keypoints:
 - "First key point."	
 ---
 
-# Trainer Training Book Club - Meeting 7
+## Reading
+[Building Teaching Skill: The Importance of Practice](https://carpentries.github.io/instructor-training/11-practice-teaching/)  
+[Wrap-up and Homework](https://carpentries.github.io/instructor-training/12-homework/index.html)  
+[Welcome Back](http://carpentries.github.io/instructor-training/13-second-welcome/index.html)   
+[Building Teaching Skill: Lesson Study](https://carpentries.github.io/instructor-training/14-lesson-study/)  
+[Building Teaching Skill: Live Coding](https://carpentries.github.io/instructor-training/15-live/)  
+[Building Teaching Skill: Performance Revised](http://carpentries.github.io/instructor-training/17-performance/index.html)
 
-## Hypothes.is homework
-1. Please add comments/responses to both curriculum pages assigned this week.
+## Hypothes.is: 
+1\. Please write at least one comment or reply to a comment on each module. Wherever possible, try to connect content to material covered in the book (page numbers are be great if you can find them!). Other comments might include questions, identification of key points, or thoughts on how learners might interpret (or misinterpret) certain content.
 
 ## Discussion Questions
-### _How Learning Works_
-#### Chapter 7: How do Students Become Self-directed Learners?
-
-1. How do we help learners scaffold their metacognitive practices? In what ways do we already do this well and how can we improve? 
-
-2. How does mindset apply to metacognition? Does this chapter give us any new tools for helping learners to adjust away from a fixed mindset?
 
 ### Instructor Training Curriculum
-#### [The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/20-carpentries/)
+#### [Building Teaching Skill: The Importance of Practice](https://carpentries.github.io/instructor-training/11-practice-teaching/)
+2\. The majority of this lesson consists of practice and feedback in various ways. Apart from those experiences, can you identify two key points that you would like to get across to learners during this lesson?
 
-3. Do you have any questions about policies and procedures for running a workshop? What do you think might be unclear to instructors reading these materials?
+#### [Building Teaching Skill: Lesson Study](https://carpentries.github.io/instructor-training/14-lesson-study/)
+3\. This module addresses some new points and also some points that we began to discuss in previous lessons. How does the discussion of “challenge” exercises fit here in the context of lesson study? Does this (new, in parts) module meet its stated objectives?
 
-4. Have a look at the “What’s our Role” activity. This is a newer activity -- what do you think?
+#### [Building Teaching Skill: Live Coding](https://carpentries.github.io/instructor-training/15-live/)
+4\. How does the Carpentry practice of live coding relate to the discussion in this chapter of practice and feedback?
 
-#### [The Carpentries: Teaching Practices](http://carpentries.github.io/instructor-training/22-practices/) 
-
-5 We will do the [worksheet activity](http://carpentries.github.io/instructor-training/files/handouts/Carpentries_teaching_practices.pdf) in groups during our discussion. Please have a look at this worksheet ahead of time and think about how you would fill it out. 
-
-
-
-
+#### [The Carpentries: Workshop Introductions](https://carpentries.github.io/instructor-training/19-introductions/)
+5\. This section includes a LOT of things that can be included in a good introduction. It is probably a good idea to give our instructors some guidance on how to use this information, and where to begin. How would you distill this message in a recap or summary of this lesson? What are the most important elements to convey?
