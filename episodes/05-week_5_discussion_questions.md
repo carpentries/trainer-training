@@ -9,9 +9,6 @@ objectives:
 keypoints:	
 - "First key point."	
 ---
-
-# Trainer Training Book Club - Meeting 5
-
 ## Hypothes.is: 
 1\. Please write at least one comment or reply to a comment on each module. Wherever possible, try to connect content to material covered in the book (page numbers are be great if you can find them!). Other comments might include questions, identification of key points, or thoughts on how learners might interpret (or misinterpret) certain content.
 
