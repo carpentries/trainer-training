@@ -10,13 +10,16 @@ keypoints:
 - "First key point."	
 ---
 
-# Trainer Training Book Club - Meeting 7
-
-## Hypothes.is homework
-Please add comments/responses to all curriculum pages assigned this week.
-
 ## Reading
-Episodes 11-19: [Building Teaching Skill: The Importance of Practice](https://carpentries.github.io/instructor-training/11-practice-teaching/), [Wrap-up and Homework](https://carpentries.github.io/instructor-training/12-homework/index.html), [Welcome Back](http://carpentries.github.io/instructor-training/13-second-welcome/index.html), [Building Teaching Skill: Lesson Study](https://carpentries.github.io/instructor-training/14-lesson-study/), [Building Teaching Skill: Live Coding](https://carpentries.github.io/instructor-training/15-live/), [Building Teaching Skill: Performance Revised](http://carpentries.github.io/instructor-training/17-performance/index.html)
+[Building Teaching Skill: The Importance of Practice](https://carpentries.github.io/instructor-training/11-practice-teaching/)  
+[Wrap-up and Homework](https://carpentries.github.io/instructor-training/12-homework/index.html) 
+[Welcome Back](http://carpentries.github.io/instructor-training/13-second-welcome/index.html)   
+[Building Teaching Skill: Lesson Study](https://carpentries.github.io/instructor-training/14-lesson-study/)  
+[Building Teaching Skill: Live Coding](https://carpentries.github.io/instructor-training/15-live/)  
+[Building Teaching Skill: Performance Revised](http://carpentries.github.io/instructor-training/17-performance/index.html)
+
+## Hypothes.is 
+Please add comments/responses to all curriculum pages assigned this week.
 
 ## Discussion Questions
 1\. What stood out to you this week? What do you want to be sure we cover today?
