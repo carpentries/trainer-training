@@ -9,26 +9,25 @@ objectives:
 keypoints:	
 - "First key point."	
 ---
+## Reading
+_How Learning Works_ Chapter 6, Chapter 7
+### Introduction to Hypothes.is
+Please visit [https://web.hypothes.is/](https://web.hypothes.is/)
 
-# Trainer Training Book Club - Meeting 4
-
-## Hypothes.is assignment: 
-1. Reply to one comment that was made last week on the Motivation lesson (http://carpentries.github.io/instructor-training/08-motivation/ )
-2. Write (at least) one comment on the Mindset lesson (http://carpentries.github.io/instructor-training/09-mindset/ )
+Try playing with this tool, and report back with any questions or problems. We will begin using it next week.
 
 ## Discussion Questions
+
+1\. What stood out to you from this week's reading?
+
 ### _How Learning Works_
-#### Chapter 4: How Do Students Develop Mastery?
-1. This chapter discusses expert blind spots and cognitive load. We teach about these in the training curriculum, but how might we effectively manage them when teaching this class? Are there any specific points at which you think trainer expertise or cognitive overload pose a particular risk during an instructor training event? 
+#### Chapter 6: Why do Student Development and Course Climate Matter for Learning?
+2\. What do you think are the most important things for new Carpentry instructors to know about course climate and student development? How do the principles discussed in this chapter come into play in our workshop environment?
 
-2. When students learn skills but don’t learn how to apply them, they may fail to use those skills when they are relevant. How do we help our learners bridge the gap between learning and application? In other words, how do we “teach to facilitate transfer”? How do we do this for our instructors?
+3\. Which of the strategies suggested on pages 180-186 are applicable to our workshops? How can we help instructors implement them?
 
-### Instructor Training Curriculum
-#### [Building Teaching Skill: The Importance of Practice](https://carpentries.github.io/instructor-training/11-practice-teaching/)
-3. The majority of this lesson consists of practice and feedback in various ways. Apart from those experiences, can you identify two key points that you would like to get across to learners during this lesson?
+#### Chapter 7: How do Students Become Self-directed Learners?
 
-#### [Creating a Positive Learning Environment: Mindset](https://carpentries.github.io/instructor-training/09-mindset/)
-4.  Take the “mindset self assessment” linked from the “What’s your Mindset?” activity. What do you think about this activity? How do you think different learners might respond to it? How might you address those responses?
+4\. How do we help learners scaffold their metacognitive practices? In what ways do we already do this well and how can we improve? 
 
-5. How might the concepts taught in this lesson apply to a learner’s process of becoming a better teacher?
-
+5\. How does mindset apply to metacognition? Does this chapter give us any new tools for helping learners to adjust away from a fixed mindset?
