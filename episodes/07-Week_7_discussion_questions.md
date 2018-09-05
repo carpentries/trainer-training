@@ -18,11 +18,10 @@ keypoints:
 [Building Teaching Skill: Live Coding](https://carpentries.github.io/instructor-training/15-live/)  
 [Building Teaching Skill: Performance Revised](http://carpentries.github.io/instructor-training/17-performance/index.html)
 
-## Hypothes.is 
-Please add comments/responses to all curriculum pages assigned this week.
+## Hypothes.is: 
+1\. Please write at least one comment or reply to a comment on each module. Wherever possible, try to connect content to material covered in the book (page numbers are be great if you can find them!). Other comments might include questions, identification of key points, or thoughts on how learners might interpret (or misinterpret) certain content.
 
 ## Discussion Questions
-1\. What stood out to you this week? What do you want to be sure we cover today?
 
 ### Instructor Training Curriculum
 #### [Building Teaching Skill: The Importance of Practice](https://carpentries.github.io/instructor-training/11-practice-teaching/)
