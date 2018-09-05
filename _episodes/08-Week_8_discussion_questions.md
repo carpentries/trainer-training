@@ -21,7 +21,7 @@ _How Learning Works_: Conclusion
 [The Carpentries: Teaching Practices](https://carpentries.github.io/instructor-training/22-practices/)  
 [Afternoon Wrap-Up](https://carpentries.github.io/instructor-training/23-checkout/)  
 [Operations Guide](https://software-carpentry.org/workshops/operations/)  
-[Pre-Workshop Reading: The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
+[Pre-Workshop Reading: The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)  
 Review [Trainer Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html)
 
 
