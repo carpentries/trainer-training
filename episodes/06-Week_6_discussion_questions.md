@@ -15,10 +15,10 @@ keypoints:
 [Creating a Positive Learning Environment: Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/)  
 [Creating a Positive Learning Environment: Mindset](https://carpentries.github.io/instructor-training/09-mindset/)
 
+## Hypothes.is: 
+1\. Please write at least one comment or reply to a comment on each module. Wherever possible, try to connect content to material covered in the book (page numbers are be great if you can find them!). Other comments might include questions, identification of key points, or thoughts on how learners might interpret (or misinterpret) certain content.
+
 ## Discussion Questions
-
-1\. What stood out to you this week?
-
 
 ### Instructor Training Curriculum
 #### [How Learning Works: Working Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/)
