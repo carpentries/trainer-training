@@ -17,6 +17,7 @@ Other readings: [Trainer Agreement](https://docs.carpentries.org/topic_folders/i
 Preview: [Instructor Training Curriculum](http://carpentries.github.io/instructor-training/) and its [GitHub repository](https://github.com/carpentries/instructor-training)
 
 ## Discussion Questions
+### Trainers Guide & Agreement
 
 1\. What questions do you have about being a Trainer?
 
@@ -45,6 +46,8 @@ Preview: [Instructor Training Curriculum](http://carpentries.github.io/instructo
 7\.  Give an example of a time you were teaching and a learner’s prior knowledge negatively affected their learning. Was their knowledge inactive, insufficient, inappropriate or inaccurate?
     
 8\.  Which of the strategies/methods discussed for addressing prior knowledge might be useful in a situation like this?
+
+9\. Try making a small Concept Map (see Appendix B in the book) about ideas from this chapter! Figure 1.1 on p.14 might be a place to start -- consider zooming in or out to make more detailed connections or address a bigger picture. If you'd like to make a digital map, Draw.io might be handy; if you'd like to make one on paper please use a marker to make it easy to see from your camera.
     
 
 
