@@ -12,7 +12,7 @@ keypoints:
 # Trainer Training Book Club - Meeting 1
 
 ## Reading
-_How Learning Works_: Foreword, About the Authors, Introduction, Chapter 1
+_How Learning Works_: Foreword, About the Authors, Introduction, Chapter 1.  
 Other readings: [Trainer Agreement](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html) and skim through the [Trainers Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html)
 Preview: [Instructor Training Curriculum](http://carpentries.github.io/instructor-training/) and its [GitHub repository](https://github.com/carpentries/instructor-training)
 
