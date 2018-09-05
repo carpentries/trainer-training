@@ -9,8 +9,6 @@ objectives:
 keypoints:	
 - "First key point."	
 ---
-
-# Trainer Training Book Club - Meeting 4
 ## Reading
 _How Learning Works_ Chapter 6, Chapter 7
 ### Introduction to Hypothes.is
