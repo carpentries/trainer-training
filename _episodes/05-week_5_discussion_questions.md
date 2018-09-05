@@ -10,7 +10,7 @@ keypoints:
 - "First key point."	
 ---
 ## Reading:
-[Welcome](https://carpentries.github.io/instructor-training/01-welcome/), [How Learning Works: The Importance of Practice](https://carpentries.github.io/instructor-training/02-practice-learning/), [How Learning Works: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/)
+[Welcome](https://carpentries.github.io/instructor-training/01-welcome/) . [How Learning Works: The Importance of Practice](https://carpentries.github.io/instructor-training/02-practice-learning/) . [How Learning Works: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/)
 
 ## Hypothes.is: 
 1\. Please write at least one comment or reply to a comment on each module. Wherever possible, try to connect content to material covered in the book (page numbers are be great if you can find them!). Other comments might include questions, identification of key points, or thoughts on how learners might interpret (or misinterpret) certain content.
