@@ -9,7 +9,6 @@ objectives:
 keypoints:
 - "First key point."
 ---
-# Trainer Training Book Club - Meeting 1
 
 ## Reading
 _How Learning Works_: Foreword, About the Authors, Introduction, Chapter 1.  
@@ -17,7 +16,7 @@ Other readings: [Trainer Agreement](https://docs.carpentries.org/topic_folders/i
 Preview: [Instructor Training Curriculum](http://carpentries.github.io/instructor-training/) and its [GitHub repository](https://github.com/carpentries/instructor-training)
 
 ## Discussion Questions
-### Trainers Guide & Agreement
+### Curriculum Readings
 
 1\. What questions do you have about being a Trainer?
 
@@ -38,7 +37,7 @@ Preview: [Instructor Training Curriculum](http://carpentries.github.io/instructo
 
 5\.  This book is organized around seven principles for teaching. Discuss an example of how you’ve seen one of these principles influence learners’ experience. If you can, try to think of an example from a Carpentries workshop.
     
-6\.  The authors state that these seven principles are “domain-independent”, “experience-independent” and “cross-culturally relevant”. As we work through the readings, we will be discussing how to apply these principles to teaching about how to teach (in an instructor training workshop) as well as teaching computational skills (in a Carpentries workshop). We'll even talk a bit about YOUR process of learning how to teach teaching! In what ways are these 'layers' of instruction different from each other? In what ways are they the same?
+6\.  The authors state that these seven principles are “domain-independent”, “experience-independent” and “cross-culturally relevant”. As we work through the readings, we will be discussing how to apply these principles to *teaching about how to teach* (in an instructor training workshop) as well as *teaching computational skills* (in a Carpentries workshop). We'll even talk a bit about our process of *learning how to teach teaching* through our discussions! Do the 7 principles apply equally well to all of these 'layers' of instruction? Are there any important differences to keep in mind?
     
 
 #### Chapter 1: How Does Students’ Prior Knowledge Affect Their Learning?
@@ -47,7 +46,7 @@ Preview: [Instructor Training Curriculum](http://carpentries.github.io/instructo
     
 8\.  Which of the strategies/methods discussed for addressing prior knowledge might be useful in a situation like this?
 
-9\. Try making a small Concept Map (see Appendix B in the book) about ideas from this chapter! Figure 1.1 on p.14 might be a place to start -- consider zooming in or out to make more detailed connections or address a bigger picture. If you'd like to make a digital map, Draw.io might be handy; if you'd like to make one on paper please use a marker to make it easy to see from your camera.
+9\. Try making a small Concept Map (if you don't have experience with these, see Appendix B in the book) about ideas from this chapter! Figure 1.1 on p.14 might be a place to start -- consider zooming in or out to make more detailed connections or address a bigger picture. If you'd like to make a digital map, [Draw.io](https://www.draw.io/) is one of many useful tools out there; if you'd like to make one on paper please use a marker to make it easy to see from your camera.
     
 
 
