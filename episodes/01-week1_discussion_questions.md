@@ -12,13 +12,13 @@ keypoints:
 
 ## Reading
 _How Learning Works_: Foreword, About the Authors, Introduction, Chapter 1.  
-Other readings: [Trainer Agreement](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html), [Code of Conduct](https://carpentries.github.io/instructor-training/conduct/) and skim through the [Trainers Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html).  
+Carpentries readings: [Trainer Agreement](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html), [Code of Conduct](https://carpentries.github.io/instructor-training/conduct/) and skim through the [Trainers Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html).  
 Preview: [Instructor Training Curriculum](http://carpentries.github.io/instructor-training/) and its [GitHub repository](https://github.com/carpentries/instructor-training)
 
 ## Discussion Questions
-### Curriculum Readings
+### Carpentries Readings & Previews
 
-1\. What questions do you have about being a Trainer?
+1\. What questions do you have about being a Trainer? We'll take about 30 minutes during our first session to review communications channels & discuss the many roles played by Trainers in the Carpentries community.
 
 ### _How Learning Works_: 
 #### Foreword
@@ -45,8 +45,6 @@ Preview: [Instructor Training Curriculum](http://carpentries.github.io/instructo
 7\.  Give an example of a time you were teaching and a learner’s prior knowledge negatively affected their learning. Was their knowledge inactive, insufficient, inappropriate or inaccurate?
     
 8\.  Which of the strategies/methods discussed for addressing prior knowledge might be useful in a situation like this?
-
-9\. Try making a small Concept Map (if you don't have experience with these, see Appendix B in the book) about ideas from this chapter! Figure 1.1 on p.14 might be a place to start -- consider zooming in or out to make more detailed connections or address a bigger picture. If you'd like to make a digital map, [Draw.io](https://www.draw.io/) is one of many useful tools out there; if you'd like to make one on paper please use a marker to make it easy to see from your camera.
     
 
 
