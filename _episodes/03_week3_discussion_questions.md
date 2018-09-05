@@ -10,7 +10,9 @@ keypoints:
 - "First key point."
 ---
 
-# Trainer Training Book Club - Meeting 3
+## Reading
+*How Learning Works*: Chapter 4, Appendix D, Chapter 5
+
 ## Discussion Questions
 
 ### _How Learning Works_
