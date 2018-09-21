@@ -22,12 +22,15 @@ Try playing with this tool, and report back with any questions or problems. We w
 
 ### _How Learning Works_
 #### Chapter 6: Why do Student Development and Course Climate Matter for Learning?
-2\. What do you think are the most important things for new Carpentry instructors to know about course climate and student development? How do the principles discussed in this chapter come into play in our workshop environment?
+2\. While this chapter views "culture" through a developmental lens, most of the topics covered here also relate to adults. How might these factors relate to:
+* the Code of Conduct
+* Motivation (try to be specific!)
+* Cognition & memory
 
-3\. Which of the strategies suggested on pages 180-186 are applicable to our workshops? How can we help instructors implement them?
+3\. Which of the strategies suggested on pages 180-186 are most applicable to Carpentries workshops? In what ways might new instructors need support or guidance in implementing these?
 
 #### Chapter 7: How do Students Become Self-directed Learners?
 
-4\. How do we help learners scaffold their metacognitive practices? In what ways do we already do this well and how can we improve? 
+4\. Most of our learners have experience with metacognitive strategies, but may not automatically apply them to the content of our workshops (content or Instructor Training). Why do you think this is? How can we support our learners in transferring these skills appropriately? 
 
-5\. How does mindset apply to metacognition? Does this chapter give us any new tools for helping learners to adjust away from a fixed mindset?
+5\. Try making a concept map that outlines ways in which metacognition is (or can be) supported during a workshop, referencing one or more of the strategies listed on p.203-215. Consider using marker if you're drawing on paper. Did you learn anything from this process?
