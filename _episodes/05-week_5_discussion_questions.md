@@ -20,7 +20,7 @@ keypoints:
 ### Instructor Training Curriculum
 ### [Welcome](https://carpentries.github.io/instructor-training/01-welcome/)
 
-2\. This module includes an activity for assessing trainee’s background. Are these questions useful?
+2\. This module includes an activity for assessing your trainees' backgrounds. Are these questions useful?
 - If so, how might you use them to adjust your instruction in the subsequent modules?
 - If not, can you think of a (quick, multiple choice) alternative or additional question that you would like to ask?
 
