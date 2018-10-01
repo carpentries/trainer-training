@@ -35,7 +35,7 @@ keypoints:
 
 #### [How Learning Works: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/)
 6\. Dismissive language can occur as a result of negligence, but it can also happen as a result of good intentions.
-Instructors are often surprised to be told that telling learners that a task is "easy" is dismissive.
+Trainees are often surprised to be told that telling learners that a task is "easy" is dismissive.
 How would you help someone who wants to convey to learners that a task is *achievable* to find a way to convey that message in a more motivating way?
 
 
