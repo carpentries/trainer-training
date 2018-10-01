@@ -20,19 +20,22 @@ keypoints:
 ### Instructor Training Curriculum
 ### [Welcome](https://carpentries.github.io/instructor-training/01-welcome/)
 
-2\.  This module includes an activity for assessing trainee’s background. What information might this give us related to trainee’s prior knowledge? How could we use this information to adjust our teaching?
+2\. This module includes an activity for assessing trainee’s background. Are these questions useful?
+- If so, how might you use them to adjust your instruction in the subsequent modules?
+- If not, can you think of a (quick, multiple choice) alternative or additional question that you would like to ask?
 
 #### [How Learning Works: The Importance of Practice](https://carpentries.github.io/instructor-training/02-practice-learning/) 
 
-3\.  Identify one thing each that you’re a novice for, a competent practitioner for and an expert at. Be explicit about why you categorize yourself that way. What would need to be different about your abilities and/or knowledge in order to categorize yourself at a different level for that skill?
+3\. It can be useful to prepare personal examples for some topics. Identify one thing each that you’re a novice for, a competent practitioner for and an expert at. How would you explain the way you have categorized these skills?
+
+4\. Try creating a concept map that in some way addresses both skill acquisition and mental models. Would formative assessment fit naturally on your map as well? Add that too if it doesn't make it too cluttered to share!
     
-4\.  We’ll talk more about mental models next week in connection with Chapter 2.
-    
-5\.  We teach our instructors how to write good MCQs, faded examples and Parson’s problems, but most of the time we don’t use these in workshops. What sorts of formative assessments do we use instead and why? Why do you think these other types of assessment are included in the curriculum?
+5\. We introduce skill acquisition in this module, but really dig into expertise in the next. What is the purpose of introducing skill acquisition here? What should be emphasized here, vs in the next section?
     
 
 #### [How Learning Works: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/)
-6\. This episode includes material about dismissive language. This is a common issue for instructors, 
-new or experienced. What other examples can you give of dismissive language and how can we help our instructors avoid them?
+6\. Dismissive language can occur as a result of negligence, but it can also happen as a result of good intentions.
+Instructors are often surprised to be told that telling learners that a task is "easy" is dismissive.
+How would you help someone who wants to convey to learners that a task is *achievable* to find a way to convey that message in a more motivating way?
 
 
