@@ -22,19 +22,15 @@ keypoints:
 
 ### Instructor Training Curriculum
 #### [How Learning Works: Working Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/)
-2\. This episode provides reasons why we go slowly and allow emphasize practice. However, instructors are often faced with the urge to go faster or cover more. How can we help instructors understand the importance of keeping it slow and resisting the urge to “cover” more material?
+2\. This episode provides reasons why we go slowly and allow emphasize practice. However, instructors are often faced with the urge to go faster or cover more. How can we help instructors remember to keep it slow and resist the urge to “cover” more material?
 
-3\. Look at one page from a Software or Data Carpentry lesson. What pre-knowledge is absolutely required to learn the content? 
-Is there anything extraneous? Anything missing? How effectively does this lesson manage the learners’ cognitive load?
+3\. The concept mapping example in this exercise is often difficult for Trainers and learners to navigate. Try your hand at either a) explaining this example in a more complete and accessible way or b) constructing an alternative example that has some relevance to our curriculum.
 
-4\. Where are places in our (computational) curriculum where we make connections among concepts and facts explicit? Where are places where we could be more explicit?
-
-5\. Where are places in our (computational) curriculum where we help learners develop the ability to use fluid representations of the material 
-taught? Where are places where we could do this better?
+4\. Non-programming learners who are taking Instructor Training are often directed to study the [OpenRefine lesson](https://datacarpentry.org/OpenRefine-ecology-lesson/). What could you direct these learners to do during the section on faded examples?
 
 #### [Building Teaching Skill: Getting Feedback](https://carpentries.github.io/instructor-training/06-feedback/)
 
-6\. How can we model good use of feedback in the context of instructor training?
+6\. We generally do a good job of modeling the collection of feedback in an instructor training workshop. How can we also model good use of feedback in this context?
 
 #### [Creating a Positive Learning Environment: Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/)
 
@@ -42,7 +38,7 @@ taught? Where are places where we could do this better?
 
 
 #### [Creating a Positive Learning Environment: Mindset](https://carpentries.github.io/instructor-training/09-mindset/)
-8\.  Take the “mindset self assessment” linked from the “What’s your Mindset?” activity. What do you think about this activity? How do you think different learners might respond to it? How might you address those responses?
+8\. How might the concepts taught in this lesson apply to the process of learning to becoming a better teacher?
 
-9\. How might the concepts taught in this lesson apply to a learner’s process of becoming a better teacher?
+9\. This lesson discusses praise. Have you ever received praise that was well-intended but felt insulting or demotivating or just inexplicably wrong? Why do you think that was?
 
