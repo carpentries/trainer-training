@@ -24,7 +24,7 @@ keypoints:
 #### [How Learning Works: Working Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/index.html)
 2\. This episode provides reasons why we go slowly and allow emphasize practice. However, instructors are often faced with the urge to go faster or cover more. How can we help instructors remember to keep it slow and resist the urge to “cover” more material?
 
-3\. The concept mapping example in this exercise is often difficult for Trainers and learners to navigate. Try your hand at either a) explaining this example in a more complete and accessible way or b) constructing an alternative example that has some relevance to our curriculum.
+3\. The concept mapping example in this exercise is often difficult for Trainers and learners to navigate. Can you construct an alternative example that is more accessible to novices but still has some relevance to our curriculum?
 
 4\. Non-programming learners who are taking Instructor Training are often directed to study the [OpenRefine lesson](https://datacarpentry.org/OpenRefine-ecology-lesson/). What could you direct these learners to do during the section on faded examples?
 
