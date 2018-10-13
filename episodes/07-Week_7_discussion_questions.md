@@ -28,10 +28,10 @@ keypoints:
 2\. The majority of this lesson consists of practice and feedback in various ways. Apart from those experiences, can you identify two key points that you would like to get across to learners during this lesson?
 
 #### [Building Teaching Skill: Lesson Study](https://carpentries.github.io/instructor-training/14-lesson-study/index.html)
-3\. This module addresses some new points and also some points that we began to discuss in previous lessons. How does the discussion of “challenge” exercises fit here in the context of lesson study? Does this (new, in parts) module meet its stated objectives?
+3\. This module addresses some new points and also some points that we began to discuss in previous lessons. How does the discussion of “challenge” exercises fit here in the context of lesson study? How could this lesson be improved?
 
 #### [Building Teaching Skill: Live Coding](https://carpentries.github.io/instructor-training/15-live/index.html)
-4\. How does the Carpentry practice of live coding relate to the discussion in this chapter of practice and feedback?
+4\. How does the Carpentry practice of live coding connect to things we have read in How Learning Works?
 
 #### [The Carpentries: Workshop Introductions](https://carpentries.github.io/instructor-training/19-introductions/index.html)
 5\. This section includes a LOT of things that can be included in a good introduction. It is probably a good idea to give our instructors some guidance on how to use this information, and where to begin. How would you distill this message in a recap or summary of this lesson? What are the most important elements to convey?
