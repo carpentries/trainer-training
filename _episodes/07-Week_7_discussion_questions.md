@@ -17,6 +17,7 @@ keypoints:
 [Building Teaching Skill: Lesson Study](https://carpentries.github.io/instructor-training/14-lesson-study/index.html)  
 [Building Teaching Skill: Live Coding](https://carpentries.github.io/instructor-training/15-live/index.html)  
 [Building Teaching Skill: Performance Revised](http://carpentries.github.io/instructor-training/17-performance/index.html)
+[The Carpentries: Workshop Introductions](https://carpentries.github.io/instructor-training/19-introductions/index.html)
 
 ## Hypothes.is: 
 1\. Please write at least one comment or reply to a comment on each module. Wherever possible, try to connect content to material covered in the book (page numbers are be great if you can find them!). Other comments might include questions, identification of key points, or thoughts on how learners might interpret (or misinterpret) certain content.
