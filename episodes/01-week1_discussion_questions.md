@@ -23,9 +23,9 @@ Preview: [Instructor Training Curriculum](http://carpentries.github.io/instructo
 ### _How Learning Works_: 
 #### Foreword
 
-2\. _How Learning Works_ is presented as a solution to the “too soft/too hard” problem. What experience have you had with sources that are too soft or too hard, particularly with regard to teaching?
+2\. What do you think about the distinction between "Science of learning" and "Science of instruction"? How do you expect these 'sciences' to intersect? Where might they be different?
     
-3\. Carpentries workshop materials are also meant to fall in the Goldilock’s zone between “too soft” and “too hard”. What would it look like if they were “too soft”? What if they were “too hard”?
+3\. _How Learning Works_ is presented as a solution to the “too soft/too hard” problem. What experience have you had with sources that are too soft or too hard? In education, programming, or other areas?
     
  
 #### About the Authors
@@ -35,7 +35,7 @@ Preview: [Instructor Training Curriculum](http://carpentries.github.io/instructo
 
 #### Introduction
 
-5\.  This book is organized around seven principles for teaching. Discuss an example of how you’ve seen one of these principles influence learners’ experience. If you can, try to think of an example from a Carpentries workshop.
+5\.  This book is organized around seven principles for teaching. Discuss an example of how you’ve seen one of these principles influence learners’ experience. If you have experience with Carpentries workshops, can you think of an example in that context?
     
 6\.  The authors state that these seven principles are “domain-independent”, “experience-independent” and “cross-culturally relevant”. As we work through the readings, we will be discussing how to apply these principles to *teaching about how to teach* (in an instructor training workshop) as well as *teaching computational skills* (in a Carpentries workshop). We'll even talk a bit about our process of *learning how to teach teaching* through our discussions! Do the 7 principles apply equally well to all of these 'layers' of instruction? Are there any important differences to keep in mind?
     
