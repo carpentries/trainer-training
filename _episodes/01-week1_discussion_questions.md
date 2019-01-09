@@ -42,9 +42,7 @@ Preview: [Instructor Training Curriculum](http://carpentries.github.io/instructo
 
 #### Chapter 1: How Does Students’ Prior Knowledge Affect Their Learning?
 
-7\.  Give an example of a time you were teaching and a learner’s prior knowledge negatively affected their learning. Was their knowledge inactive, insufficient, inappropriate or inaccurate?
-    
-8\.  Which of the strategies/methods discussed for addressing prior knowledge might be useful in a situation like this?
+7\.  Give an example of a time you were teaching and a learner’s prior knowledge negatively affected their learning. Was their knowledge inactive, insufficient, inappropriate or inaccurate? Would any of the strategies suggested in this chapter have applied well in this situation?
     
 
 
