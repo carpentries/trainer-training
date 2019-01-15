@@ -26,7 +26,7 @@ _How Learning Works_: Chapter 2, Appendix A, Appendix B, Chapter 3
 4\. Identify one thing that Carpentries instructors can do in a workshop to help learners organize their knowledge. Does your strategy align with any of the suggestions on p. 59-65? How easy would it be for a new instructor to employ this strategy?
 
 #### Appendix A
-5\. Have a look at the [pre-assessment survey](https://www.surveymonkey.com/r/instructor_training_pre_survey?workshop_id=[workshop_id_value]) for Instructor Training workshops. How might you use the responses of this survey? If you could ask one additional question, what would it be?
+5\. Have a look at the [pre-assessment survey](https://www.surveymonkey.com/r/Preview/?sm=pRLWB3SiycOkcDiF9r3UP5tGr2zOHWJy_2BRNgUdCAjNuIlHUEY1KC2IWSB2dl2tqg) for Instructor Training workshops. How might you use the responses of this survey? If you could ask one additional question, what would it be?
 
 #### Appendix B
 6\. **Please have some plain paper and a dark-colored marker handy during discussion in case we get to work on this question.** Draft a small concept map (3-5 items with labeled connections) that partially explains one of the following topics:
