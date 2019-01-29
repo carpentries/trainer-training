@@ -26,8 +26,8 @@ keypoints:
 4\. Use the chart on p. 246 to examine some learning objectives from Carpentries workshops (computational and/or instructor training). In what categories of Bloom's Taxonomy do these fall? Do they seem appropriate to the level of the learners? Do they seem sufficient, as workshop outcomes?
 
 #### Chapter 5: What Kinds of Practice and Feedback Enhance Learning?
-5\. This chapter discusses the importance of setting good opportunities for practice. How does this apply in a workshop setting? Look at one of the workshops you referenced for question 4 - does practice and feedback figure in to the way those objectives are met? What role does/can an instructor play in this regard? A helper?
+5\. This chapter discusses the importance of setting good opportunities for practice. How does this apply in a workshop setting? What role does/can an instructor play in this regard? A helper?
 
-6\. Feedback is an essential component of effective practice. How do learners in a computational workshop get feedback on their progress? How does that feedback meet (or not meet) the criteria for useful feedback outlined in this chapter? 
+6\. Feedback is an essential component of effective practice. In what ways do learners in a computational workshop get feedback on their progress? How does that feedback meet (or not) the criteria for *useful* feedback outlined in this chapter? 
 
 7\. How do you expect practice and feedback to contribute to your skill development as a Trainer? What will you need to do to facilitate this? What can the Carpentries do to support this?
