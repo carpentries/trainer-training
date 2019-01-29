@@ -1,13 +1,5 @@
 ---
 title: "Week 2 Discussion Questions"
-teaching: 0
-exercises: 0
-questions:
-- "Key question"
-objectives:
-- "First objective."
-keypoints:
-- "First key point."
 ---
 ## Reading
 _How Learning Works_: Chapter 2, Appendix A, Appendix B, Chapter 3
