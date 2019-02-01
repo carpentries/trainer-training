@@ -1,13 +1,5 @@
 ---	
-title: "Week 4 Discussion Questions"	
-teaching: 0	
-exercises: 0	
-questions:	
-- "Key question"	
-objectives:	
-- "First objective."	
-keypoints:	
-- "First key point."	
+title: "Week 4 Discussion Questions"		
 ---
 ## Reading
 _How Learning Works_ Chapter 6, Chapter 7
@@ -33,4 +25,4 @@ Try playing with this tool, and report back with any questions or problems. We w
 
 4\. Most of our learners have experience with metacognitive strategies, but may not automatically apply them to the content of our workshops (content or Instructor Training). Why do you think this is? How can we support our learners in transferring these skills appropriately? 
 
-5\. Try making a concept map that outlines ways in which metacognition is (or can be) supported during a workshop, referencing one or more of the strategies listed on p.203-215. Consider using marker if you're drawing on paper. Did you learn anything from this process?
+5\. **Please have some plain paper and a dark-colored marker handy during discussion in case we get to work on this question.** Try making a concept map that outlines ways in which metacognition is (or can be) supported during a workshop, referencing one or more of the strategies listed on p.203-215. What did you learn from this process?
