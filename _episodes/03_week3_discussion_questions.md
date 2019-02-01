@@ -1,13 +1,5 @@
 ---
 title: "Week 3 Discussion Questions"
-teaching: 0
-exercises: 0
-questions:
-- "Key question"
-objectives:
-- "First objective."
-keypoints:
-- "First key point."
 ---
 
 ## Reading
