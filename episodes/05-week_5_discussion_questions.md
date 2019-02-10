@@ -15,20 +15,23 @@ keypoints:
 [How Learning Works: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/)
 
 ## Hypothes.is: 
-1\. Please write at least one comment or reply to a comment on each module. Wherever possible, try to connect content to material covered in the book (page numbers are be great if you can find them!). Other comments might include questions, identification of key points, or thoughts on how learners might interpret (or misinterpret) certain content.
+1\. (Optional) Write comments, questions, or replies on the curriculum readings for today. Be sure you are using our private Hypothes.is group when you add your comments. 
 
 ### Instructor Training Curriculum
 ### [Welcome](https://carpentries.github.io/instructor-training/01-welcome/)
 
-2\. This module includes an activity for assessing your trainees' backgrounds. Are these questions useful?
-- If so, how might you use them to adjust your instruction in the subsequent modules?
-- If not, can you think of a (quick, multiple choice) alternative or additional question that you would like to ask?
+2\. This module includes an activity for assessing your trainees' backgrounds. 
+- How might you use them to adjust your instruction in the subsequent modules?
+- Can you think of a (quick, multiple choice) alternative or additional question that you would like to ask?
 
 #### [How Learning Works: The Importance of Practice](https://carpentries.github.io/instructor-training/02-practice-learning/) 
 
 3\. It can be useful to prepare personal examples for some topics. Identify one thing each that you’re a novice for, a competent practitioner for and an expert at. How would you explain the way you have categorized these skills?
 
-4\. Try creating a concept map that in some way addresses both skill acquisition and mental models. Would formative assessment fit naturally on your map as well? Add that too if it doesn't make it too cluttered to share!
+4\. Try creating a concept map that relates the following 3 concepts: 
+- skill acquisition
+- mental models
+- formative assessment
     
 5\. We introduce skill acquisition in this module, but really dig into expertise in the next. What is the purpose of introducing skill acquisition here? What should be emphasized here, vs in the next section?
     
