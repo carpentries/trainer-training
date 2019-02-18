@@ -11,9 +11,10 @@ keypoints:
 ---
 ## Reading:
 [Welcome](https://carpentries.github.io/instructor-training/01-welcome/)  
-[Instructor Training: Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning/) [Instructor Training: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/)
-[Instructor Notes](https://carpentries.github.io/instructor-training/guide/index.html) 
-[Etherpad Template](http://pad.software-carpentry.org/ttt-template)
+[Instructor Training: Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning/)  
+[Instructor Training: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/)  
+[Instructor Notes](https://carpentries.github.io/instructor-training/guide/index.html)   
+[Etherpad Template](http://pad.software-carpentry.org/ttt-template)  
 
 ## Hypothes.is: 
 1\. (Optional) Write comments, questions, or replies on the curriculum readings for today. Be sure you are using our private Hypothes.is group when you add your comments. 
