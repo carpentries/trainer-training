@@ -1,18 +1,19 @@
----	
-title: "Week 5 Discussion Questions"	
-teaching: 0	
-exercises: 0	
-questions:	
-- "Key question"	
-objectives:	
-- "First objective."	
-keypoints:	
-- "First key point."	
+--- 
+title: "Week 5 Discussion Questions"    
+teaching: 0 
+exercises: 0    
+questions:  
+- "Key question"    
+objectives: 
+- "First objective."    
+keypoints:  
+- "First key point."    
 ---
 ## Reading:
 [Welcome](https://carpentries.github.io/instructor-training/01-welcome/)  
-[How Learning Works: The Importance of Practice](https://carpentries.github.io/instructor-training/02-practice-learning/)  
-[How Learning Works: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/)
+[Instructor Training: Building Skill With Practice
+](https://carpentries.github.io/instructor-training/02-practice-learning/)  
+[Instructor Training: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/)
 
 ## Hypothes.is: 
 1\. (Optional) Write comments, questions, or replies on the curriculum readings for today. Be sure you are using our private Hypothes.is group when you add your comments. 
@@ -29,7 +30,7 @@ keypoints:
 
 #### [How Learning Works: The Importance of Practice](https://carpentries.github.io/instructor-training/02-practice-learning/) 
 
-4\. It can be useful to prepare personal examples for some topics. Identify one thing each that you’re a novice for, a competent practitioner for and an expert at. How would you explain the way you have categorized these skills?
+4\. It can be useful to prepare personal examples for some topics. Identify one thing each that you're a novice for, a competent practitioner for and an expert at. How would you explain the way you have categorized these skills?
 
 5\. Try creating a concept map that relates the following 3 concepts: 
 - skill acquisition
