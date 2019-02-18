@@ -1,23 +1,23 @@
----	
-title: "Week 7 Discussion Questions"	
-teaching: 0	
-exercises: 0	
-questions:	
-- "Key question"	
-objectives:	
-- "First objective."	
-keypoints:	
-- "First key point."	
+--- 
+title: "Week 7 Discussion Questions"    
+teaching: 0 
+exercises: 0    
+questions:  
+- "Key question"    
+objectives: 
+- "First objective."    
+keypoints:  
+- "First key point."    
 ---
 
 ## Reading
-[Building Teaching Skill: The Importance of Practice](https://carpentries.github.io/instructor-training/11-practice-teaching/index.html)  
-[Wrap-up and Homework](https://carpentries.github.io/instructor-training/12-homework/index.html)  
-[Welcome Back](http://carpentries.github.io/instructor-training/13-second-welcome/index.html)   
-[Building Teaching Skill: Lesson Study](https://carpentries.github.io/instructor-training/14-lesson-study/index.html)  
-[Building Teaching Skill: Live Coding](https://carpentries.github.io/instructor-training/15-live/index.html)  
-[Building Teaching Skill: Performance Revised](http://carpentries.github.io/instructor-training/17-performance/index.html)
-[The Carpentries: Workshop Introductions](https://carpentries.github.io/instructor-training/19-introductions/index.html)
+[Instructor Training: Teaching is a Skill](https://carpentries.github.io/instructor-training/11-practice-teaching/index.html)  
+[Instructor Training: Wrap-up and Homework](https://carpentries.github.io/instructor-training/12-homework/index.html)  
+[Instructor Training: Welcome Back](http://carpentries.github.io/instructor-training/13-second-welcome/index.html)   
+[Instructor Training: Live Coding is a Skill](https://carpentries.github.io/instructor-training/14-live/index.html)  
+[Instructor Training: Preaparing to Teach](https://carpentries.github.io/instructor-training/15-lesson-study/index.html)  
+[Instructor Training: More Practice Live Coding](http://carpentries.github.io/instructor-training/17-performance/index.html)
+[Instructor Training: Managing a Diverse Classroom](https://carpentries.github.io/instructor-training/18-management/index.html)
 
 ## Hypothes.is: 
 1\. Please write at least one comment or reply to a comment on each module. Wherever possible, try to connect content to material covered in the book (page numbers are be great if you can find them!). Other comments might include questions, identification of key points, or thoughts on how learners might interpret (or misinterpret) certain content.
@@ -29,7 +29,7 @@ keypoints:
 2\. The majority of this lesson consists of practice and feedback in various ways. Apart from those experiences, can you identify two key points that you would like to get across to learners during this lesson?
 
 #### [Building Teaching Skill: Lesson Study](https://carpentries.github.io/instructor-training/14-lesson-study/index.html)
-3\. This module addresses some new points and also some points that we began to discuss in previous lessons. How does the discussion of “challenge” exercises fit here in the context of lesson study? How could this lesson be improved?
+3\. This module addresses some new points and also some points that we began to discuss in previous lessons. How does the discussion of "challenge" exercises fit here in the context of lesson study? How could this lesson be improved?
 
 #### [Building Teaching Skill: Live Coding](https://carpentries.github.io/instructor-training/15-live/index.html)
 4\. How does the Carpentry practice of live coding connect to things we have read in How Learning Works?
