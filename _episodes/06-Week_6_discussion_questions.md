@@ -30,16 +30,16 @@ keypoints:
 
 #### [Building Skill With Feedback](https://carpentries.github.io/instructor-training/06-feedback/index.html)
 
-6\. We generally do a good job of modeling the collection of feedback in an instructor training workshop. How can we also model good *use* of feedback in this context?
+5\. We generally do a good job of modeling the collection of feedback in an instructor training workshop. How can we also model good *use* of feedback in this context?
 
 #### [Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/index.html)
 
-7\. Avoiding demotivating learners is at least as important as motivating them, but there are lots of things an instructor could do to accidentally demotivate learners. What strategies can we give our instructors for recovering from these slip-ups?
+6\. Avoiding demotivating learners is at least as important as motivating them, but there are lots of things an instructor could do to accidentally demotivate learners. What strategies can we give our instructors for recovering from these slip-ups?
 
-8\. This section is currently too long, and you will likely need to skip the section on "stereotype threat." How would you summarize the main point of this section for your learners before moving on?
+7\. This section is currently too long, and you will likely need to skip the section on "stereotype threat." How would you summarize the main point of this section for your learners before moving on?
 
 
 #### [Mindset](https://carpentries.github.io/instructor-training/09-mindset/index.html)
-9\. How might the concepts taught in this lesson apply to the process of learning to becoming a better teacher?
+8\. How might the concepts taught in this lesson apply to the process of learning to becoming a better teacher?
 
 
