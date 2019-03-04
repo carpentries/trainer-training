@@ -32,5 +32,5 @@ exercises: 0
 #### [Managing a Diverse Classroom](https://carpentries.github.io/instructor-training/18-management/index.html)
 5\. Most people never feel fully confident about their ability to manage a potential Code of Conduct violation. It is important that instructors have at least enough confidence in our process that they feel empowered to act and report if an incident occurs. Helping learners to gain this confidence begins with building on your own! How confident do you feel that *you* could manage an incident at a workshop? What questions do you have? What fears or doubts? 
 
-#### [Workshop Introductions](https://carpentries.github.io/instructor-training/19-introductions/index.html)
+#### [Workshop Introductions](https://carpentries.github.io/instructor-training/23-introductions/index.html)
 6\. This section includes a LOT of things that can be included in a good introduction. It is probably a good idea to give our instructors some guidance on where to begin. How would you distill this message in a recap or summary of this lesson? What are the most important elements to convey?
