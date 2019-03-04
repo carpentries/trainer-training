@@ -10,9 +10,9 @@ exercises: 0
 [Instructor Training: Welcome Back](http://carpentries.github.io/instructor-training/13-second-welcome/index.html)   
 [Instructor Training: Live Coding is a Skill](https://carpentries.github.io/instructor-training/14-live/index.html)  
 [Instructor Training: Preaparing to Teach](https://carpentries.github.io/instructor-training/15-lesson-study/index.html)  
-[Instructor Training: More Practice Live Coding](http://carpentries.github.io/instructor-training/17-performance/index.html)
-[Instructor Training: Managing a Diverse Classroom](https://carpentries.github.io/instructor-training/18-management/index.html)
-[Instructor Training: Workshop Introductions](https://carpentries.github.io/instructor-training/23-introductions/index.html)
+[Instructor Training: More Practice Live Coding](http://carpentries.github.io/instructor-training/17-performance/index.html)  
+[Instructor Training: Managing a Diverse Classroom](https://carpentries.github.io/instructor-training/18-management/index.html)  
+[Instructor Training: Workshop Introductions](https://carpentries.github.io/instructor-training/23-introductions/index.html)  
 
 ## Hypothes.is: 
 1\. (Optional) Please write at least one comment or reply to a comment on each module. Wherever possible, try to connect content to material covered in the book (page numbers are be great if you can find them!). Other comments might include questions, identification of key points, or thoughts on how learners might interpret (or misinterpret) certain content.
