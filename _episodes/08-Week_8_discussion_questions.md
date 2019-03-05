@@ -4,9 +4,6 @@ teaching: 0
 exercises: 0        
 ---
 
-## Hypothes.is:
-1\. (OPTIONAL) Please add comments/replies to curriculum modules.
-
 ## Reading:
 _How Learning Works_: Conclusion  
 [Instructor Training: Checkout Process](https://carpentries.github.io/instructor-training/20-checkout/index.html)  
@@ -16,6 +13,8 @@ _How Learning Works_: Conclusion
 [Pre-Workshop Reading: The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)  
 Review [Trainer Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html)
 
+## Hypothes.is:
+1\. (OPTIONAL) Please add comments/replies to curriculum modules.
 
 ## Discussion Questions
 
