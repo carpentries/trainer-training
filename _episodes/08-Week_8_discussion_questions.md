@@ -4,8 +4,6 @@ teaching: 0
 exercises: 0        
 ---
 
-# Trainer Training Book Club Week 8
-
 ## Hypothes.is:
 1\. (OPTIONAL) Please add comments/replies to curriculum modules.
 
