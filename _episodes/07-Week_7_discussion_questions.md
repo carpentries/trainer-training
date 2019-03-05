@@ -4,7 +4,7 @@ teaching: 0
 exercises: 0      
 ---
 
-## Reading
+## Reading:
 [Instructor Training: Teaching is a Skill](https://carpentries.github.io/instructor-training/11-practice-teaching/index.html)  
 [Instructor Training: Wrap-up and Homework](https://carpentries.github.io/instructor-training/12-homework/index.html)  
 [Instructor Training: Welcome Back](http://carpentries.github.io/instructor-training/13-second-welcome/index.html)   
