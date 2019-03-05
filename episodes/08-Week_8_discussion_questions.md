@@ -9,8 +9,8 @@ _How Learning Works_: Conclusion
 [Instructor Training: Checkout Process](https://carpentries.github.io/instructor-training/20-checkout/index.html)  
 [Instructor Training: The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/21-carpentries/index.html)  
 [Instructor Training: Putting It Together](https://carpentries.github.io/instructor-training/24-practices/index.html)  
-[The Carpentries Handbook: Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html)  
 [Pre-Workshop Reading: The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)  
+Examine [The Carpentries Handbook: Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html)  
 Review [Trainer Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html)
 
 ## Hypothes.is:
