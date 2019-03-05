@@ -28,13 +28,17 @@ Review [Trainer Guide](https://docs.carpentries.org/topic_folders/instructor_tra
 
 ### Instructor Training Curriculum
 
+#### [Checkout Process](https://carpentries.github.io/instructor-training/20-checkout/index.html) 
+
+4\. Instructor checkout can be intimidating and confusing. We're working to improve that! In the mean time, what can a trainer do to help encourage instructors to complete the checkout process?
+
 #### [The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/21-carpentries/index.html)
 
-4\. Do you have any questions about policies and procedures for running a workshop? What do you think might be unclear to instructors reading these materials?
+5\. Do you have any questions about policies and procedures for running a workshop? What do you think might be unclear to instructors reading these materials?
 
 #### [Putting It Together](https://carpentries.github.io/instructor-training/24-practices/index.html) 
 
-5\. Try the "Organize your knowledge" activity! Report back: what did you learn?
+6\. Try the "Organize your knowledge" activity! Report back: what did you learn?
 
 
 
