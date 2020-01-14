@@ -31,11 +31,6 @@ Preview: [Instructor Training Curriculum](http://carpentries.github.io/instructo
 5\.  This book is organized around seven principles for teaching. Discuss an example of how you’ve seen one of these principles influence learners’ experience. If you have experience with Carpentries workshops, can you think of an example in that context?
     
 6\.  The authors state that these seven principles are “domain-independent”, “experience-independent” and “cross-culturally relevant”. As we work through the readings, we will be discussing how to apply these principles to *teaching about how to teach* (in an instructor training workshop) as well as *teaching computational skills* (in a Carpentries workshop). We'll even talk a bit about our process of *learning how to teach teaching* through our discussions! Do the 7 principles apply equally well to all of these 'layers' of instruction? Are there any important differences to keep in mind?
-    
 
-#### Chapter 1: How Does Students’ Prior Knowledge Affect Their Learning?
-
-7\.  Give an example of a time you were teaching and a learner’s prior knowledge negatively affected their learning. Was their knowledge inactive, insufficient, inappropriate or inaccurate? Would any of the strategies suggested in this chapter have applied well in this situation?
-    
 
 
