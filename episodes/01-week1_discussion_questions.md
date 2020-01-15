@@ -8,9 +8,11 @@ title: "Week 1 Discussion Questions"
 - Foreword
 - About the Authors
 - Introduction 
+
 Carpentries readings: 
 - [Trainer Agreement](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html)
 - [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+
 Preview to get a sense for what is contained in these lengthier references:
 - [Instructor Training Curriculum](http://carpentries.github.io/instructor-training/)
 - [GitHub repository](https://github.com/carpentries/instructor-training) for the Instructor Training Curriculum (check out the "issues" tab in particular)
