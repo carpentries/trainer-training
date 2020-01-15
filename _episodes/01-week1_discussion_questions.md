@@ -26,7 +26,7 @@ training, we assume some background in educational settings and/or experience te
 workshops. Trainees without background in either should expect to invest additional effort and potentially seek support and 
 mentorship from the Trainer community as they get started.
 
-In addition to attending weekly meetings, there are two additional requirements for Trainer certification. These are:
+In addition to attending weekly meetings, there are additional requirements for Trainer certification. These are:
 - Observe a teaching demonstration session
 - Observe (with option to participate) 4 hours of an Instructor Training workshop (if previously attended as a learner)
 - Non-certified Instructors should also complete Instructor certification concurrently
@@ -42,8 +42,8 @@ found on the [Community Calendar](https://carpentries.org/community/#community-e
 
 Trainers also communicate asynchronously via Topicbox listserv, Slack, and GitHub. New trainees will be 
 invited to join the Topicbox list early in their training, and will be added to the Trainers Slack channel once they have 
-completed certification if they have registered with the [Carpentries Slack community](https://swc-slack-invite.herokuapp.com/). Communications on the GitHub repository can be received by "following" the repository at any time. 
-We also suggest joining the Carpentries (Discuss listserv)[http://carpentries.topicbox.com/groups/discuss] on Topicbox for 
+completed certification if they have registered with The [Carpentries Slack community](https://swc-slack-invite.herokuapp.com/). Communications on the GitHub repository can be received by "following" the repository at any time. 
+We also suggest joining The [Carpentries Discuss listserv](https://carpentries.topicbox.com/groups/discuss) on Topicbox for 
 anyone who has not done so already.
 
 ## Trainers Leadership
