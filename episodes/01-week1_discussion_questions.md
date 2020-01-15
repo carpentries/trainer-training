@@ -4,9 +4,17 @@ title: "Week 1 Discussion Questions"
 ---
 
 ## Reading
-_How Learning Works_: Foreword, About the Authors, Introduction, Chapter 1.  
-Carpentries readings: [Trainer Agreement](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html), [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) and skim through the [Trainers Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html).  
-Preview: [Instructor Training Curriculum](http://carpentries.github.io/instructor-training/) and its [GitHub repository](https://github.com/carpentries/instructor-training)
+[_How Learning Works_](http://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206): 
+- Foreword
+- About the Authors
+- Introduction 
+Carpentries readings: 
+- [Trainer Agreement](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html)
+- [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+Preview to get a sense for what is contained in these lengthier references:
+- [Instructor Training Curriculum](http://carpentries.github.io/instructor-training/)
+- [GitHub repository](https://github.com/carpentries/instructor-training) for the Instructor Training Curriculum (check out the "issues" tab in particular)
+- [Trainers Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html)
 
 ## Discussion Questions
 ### Carpentries Readings & Previews
