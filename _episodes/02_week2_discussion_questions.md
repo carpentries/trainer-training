@@ -11,6 +11,11 @@ _How Learning Works_: Chapter 2, Appendix A, Appendix B, Chapter 3
 ### _How Learning Works_
 2\. Review: What prior knowledge do you bring to bear for this training? Think of one thing you have learned about teaching through your own experience that you think is important or valuable. In what areas do you hope to expand your knowledge as an Instructor Trainer?
 
+#### Chapter 1: How Does Students’ Prior Knowledge Affect Their Learning?
+
+7\.  Give an example of a time you were teaching and a learner’s prior knowledge negatively affected their learning. Was their knowledge inactive, insufficient, inappropriate or inaccurate? Would any of the strategies suggested in this chapter have applied well in this situation?
+    
+
 #### Chapter 2: How Does the Way Students Organize Knowledge Affect Their Learning
 
 3\. Examine Figure 2.2 on p.50. How do these diagrams relate to knowledge or learner mental models that you are familiar with? Which do you think best represents a learner who has just taken a Carpentries workshop? 
