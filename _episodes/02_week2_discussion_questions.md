@@ -6,7 +6,10 @@ _How Learning Works_: Chapter 2, Appendix A, Appendix B, Chapter 3
 
 ## Discussion Questions
 
-1\. What stood out to you from this week’s reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have. 
+1\. What stood out to you from this week’s reading? This might be key points, things that made sense in light of your own experience, things you're not convinced of, or questions that you have from each chapter.
+- Chapter 1
+- Chapter 2
+- Chapter 3
 
 ### _How Learning Works_
 
