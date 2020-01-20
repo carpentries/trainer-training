@@ -2,7 +2,10 @@
 title: "Week 2 Discussion Questions"
 ---
 ## Reading
-_How Learning Works_: Chapter 2, Appendix A, Appendix B, Chapter 3
+_How Learning Works_: 
+- Chapter 1 + Appendix A
+- Chapter 2 + Appendix B
+- Chapter 3
 
 ## Discussion Questions
 
