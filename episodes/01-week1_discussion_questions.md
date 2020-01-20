@@ -29,12 +29,14 @@ experience teaching Carpentries-style workshops. Trainees who are new to both sh
 readings. All trainees, and particularly those new to the community, are encouraged to seek continuing support and mentorship from the 
 Trainer community after completing this training.
 
-In addition to attending weekly meetings, there are additional requirements for Trainer certification. These are:
-- Observe a teaching demonstration session
-- Observe (with option to participate) 4 hours of an Instructor Training workshop 
-- Trainees who are not certified Carpentries Instructors should complete Instructor certification concurrently. This 
-includes attending a full Instructor Training workshop as a learner if not yet attended. Attending a workshop or demo within 
-the training time frame can fulfill the above requirements for observation if requested. 
+> ## Trainer Checkout
+> In addition to attending weekly meetings, there are additional requirements for Trainer certification. These are:
+> - Observe a teaching demonstration session
+> - Observe (with option to participate) 4 hours of an Instructor Training workshop 
+> - Trainees who are not certified Carpentries Instructors should complete Instructor certification concurrently. This 
+> includes attending a full Instructor Training workshop as a learner if not yet attended. Attending a workshop or demo within 
+> the training time frame can fulfill the above requirements for observation if requested. 
+{: .discussion}
 
 Each week, we will discuss assigned readings. Discussion questions are provided to offer a framework for conversation; 
 however, we will always begin with trainee perspectives and interests, and discussion may digress substantially from the 
