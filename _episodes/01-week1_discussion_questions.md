@@ -103,7 +103,10 @@ to work through during our next update. Consider joining Trainer meetings now!
 
 5\.  This book is organized around seven principles for teaching. Discuss an example of how you’ve seen one of these principles influence learners’ experience. If you have experience with Carpentries workshops, can you think of an example in that context?
     
-6\.  The authors state that these seven principles are “domain-independent”, “experience-independent” and “cross-culturally relevant”. As we work through the readings, we will be discussing how to apply these principles to *teaching about how to teach* (in an instructor training workshop) as well as *teaching computational skills* (in a Carpentries workshop). We'll even talk a bit about our process of *learning how to teach teaching* through our discussions! Do the 7 principles apply equally well to all of these 'layers' of instruction? Are there any important differences to keep in mind?
+6\.  The authors state that these seven principles are “domain-independent”, “experience-independent” and “cross-culturally relevant”. As we work through the readings, we will be discussing how to apply these principles to *teaching about how to teach* (in an instructor training workshop) as well as *teaching technical skills* (in a Carpentries workshop). We'll even talk a bit about our process of *learning how to teach teaching* through our discussions! Do the 7 principles apply equally well to all of these 'layers' of instruction? Are there any important differences to keep in mind?
+
+
+![Layers of Carpentries Instruction](../fig/Labeled_InstructorTrainers.svg)
 
 
 
