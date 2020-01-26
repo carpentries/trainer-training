@@ -49,7 +49,7 @@ by this figure?
 
 8\. Do you think learners at Carpentries technical workshops will have primarily learning goals or performance goals? How about at Instructor Training workshops?
 
-9\. This chapte offers a number of strategies for establishing value and building positive expectancies (p.83-89). Which are most relevant to Carpentries workshops? Are any of them **not** relevant in this setting? Why or why not?
+9\. This chapter offers a number of strategies for establishing value and building positive expectancies (p.83-89). Which are most relevant to Carpentries workshops? Are any of them **not** relevant in this setting? Why or why not?
 
 
 
