@@ -17,7 +17,7 @@ keypoints:
 [Etherpad Template](http://pad.software-carpentry.org/ttt-template)  
 
 ## Hypothes.is: 
-1\. (Optional) Write comments, questions, or replies on the curriculum readings for today. Be sure you are using our private Hypothes.is group when you add your comments. 
+1\. Write comments, questions, or replies on the curriculum readings for today. Be sure you are using our private Hypothes.is group when you add your comments. 
 
 ### Instructor Training Curriculum
 
