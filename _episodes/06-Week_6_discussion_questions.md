@@ -9,37 +9,39 @@ objectives:
 keypoints:  
 - "First key point."    
 ---
-## Reading: 
-[Instructor Training: Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/index.html)  
+## Reading:  
 [Instructor Training: Building Skill With Feedback](https://carpentries.github.io/instructor-training/06-feedback/index.html)  
 [Instructor Training: Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/index.html)  
 [Instructor Training: Mindset](https://carpentries.github.io/instructor-training/09-mindset/index.html)
+[Instructor Training: Teaching is a Skill](https://carpentries.github.io/instructor-training/11-practice-teaching/index.html)  
+[Instructor Training: Wrap-up and Homework](https://carpentries.github.io/instructor-training/12-homework/index.html)  
+[Instructor Training: Welcome Back](http://carpentries.github.io/instructor-training/13-second-welcome/index.html)   
+[Instructor Training: Live Coding is a Skill](https://carpentries.github.io/instructor-training/14-live/index.html) 
+
 
 ## Hypothes.is: 
-1\. (Optional) Please write at least one comment or reply to a comment on each module. Wherever possible, try to connect content to material covered in the book (page numbers are be great if you can find them!). Other comments might include questions, identification of key points, or thoughts on how learners might interpret (or misinterpret) certain content.
+1\. Please write comments, questions, or replies on the curriculum readings for today. Be sure you are using our private Hypothes.is group when you add your comments.
 
 ## Discussion Questions
 
 ### Instructor Training Curriculum
-#### [Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/index.html)
-2\. This episode provides reasons why we go slowly and allow time for practice. However, instructors are often faced with the urge to go faster or 'get through' everything. How can we help instructors remember to keep it slow and resist the urge to solve timing problems by talking faster?
-
-3\. The concept mapping example has been criticized for inducing extraneous cognitive load. Can you construct an alternative example that is more accessible to novices? Bonus points if it still has some relevance to our curriculum!
-
-4\. Non-programming learners who are taking Instructor Training are often directed to study the [OpenRefine lesson](https://datacarpentry.org/OpenRefine-ecology-lesson/). What could you direct these learners to do during the section on faded examples?
+2\. What stands out or interests you from this week’s reading? You may type your own response but also feel free to paste a snippet from the curriculum itself or from any of the comments/questions/replies in Hypothes.is.
 
 #### [Building Skill With Feedback](https://carpentries.github.io/instructor-training/06-feedback/index.html)
-
-5\. We generally do a good job of modeling the collection of feedback in an instructor training workshop. How can we also model good *use* of feedback in this context?
+3\. We generally do a good job of modeling the collection of feedback in an instructor training workshop. How can we also model good *use* of feedback in this context?
 
 #### [Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/index.html)
-
-6\. Avoiding demotivating learners is at least as important as motivating them, but there are lots of things an instructor could do to accidentally demotivate learners. What strategies can we give our instructors for recovering from these slip-ups?
-
-7\. This section is currently too long, and you will likely need to skip the section on "stereotype threat." How would you summarize the main point of this section for your learners before moving on?
-
+4\. Avoiding demotivating learners is at least as important as motivating them, but there are many demotivating "traps" an 
+instructor can fall into even when they're aware of the problem. What strategies can we give our instructors for recovering 
+from these slip-ups?
 
 #### [Mindset](https://carpentries.github.io/instructor-training/09-mindset/index.html)
-8\. How might the concepts taught in this lesson apply to the process of learning to becoming a better teacher?
+5\. How might the concepts taught in this lesson apply to the process of learning to becoming a better teacher?
+
+#### [Teaching is a Skill](https://carpentries.github.io/instructor-training/11-practice-teaching/index.html)
+6\. This lesson is mostly practice and feedback. What instructional strategies do you think will help them to get the most out of this experience?
+
+#### [Live Coding is a Skill](https://carpentries.github.io/instructor-training/15-live/index.html)
+7\. How does practice of participatory live coding relate to concepts we have learned about cognition, memory, and motivation?
 
 
