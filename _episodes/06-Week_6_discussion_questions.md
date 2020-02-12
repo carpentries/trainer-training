@@ -12,7 +12,7 @@ keypoints:
 ## Reading:  
 [Instructor Training: Building Skill With Feedback](https://carpentries.github.io/instructor-training/06-feedback/index.html)  
 [Instructor Training: Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/index.html)  
-[Instructor Training: Mindset](https://carpentries.github.io/instructor-training/09-mindset/index.html)
+[Instructor Training: Mindset](https://carpentries.github.io/instructor-training/09-mindset/index.html)  
 [Instructor Training: Teaching is a Skill](https://carpentries.github.io/instructor-training/11-practice-teaching/index.html)  
 [Instructor Training: Wrap-up and Homework](https://carpentries.github.io/instructor-training/12-homework/index.html)  
 [Instructor Training: Welcome Back](http://carpentries.github.io/instructor-training/13-second-welcome/index.html)   
