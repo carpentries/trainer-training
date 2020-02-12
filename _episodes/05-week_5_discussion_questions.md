@@ -11,9 +11,9 @@ keypoints:
 ---
 ## Reading:
 [Welcome](https://carpentries.github.io/instructor-training/01-welcome/)  
-[Instructor Training: Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning/) 
-[Instructor Training: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/)
-[Instructor Training: Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/index.html) 
+[Instructor Training: Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning/)   
+[Instructor Training: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/)  
+[Instructor Training: Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/index.html)  
 [Instructor Notes](https://carpentries.github.io/instructor-training/guide/index.html)   
 [Etherpad Template](http://pad.software-carpentry.org/ttt-template)  
 
@@ -21,15 +21,12 @@ keypoints:
 1\. Please write comments, questions, or replies on the curriculum readings for today. Be sure you are using our private Hypothes.is group when you add your comments. 
 
 ### Instructor Training Curriculum
-
 2\. What stands out or interests you from this week's reading? You may type your own response but also feel free to paste a snippet from the curriculum itself or from any of the comments/questions/replies in Hypothes.is. 
 
 ### [Welcome](https://carpentries.github.io/instructor-training/01-welcome/)
-
 3\. This module includes an activity for assessing your trainees' backgrounds. How might you use this information?
 
 #### [How Learning Works: The Importance of Practice](https://carpentries.github.io/instructor-training/02-practice-learning/) 
-
 4\. Try creating a concept map that relates the following 3 concepts: 
 - skill acquisition
 - mental models
