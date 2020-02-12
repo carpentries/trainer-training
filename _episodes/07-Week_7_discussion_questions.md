@@ -7,7 +7,8 @@ exercises: 0
 ## Reading:
  
 [Instructor Training: Preaparing to Teach](https://carpentries.github.io/instructor-training/15-lesson-study/index.html)  
-[Instructor Training: More Practice Live Coding](http://carpentries.github.io/instructor-training/17-performance/index.html) 
+[Instructor Training: More Practice Live Coding](http://carpentries.github.io/instructor-training/17-performance/index.html)
+
 [Instructor Training: Managing a Diverse Classroom](https://carpentries.github.io/instructor-training/18-management/index.html)  
 [Instructor Training: Checkout Process](https://carpentries.github.io/instructor-training/20-checkout/index.html)  
 
