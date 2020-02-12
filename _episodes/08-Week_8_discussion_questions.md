@@ -7,7 +7,7 @@ exercises: 0
 ## Reading:
  
 [Instructor Training: The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/21-carpentries/index.html)  
-[Instructor Training: Workshop Introductions](https://carpentries.github.io/instructor-training/23-introductions/index.html) 
+[Instructor Training: Workshop Introductions](https://carpentries.github.io/instructor-training/23-introductions/index.html)  
 [Instructor Training: Putting It Together](https://carpentries.github.io/instructor-training/24-practices/index.html)  
 [Pre-Workshop Reading: The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)  
 Examine [The Carpentries Handbook: Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html)  
