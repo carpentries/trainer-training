@@ -10,9 +10,9 @@ keypoints:
 - "First key point."    
 ---
 ## Reading:
-[Welcome](https://carpentries.github.io/instructor-training/01-welcome/)  
-[Instructor Training: Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning/)   
-[Instructor Training: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/)  
+[Welcome](https://carpentries.github.io/instructor-training/01-welcome/index.html)  
+[Instructor Training: Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning/index.html)   
+[Instructor Training: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/index.html)  
 [Instructor Training: Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/index.html)  
 [Instructor Notes](https://carpentries.github.io/instructor-training/guide/index.html)   
 [Etherpad Template](http://pad.software-carpentry.org/ttt-template)  
