@@ -9,40 +9,29 @@ objectives:
 keypoints:  
 - "First key point."    
 ---
-## Reading:
-[Welcome](https://carpentries.github.io/instructor-training/01-welcome/index.html)  
-[Instructor Training: Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning/index.html)   
-[Instructor Training: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/index.html)  
-[Instructor Training: Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/index.html)  
-[Instructor Notes](https://carpentries.github.io/instructor-training/guide/index.html)   
-[Etherpad Template](http://pad.software-carpentry.org/ttt-template)  
+## Reading
+_How Learning Works_ Chapter 6, Chapter 7
+### Introduction to Hypothes.is
+Please visit [https://web.hypothes.is/](https://web.hypothes.is/)
 
-## Hypothes.is: 
-1\. Please write comments, questions, or replies on the curriculum readings for today. Be sure you are using our private Hypothes.is group when you add your comments. 
+Try playing with this tool, and report back with any questions or problems. We will begin using it next week.
 
-### Instructor Training Curriculum
-2\. What stands out or interests you from this week's reading? You may type your own response but also feel free to paste a snippet from the curriculum itself or from any of the comments/questions/replies in Hypothes.is. 
+## Discussion Questions
 
-### [Welcome](https://carpentries.github.io/instructor-training/01-welcome/)
-3\. This module includes an activity for assessing your trainees' backgrounds. How might you use this information?
+1\. What stood out to you from this week's reading?
 
-#### [How Learning Works: The Importance of Practice](https://carpentries.github.io/instructor-training/02-practice-learning/) 
-4\. Try creating a concept map that relates the following 3 concepts: 
-- skill acquisition
-- mental models
-- formative assessment
-    
-5\. We introduce skill acquisition in this module, but really dig into expertise in the next. What is the purpose of introducing skill acquisition here? What should be emphasized here, vs in the next section?
-    
-#### [How Learning Works: Expertise and Instruction](https://carpentries.github.io/instructor-training/03-expertise/)
-6\. Dismissive language can occur as a result of negligence, but it can also happen as a result of good intentions.
-Trainees are often surprised to be told that telling learners that a task is "easy" is dismissive.
-How would you help someone who wants to convey to learners that a task is *achievable* to find a way to convey that message in a more motivating way?
+### _How Learning Works_
+#### Chapter 6: Why do Student Development and Course Climate Matter for Learning?
+2\. While this chapter views "culture" through a developmental lens, most of the topics covered here also relate to adults. How might these factors relate to:
+* the Code of Conduct
+* Motivation (try to be specific!)
+* Cognition & memory
 
-#### [Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/index.html)
-7\. This episode explains why we should teach slowly and allow time for practice. However, many of our curricula contain 
-more content than can sometimes be covered in our '2-day' format. How can we help our trainees remember to keep it slow and 
-resist the urge to 'get through' everything by talking faster?
+3\. Which of the strategies suggested on pages 180-186 are most applicable to Carpentries workshops? In what ways might new instructors need support or guidance in implementing these?
 
+#### Chapter 7: How do Students Become Self-directed Learners?
 
+4\. Most of our learners have experience with metacognitive strategies, but may not automatically apply them to the content of our workshops (content or Instructor Training). Why do you think this is? How can we support our learners in transferring these skills appropriately? 
+
+5\. **Please have some plain paper and a dark-colored marker handy during discussion in case we get to work on this question.** Try making a concept map that outlines ways in which metacognition is (or can be) supported during a workshop, referencing one or more of the strategies listed on p.203-215. What did you learn from this process?
 
