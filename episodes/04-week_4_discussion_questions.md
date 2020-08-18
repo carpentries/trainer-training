@@ -2,27 +2,18 @@
 title: "Week 4 Discussion Questions"		
 ---
 ## Reading
-_How Learning Works_ Chapter 6, Chapter 7
-### Introduction to Hypothes.is
-Please visit [https://web.hypothes.is/](https://web.hypothes.is/)
-
-Try playing with this tool, and report back with any questions or problems. We will begin using it next week.
+*How Learning Works*: 
+- Chapter 5
 
 ## Discussion Questions
-
-1\. What stood out to you from this week's reading?
+1\. What stood out to you from this week’s reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
 
 ### _How Learning Works_
-#### Chapter 6: Why do Student Development and Course Climate Matter for Learning?
-2\. While this chapter views "culture" through a developmental lens, most of the topics covered here also relate to adults. How might these factors relate to:
-* the Code of Conduct
-* Motivation (try to be specific!)
-* Cognition & memory
 
-3\. Which of the strategies suggested on pages 180-186 are most applicable to Carpentries workshops? In what ways might new instructors need support or guidance in implementing these?
+#### Chapter 5: What Kinds of Practice and Feedback Enhance Learning?
+5\. This chapter discusses the importance of creating good opportunities for practice. How does this apply in a technical workshop setting? What role does/can an Instructor play in this regard? A helper?
 
-#### Chapter 7: How do Students Become Self-directed Learners?
+6\. Feedback is an essential component of effective practice. In what ways do learners in a computational workshop get feedback on their progress? How does that feedback meet (or not) the criteria for *useful* feedback outlined in this chapter? 
 
-4\. Most of our learners have experience with metacognitive strategies, but may not automatically apply them to the content of our workshops (content or Instructor Training). Why do you think this is? How can we support our learners in transferring these skills appropriately? 
+7\. How do you expect practice and feedback to contribute to your skill development as a Trainer? What will you need to do to facilitate this? 
 
-5\. **Please have some plain paper and a dark-colored marker handy during discussion in case we get to work on this question.** Try making a concept map that outlines ways in which metacognition is (or can be) supported during a workshop, referencing one or more of the strategies listed on p.203-215. What did you learn from this process?
