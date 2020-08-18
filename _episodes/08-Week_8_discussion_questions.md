@@ -6,32 +6,37 @@ exercises: 0
 
 ## Reading:
  
-[Instructor Training: The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/21-carpentries/index.html)  
-[Instructor Training: Workshop Introductions](https://carpentries.github.io/instructor-training/23-introductions/index.html)  
-[Instructor Training: Putting It Together](https://carpentries.github.io/instructor-training/24-practices/index.html)  
-[Pre-Workshop Reading: The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)  
-Examine [The Carpentries Handbook: Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html)  
-Review [Trainer Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html)
+[Instructor Training: Preparing to Teach](https://carpentries.github.io/instructor-training/15-lesson-study/index.html)  
+[Instructor Training: More Practice Live Coding](http://carpentries.github.io/instructor-training/17-performance/index.html)  
+[Instructor Training: Managing a Diverse Classroom](https://carpentries.github.io/instructor-training/18-management/index.html)  
+[Instructor Training: Checkout Process](https://carpentries.github.io/instructor-training/20-checkout/index.html)  
 
-## Hypothes.is:
+_How Learning Works_: Conclusion (p. 217-224)
+
+## Hypothes.is: 
 1\. Please write comments, questions, or replies on the curriculum readings for today. Be sure you are using our private Hypothes.is group when you add your comments.
 
 ## Discussion Questions
 
-2\. What questions do you have about your role as a Trainer or your participation in the Trainer community? 
-
 ### Instructor Training Curriculum
+2\. What stands out or interests you from this week’s reading? You may type your own response but also feel free to paste a snippet from the curriculum itself or from any of the comments/questions/replies in Hypothes.is.
 
-#### [The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/21-carpentries/index.html)
+#### [Preparing to Teach](https://carpentries.github.io/instructor-training/15-lesson-study/index.html)
+3\. Identify one concept from this lesson that you think might be challenging to communicate. What makes it difficult? How might you work through it when teaching?
 
-3\. Do you have any questions about policies and procedures for running a workshop? What do you think might be unclear to instructors reading these materials?
+#### [Managing a Diverse Classroom](https://carpentries.github.io/instructor-training/18-management/index.html)
+4\. The prospect of responding to a Code of Conduct violation is frightening, but we want Instructors to feel empowered to act and report if an incident occurs. This confidence starts with their Trainers. How do *you* feel about the prospect of handling an incident at a workshop? What questions do you have? What questions do you worry you won't be able to answer? 
 
-#### [Workshop Introductions](https://carpentries.github.io/instructor-training/23-introductions/index.html)
-4\. This section includes a LOT of things that can be included in a good introduction. How would you distill this message in a recap or summary of this lesson? What are the most important elements to convey?
+#### [Checkout Process](https://carpentries.github.io/instructor-training/20-checkout/index.html) 
+5\. Not all trainees are interested in completing checkout for certification. We're ok with that! What we worry about is 
+when trainees who *do* want to certify are intimidated or deterred by some part of the process. What role can a Trainer play 
+in supporting or encouraging trainees who want to complete the checkout process?
 
-#### [Putting It Together](https://carpentries.github.io/instructor-training/24-practices/index.html) 
+### _How Learning Works_
 
-5\. Try the "Organize your knowledge" activity! Report back: what did you learn?
+#### Conclusion p. 217-224
+
+6\. What advice might you give to instructors to help them "play to their own strengths and weaknesses"? 
 
 
 
