@@ -43,6 +43,25 @@ however, we will always begin with trainee perspectives and interests, and discu
 discussion questions. While the questions can help to focus attention on important points, please also read to prepare for 
 broader conversation about the ideas and challenges presented each week.
 
+At sessions 2-9, one participant will play each of the following roles:
+- **Lead:** facilitates discusssion of the first question each week and selects from remaining questions to focus additional conversation, using breakout rooms as 
+desired. The Lead role is not about being an authority on the week's reading, but rather is an opportunity to practice guiding discussion on Zoom. Your host will 
+be available to discuss Zoom and facilitation questions during breakouts, and will also address questions or concerns as needed during discussion.
+- **Challenger:** responsible for making sure that areas where Trainers or Instructor trainees may have questions or doubts are 
+recognized and discussed during our sessions. Challengers should bring opposing viewpoints (even if they don't personally hold them) to be examined gently. 
+Also helps out with notes when the Notetaker is speaking, loses connection, etc.
+- **Notes:** takes notes on conversation in the collaborative document (Etherpad or Google Doc) for the session.
+
+If possible, arrive a few minutes early to take Host on Zoom and try out the controls
+Lead discussion of Question 1, and be prepared with a few responses of your own to kick off conversation if folks don't have a lot to say
+Choose additional discussion questions. Use breakout rooms for small group discussions, then guide whole group debrief. 
+Note: this role is not about being an "authority" on the week's reading! Feel free to toss questions back at the group/Karen at any point.
+Take notes on collaborative document, except when you're talking 
+Prepare to gently(!) bring opposing viewpoints or difficult questions to the conversation. Also back-up notes when note-taker is speaking.
+Keep an eye out for concepts that certain trainees might find challenging or objectionable, practical pitfalls, and other problems that Trainers may need to be aware of in teaching the material.
+
+Your host will provide you with a proposed schedule for these roles for the full term. If it is impossible or impractical for you to play a role on any week 
+assigned to you, please let your host know immediately.
 
 ### Instructor Training Workshops (in brief)
 Most of our Instructor Training Workshops are taught online, via Zoom; many partner institutions also host workshops in-
@@ -69,8 +88,8 @@ anyone who has not done so already.
 
 
 ### Trainers Leadership
-As of January 2020, an inaugural Trainers Leadership council has been formed and is currently in the process of creating a 
-governance structure and planning an election within the next 3-6 months. Stay tuned for more details!
+A Trainers Leadership committee has been provisionally formed and is currently in the process of drafting a 
+governance structure specific to the Trainers' community and planning an election. Stay tuned for more details!
 
 
 ### A Culture of Contribution
