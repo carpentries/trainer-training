@@ -1,6 +1,9 @@
 ---
 title: "Week 1 Discussion Questions"
-
+keypoints:
+- "The Instructor Trainer role comes with powers and responsibilities. Some powers are limited to preserve sustainability of The Carpentries, but we will work with you to meet your goals as closely as possible."
+- "Teaching and learning are separate, though related, processes. And then there is learning to teach!"
+- "Most popular texts do not aim to onboard readers to engaging with primary literature in a field. This presents barriers to responsible engagement across disciplines, particularly in education."
 ---
 
 ## Reading
@@ -20,13 +23,13 @@ Preview to get a sense for what is contained in these lengthier references:
 
 
 ## Overview of Trainer Training
-This program is an on-boarding course designed to support engaged Instructors and new community-members in preparing to teach Instructor 
-Training workshops. It cannot be used as a substitute for Instructor Training; in contrast, this training includes fewer contact hours 
-and more independent work time stretched over an 8 week period. 
+This program is an on-boarding course designed to support Carpentries community-members in preparing to teach Instructor 
+Training workshops. It is not a substitute for Instructor Training; in contrast, this training includes fewer contact hours 
+and more independent work time stretched over a 10 week period. 
 
 Each participant brings a different skill set to this training. Most trainees have background in educational settings and/or 
 experience teaching Carpentries-style workshops. Trainees who are new to both should plan to invest extra effort in the 
-readings. All trainees, and particularly those new to the community, are encouraged to seek continuing support and mentorship from the 
+readings. All trainees, and particularly those new to the community, are expected to seek continuing connection and mentorship through engagement with the 
 Trainer community after completing this training.
 
 > ## Trainer Checkout
@@ -41,7 +44,7 @@ Trainer community after completing this training.
 Each week, we will discuss assigned readings. Discussion questions are provided to offer a framework for conversation; 
 however, we will always begin with trainee perspectives and interests, and discussion may digress substantially from the 
 discussion questions. While the questions can help to focus attention on important points, please also read to prepare for 
-broader conversation about the ideas and challenges presented each week.
+broader conversation about the ideas and challenges in the readings each week.
 
 At sessions 2-9, one participant will play each of the following roles:
 - **Lead:** facilitates discusssion of the first question each week and selects from remaining questions to focus additional conversation, using breakout rooms as 
@@ -56,7 +59,7 @@ Your host will provide you with a proposed schedule for these roles for the full
 assigned to you, please let your host know immediately.
 
 ### Instructor Training Workshops (in brief)
-Most of our Instructor Training Workshops are taught online, via Zoom; many partner institutions also host workshops in-
+Most of our Instructor Training Workshops are taught online, via Zoom; some partner institutions also host workshops in-
 person. All workshops must have a least 2 Instructor Trainers in attendance. New trainees should plan to be 
 available for teaching assignments as soon as certification is complete. New Trainers will be matched with experienced 
 Trainers whenever possible. New trainees are also welcome to request a role as a third trainer to reduce the teaching load 
@@ -80,7 +83,7 @@ anyone who has not done so already.
 
 
 ### Trainers Leadership
-A Trainers Leadership committee has been provisionally formed and is currently in the process of drafting a 
+A Trainers Leadership committee has been provisionally appointed and is currently in the process of drafting a 
 governance structure specific to the Trainers' community and planning an election. Stay tuned for more details!
 
 
@@ -114,7 +117,9 @@ to work through during our next update. Consider joining Trainer meetings now!
 
 5\.  This book is organized around seven principles for teaching. Discuss an example of how you’ve seen one of these principles influence learners’ experience. If you have experience with Carpentries workshops, can you think of an example in that context?
     
-6\.  The authors state that these seven principles are “domain-independent”, “experience-independent” and “cross-culturally relevant”. As we work through the readings, we will be discussing how to apply these principles to *teaching about how to teach* (in an instructor training workshop) as well as *teaching technical skills* (in a Carpentries workshop). We'll even talk a bit about our process of *learning how to teach teaching* through our discussions! Do the 7 principles apply equally well to all of these 'layers' of instruction? Are there any important differences to keep in mind?
+6\.  In our discussions, we will often move between levels in the diagram below. We will apply the 7 principles to *teaching about how to teach* (in an 
+instructor training workshop) as well as *teaching technical skills* (in a Carpentries workshop). We'll even talk about *learning how to teach teaching* in your 
+role as a Trainer! Do the 7 principles apply equally well to all of these contexts? Are there any important differences to keep in mind?
 
 
 ![Layers of Carpentries Instruction](../fig/Labeled_InstructorTrainers.svg)
