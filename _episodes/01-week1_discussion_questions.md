@@ -52,14 +52,6 @@ recognized and discussed during our sessions. Challengers should bring opposing 
 Also helps out with notes when the Notetaker is speaking, loses connection, etc.
 - **Notes:** takes notes on conversation in the collaborative document (Etherpad or Google Doc) for the session.
 
-If possible, arrive a few minutes early to take Host on Zoom and try out the controls
-Lead discussion of Question 1, and be prepared with a few responses of your own to kick off conversation if folks don't have a lot to say
-Choose additional discussion questions. Use breakout rooms for small group discussions, then guide whole group debrief. 
-Note: this role is not about being an "authority" on the week's reading! Feel free to toss questions back at the group/Karen at any point.
-Take notes on collaborative document, except when you're talking 
-Prepare to gently(!) bring opposing viewpoints or difficult questions to the conversation. Also back-up notes when note-taker is speaking.
-Keep an eye out for concepts that certain trainees might find challenging or objectionable, practical pitfalls, and other problems that Trainers may need to be aware of in teaching the material.
-
 Your host will provide you with a proposed schedule for these roles for the full term. If it is impossible or impractical for you to play a role on any week 
 assigned to you, please let your host know immediately.
 
