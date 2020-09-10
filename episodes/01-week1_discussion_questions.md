@@ -1,5 +1,7 @@
 ---
 title: "Week 1 Discussion Questions"
+teaching: 30
+exercises: 30
 keypoints:
 - "The Instructor Trainer role comes with powers and responsibilities. Some powers are limited to preserve sustainability of The Carpentries, but we will work with you to meet your goals as closely as possible."
 - "Teaching and learning are separate, though related, processes. And then there is learning to teach!"
