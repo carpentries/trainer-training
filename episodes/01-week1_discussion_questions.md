@@ -87,7 +87,7 @@ anyone who has not done so already.
 > Take a moment to sign up for commmunications channels:
 > 
 > **Communications channels to participate in**
-> - Carpentries Slack (optional but useful, especially in a pinch): https://swc-slack-invite.herokuapp.com/ Poke your host if you don't receive an invitation to the private Trainers channel within the next 1-2 weeks.
+> - Carpentries Slack (optional but useful, especially in a pinch): https://swc-slack-invite.herokuapp.com/ Poke your host if you don't receive an invitation to the private Trainers channel within the next 1-2 weeks after signing up.
 > - "Follow" the Instructor Training GitHub repository:  https://github.com/carpentries/instructor-training
 > - Carpentries Discuss listserv: https://carpentries.topicbox.com/groups/discuss This list is for general conversations in the Carpentries community. You will be invited separately to join the private Trainers list on TopicBox.
 > 
