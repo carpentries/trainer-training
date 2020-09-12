@@ -33,13 +33,14 @@ do you think it would be for a new Instructor to employ this strategy?
 5\. Have a look at the [pre-assessment survey](https://www.surveymonkey.com/r/Preview/?sm=pRLWB3SiycOkcDiF9r3UP5tGr2zOHWJy_2BRNgUdCAjNuIlHUEY1KC2IWSB2dl2tqg) for Instructor Training workshops. How might you use the responses of this survey? If you could ask one additional question, what would it be?
 
 #### Appendix B
-6\. **Please have some plain paper and a dark-colored marker handy during discussion in case we get to work on this question.** Draft a small concept map (3-5 items with labeled connections) that partially explains one of the following topics:
+6\. \* Draft a small concept map (3-5 items with labeled connections) for **your own eyes only (not to be shared!)** that partially explains one of the following topics:
 
 * Prior knowledge
 * Knowledge organization
 * Workshop organization
 * Motivation
 
+Then, share your experience with the process. Did you learn anything from making this map? How could you organise it differently if you tried it again?
 
 
 
