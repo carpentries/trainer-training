@@ -79,9 +79,20 @@ found on the [Community Calendar](https://carpentries.org/community/#community-e
 
 Trainers also communicate asynchronously via Topicbox listserv, Slack, and GitHub. New trainees will be 
 invited to join the Topicbox list early in their training, and will be added to the Trainers Slack channel once they have 
-completed certification if they have registered with The [Carpentries Slack community](https://swc-slack-invite.herokuapp.com/). Communications on the [GitHub repository](https://github.com/carpentries/instructor-training) can be received by "following" the repository at any time. 
+completed certification if they have registered with The [Carpentries Slack community](https://swc-slack-invite.herokuapp.com/). Communications on the [Instructor Training GitHub repository](https://github.com/carpentries/instructor-training) can be received by "following" the repository. 
 We also suggest joining The [Carpentries Discuss listserv](https://carpentries.topicbox.com/groups/discuss) on Topicbox for 
 anyone who has not done so already.
+
+> ## Communications Checklist
+Take a moment to sign up for commmunications channels:
+> **Communications channels to participate in**
+> - Carpentries Slack (optional but useful, especially in a pinch): https://swc-slack-invite.herokuapp.com/ Poke your host if you don't receive an invitation to the private Trainers channel within the next 1-2 weeks.
+> - "Follow" the Instructor Training GitHub repository:  https://github.com/carpentries/instructor-training
+> - Carpentries Discuss listserv: https://carpentries.topicbox.com/groups/discuss This list is for general conversations in the Carpentries community. You will be invited separately to join the private Trainers list on TopicBox.
+> **General sources of information about The Carpentries**
+> - The Carpentries Newsletter: https://carpentries.org/newsletter/
+> - Twitter: https://twitter.com/thecarpentries/
+{: .discussion}
 
 
 ### Trainers Leadership
