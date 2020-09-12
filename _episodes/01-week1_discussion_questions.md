@@ -84,7 +84,7 @@ We also suggest joining The [Carpentries Discuss listserv](https://carpentries.t
 anyone who has not done so already.
 
 > ## Communications Checklist
-Take a moment to sign up for commmunications channels:
+> Take a moment to sign up for commmunications channels:
 > **Communications channels to participate in**
 > - Carpentries Slack (optional but useful, especially in a pinch): https://swc-slack-invite.herokuapp.com/ Poke your host if you don't receive an invitation to the private Trainers channel within the next 1-2 weeks.
 > - "Follow" the Instructor Training GitHub repository:  https://github.com/carpentries/instructor-training
