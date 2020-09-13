@@ -16,8 +16,7 @@ _How Learning Works_:
 
 #### Chapter 1: How Does Students’ Prior Knowledge Affect Their Learning?
 
-2\.  Give an example of a time from your experience when a learner’s prior knowledge negatively affected their learning. Was 
-their knowledge inactive, insufficient, inappropriate or inaccurate? Would any of the strategies suggested in this chapter 
+2\.  Give an example of a time from your experience when a learner’s prior knowledge negatively affected their learning. Why do you think prior knowledge had such an impact in this case? Would any of the strategies suggested in this chapter 
 have applied well in this situation?
     
 #### Chapter 2: How Does the Way Students Organize Knowledge Affect Their Learning
