@@ -1,5 +1,7 @@
 ---
 title: "Week 2 Discussion Questions"
+teaching: 5
+exercises: 55
 ---
 ## Reading
 _How Learning Works_: 
