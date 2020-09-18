@@ -5,7 +5,7 @@ title: "Week 3 Discussion Questions"
 ## Reading
 *How Learning Works*: 
 - Chapter 3
-- Chapter 4 & Appendix D
+- Chapter 4
 
 ## Discussion Questions
 1\. What stood out to you from this week’s reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
@@ -27,7 +27,4 @@ How might these affect learners during an Instructor Training workshop? How abou
 6\. When students learn skills but don’t learn how to apply them, they may fail to use those skills when they are relevant. 
 How can we help learners bridge the gap between learning and application? Is this different for Instructor Training vs technical Carpentries workshops?
 
-#### Appendix D: What are Learning Objectives and How Can We Use Them?
-7\. Use the chart on p. 246 to examine some learning objectives from Carpentries workshops (technical and/or Instructor 
-Training). In what categories of Bloom's Taxonomy do these fall? Do they seem appropriate to the level of the learners? Do 
-they seem adequate, as workshop outcomes?
+
