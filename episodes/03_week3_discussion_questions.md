@@ -9,6 +9,8 @@ title: "Week 3 Discussion Questions"
 
 ## Discussion Questions
 1\. What stood out to you from this week’s reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
+* Chapter 3
+* Chapter 4
 
 ### _How Learning Works_
 #### Chapter 3: What Factors Motivate Students to Learn?
