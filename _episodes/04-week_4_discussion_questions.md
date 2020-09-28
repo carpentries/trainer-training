@@ -17,9 +17,9 @@ workflow* at which you are asking learners to operate (e.g. tasks can be simplif
 used for a cognitive challenge). Which of your objectives are clearly inter-dependent? Which could feasibly be taught in a 2-day workshop?
 
 #### Chapter 5: What Kinds of Practice and Feedback Enhance Learning?
-3\. This chapter discusses the importance of creating good opportunities for practice. How does this apply in a technical workshop setting? What role does/can an Instructor play in this regard? A helper?
+3\. This chapter discusses the importance of creating good opportunities for practice. In the context of a technical workshop, what role can an Instructor play in this regard? A helper?
 
-4\. Feedback is an essential component of effective practice. In what ways do learners in a computational workshop get feedback on their progress? How does that feedback meet (or not) the criteria for *useful* feedback outlined in this chapter? 
+4\. Feedback is an essential component of effective practice. In what ways do learners in a technical workshop get feedback on their progress? Is that feedback likely to meet the criteria for *useful* feedback outlined in this chapter? Why or why not?
 
-5\. How do you expect practice and feedback to contribute to your skill development as a Trainer? What will you need to do to facilitate this? 
+5\. Do you think feedback from a co-Instructor or co-Trainer would likely differ from feedback received from learners through minute cards or surveys? Why or why not?
 
