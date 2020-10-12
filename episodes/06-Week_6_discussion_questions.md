@@ -11,6 +11,7 @@ keypoints:
 - "Skill acquisition models explain challenges faced by learners and Instructors, Instructor trainees and Trainers."
 - "Expert teachers may have filled in awareness gaps in subjects they teach, but may still have gaps on the subject of teaching."
 - "Going slowly is a challenge that takes constant effort and compromise."
+- "There are many approaches and supporting documents available to teach Instructor Training. Many of these are referenced in the Instructor Notes."
 ---
 ## Reading:
 [Welcome](https://carpentries.github.io/instructor-training/01-welcome/index.html)  
