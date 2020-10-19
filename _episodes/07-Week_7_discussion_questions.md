@@ -1,7 +1,13 @@
 --- 
 title: "Week 7 Discussion Questions"    
 teaching: 0 
-exercises: 0      
+exercises: 0  
+keypoints:  
+- "Convincing trainees to collect feedback is a fundamental goal. Teaching them to use it is the next step."
+- "Developing awareness of demotivating scenarios is a fundamental goal. Teaching trainees to cope with them is the next step."
+- "Many trainees may have a growth mindset with regard to computational skills and a fixed mindset with regard to teaching skills."
+- "With instructional support, repeated practice and feedback can lead trainees to examine the component skills of teaching."
+- "Participatory live coding keeps participants engaged, generates immediate feedback, and creates opportunities to model a healthy response to error. These features explicitly support learning and motivation."
 ---
 
 ## Reading:
