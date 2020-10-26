@@ -1,7 +1,12 @@
 --- 
 title: "Week 8 Discussion Questions"    
 teaching: 0 
-exercises: 0        
+exercises: 0 
+keypoints:  
+- "Thinking critically about Bloom's Taxonomy is typically beyond the Blooms' level we can expect Instructor trainees to perform at. Examine *your* learning objectives carefully to calibrate your expectations for this episode and meet learners where they are."
+- "Instructors are unlikely to face a Code of Conduct violation, but need to know what to do if this occurs. Reassurance of team support and clear instructions on reporting are the most important elements to communicate."
+- "Trainees may be intimidated by many elements of checkout. It is important to emphasize that teaching demonstrations are a friendly opportunity to give and receive feedback, not a high-stakes test, and that our Core Team is there to support them with any questions they may have during the checkout process." 
+- "New Instructors should start their improvement process with "low hanging fruit" -- teaching techniques they can easily adopt. For some, this might center on presentation style; for others, it might have more to do with classroom mechanics. Focusing on one thing at a time to improve on can help people evaluate and prioritize their goals as they progress."
 ---
 
 ## Reading:
