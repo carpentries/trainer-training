@@ -24,7 +24,7 @@ _How Learning Works_: Conclusion (p. 217-224)
 ## Discussion Questions
 
 ### Instructor Training Curriculum
-2\. What stands out or interests you from this week’s reading? You may type your own response but also feel free to paste a snippet from the curriculum itself or from any of the comments/questions/replies in Hypothes.is.
+2\. (Please do not skip.) What stands out or interests you from this week’s reading? You may type your own response but also feel free to paste a snippet from the curriculum itself or from any of the comments/questions/replies in Hypothes.is.
 
 #### [Preparing to Teach](https://carpentries.github.io/instructor-training/15-lesson-study/index.html)
 3\. Identify one concept from this lesson that you think might be challenging to communicate. What makes it difficult? How might you work through it when teaching?
