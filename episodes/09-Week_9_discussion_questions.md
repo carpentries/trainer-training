@@ -1,7 +1,11 @@
 --- 
 title: "Week 9 Discussion Questions"    
 teaching: 0 
-exercises: 0        
+exercises: 0
+keypoints:  
+- ""How We Operate" is a dense section of curriculum that new Trainers often find intimidating to teach. However, preparing this section will improve your understanding of how The Carpentries works and will prepare you to answer questions more broadly."
+- "Introducing a workshop has an outsized impact on the overall experience of the workshop. In addition to emphasizing preparation, it can be helpful to encourage trainees to think about this as a teaching challenge."
+- "At the end of the workshop, we ask our trainees to take some time to organize some of the information they have learned. This is also a useful exercise to practice when preparing to teach the workshop!"
 ---
 
 ## Reading:
@@ -23,11 +27,13 @@ exercises: 0
 
 #### [The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/21-carpentries/index.html)
 
-3\. Do you have any questions about policies and procedures for running a workshop? What do you think might be unclear to instructors reading these materials?
+3\. What questions do you have about policies and procedures for running a workshop? Where do you think trainees might find this information confusing or unclear?
+
+4\. What content on this page do you think is most important to emphasize for new trainees? 
 
 #### [Workshop Introductions](https://carpentries.github.io/instructor-training/23-introductions/index.html)
-4\. This section includes a LOT of things that can be included in a good introduction. How would you distill this message in a recap or summary of this lesson? What are the most important elements to convey?
+5\. When we teach trainees to introduce a workshop, we are  talking about how to teach a different kind of content: here they are sharing the skills and knowledge necessary to participate in their workshop. This section includes a LOT of ideas in one place. How might we advise trainees to teach effectively, in addition to delivering complete information, during their introductions? 
 
 #### [Putting It Together](https://carpentries.github.io/instructor-training/24-practices/index.html) 
 
-5\. Try the "Organize your knowledge" activity! Report back: what did you learn?
+6\. Try the "Organize your knowledge" activity! Report back: what did you learn?
