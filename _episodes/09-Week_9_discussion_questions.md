@@ -3,7 +3,7 @@ title: "Week 9 Discussion Questions"
 teaching: 0 
 exercises: 0
 keypoints:  
-- ""How We Operate" is a dense section of curriculum that new Trainers often find intimidating to teach. However, preparing this section will improve your understanding of how The Carpentries works and will prepare you to answer questions more broadly."
+- "*How We Operate* is a dense section of curriculum that new Trainers often find intimidating to teach. However, preparing this section will improve your understanding of how The Carpentries works and will prepare you to answer questions more broadly."
 - "Introducing a workshop has an outsized impact on the overall experience of the workshop. In addition to emphasizing preparation, it can be helpful to encourage trainees to think about this as a teaching challenge."
 - "At the end of the workshop, we ask our trainees to take some time to organize some of the information they have learned. This is also a useful exercise to practice when preparing to teach the workshop!"
 ---
