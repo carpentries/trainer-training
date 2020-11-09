@@ -11,8 +11,10 @@ Review [Trainer Guide](https://docs.carpentries.org/topic_folders/instructor_tra
 
 ## Closing Questions:
 
-What questions do you have about your role as an Instructor Trainer?
+1\. What questions do you have about your role as an Instructor Trainer?
 
-What questions do you have about The Carpentries community?
+2\. What questions do you have about The Carpentries community?
 
-What The Carpentries Core Team and the Trainer community do to support you in your goals?
+3\. What are your goals as an Instructor Trainer?
+
+4\. What can The Carpentries Core Team and the Trainer community do to support you in your goals?
