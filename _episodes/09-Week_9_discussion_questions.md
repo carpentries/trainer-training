@@ -21,7 +21,7 @@ keypoints:
 
 ## Discussion Questions
 
-2\. What questions do you have about your role as a Trainer or your participation in the Trainer community? 
+2\. (Please do not skip.) What stands out or interests you from this week’s reading? You may type your own response but also feel free to paste a snippet from the curriculum itself or from any of the comments/questions/replies in Hypothes.is.
 
 ### Instructor Training Curriculum
 
