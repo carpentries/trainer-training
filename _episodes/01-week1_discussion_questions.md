@@ -48,13 +48,11 @@ however, we will always begin with trainee perspectives and interests, and discu
 discussion questions. While the questions can help to focus attention on important points, please also read to prepare for 
 broader conversation about the ideas and challenges in the readings each week.
 
-At sessions 2-9, one participant will play each of the following roles:
+At sessions 3-9, one participant will play each of the following roles:
 - **Lead:** facilitates discusssion of the first question each week and selects from remaining questions to focus additional conversation, using breakout rooms as 
 desired. The Lead role is not about being an authority on the week's reading, but rather is an opportunity to practice guiding discussion on Zoom. Your host will 
 be available to discuss Zoom and facilitation questions during breakouts, and will also address questions or concerns as needed during discussion.
-- **Challenger:** responsible for making sure that areas where Trainers or Instructor trainees may have questions or doubts are 
-recognized and discussed during our sessions. Challengers should bring opposing viewpoints (even if they don't personally hold them) to be examined gently. 
-Also helps out with notes when the Notetaker is speaking, loses connection, etc.
+- **Challenger:** In this role, your job is to imagine questions, concerns, or points of confusion that trainees might have. The challenger also takes notes when the note-taker is speaking.
 - **Notes:** takes notes on conversation in the collaborative document (Etherpad or Google Doc) for the session.
 
 Your host will provide you with a proposed schedule for these roles for the full term. If it is impossible or impractical for you to play a role on any week 
