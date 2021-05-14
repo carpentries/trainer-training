@@ -29,7 +29,7 @@ you are familiar with? Which do you think best represents a learner who has just
 4\. Take a look at the strategies for ways Instructors can assess and enhance their own knowledge organization at the end of Chapter 2 (p. 59-65). Choose one strategy and think about how an instructor could apply it when preparing to teach a Carpentries workshop. On a scale from 1-10, how challenging do you think it would be for a new Instructor to use?  
 
 #### Appendix A
-5\. Have a look at the [pre-assessment survey](https://www.surveymonkey.com/r/Preview/?sm=pRLWB3SiycOkcDiF9r3UP5tGr2zOHWJy_2BRNgUdCAjNuIlHUEY1KC2IWSB2dl2tqg) for Instructor Training workshops. How might you use the responses of this survey? If you could ask one additional question, what would it be?
+5\. Have a look at the [pre-assessment survey](https://www.surveymonkey.com/r/Preview/?sm=pRLWB3SiycOkcDiF9r3UP5tGr2zOHWJy_2BRNgUdCAjNuIlHUEY1KC2IWSB2dl2tqg) for Instructor Training workshops. (It is a preview but you do need to respond to the first two questions to view the rest.) How might you use the responses of this survey? If you could ask one additional question, what would it be?
 
 #### Appendix B
 6\. \* (Try not to skip this question) Draft a small concept map (3-5 items with labeled connections) for **your own eyes only (not to be shared!)** that partially explains one of the following topics:
