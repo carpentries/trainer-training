@@ -26,8 +26,7 @@ such an impact in this case? Do you think any of the strategies suggested in thi
 3\. Examine Figure 2.2 (p.50 of the print edition). How do these diagrams relate to knowledge or learner mental models that 
 you are familiar with? Which do you think best represents a learner who has just taken a Carpentries technical workshop? 
 
-4\. Identify one thing that Carpentries Instructors can do in a workshop to help learners organize their knowledge. On a scale of 1-10, how challenging 
-do you think it would be for a new Instructor to apply this strategy? Does your idea align with any of the strategies listed at the end of the chapter (p. 59-65)?
+4\. Take a look at the strategies for ways instructors can assess and enhance their own knowledge organization at the end of Chapter 2 (p. 59-65). Choose one strategy and think about how an instructor could apply it when preparing to teach. On a cale from 1-10, how challenging do you think it would be for a new instructor to use?  
 
 #### Appendix A
 5\. Have a look at the [pre-assessment survey](https://www.surveymonkey.com/r/Preview/?sm=pRLWB3SiycOkcDiF9r3UP5tGr2zOHWJy_2BRNgUdCAjNuIlHUEY1KC2IWSB2dl2tqg) for Instructor Training workshops. How might you use the responses of this survey? If you could ask one additional question, what would it be?
