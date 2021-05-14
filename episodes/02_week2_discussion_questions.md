@@ -2,6 +2,19 @@
 title: "Week 2 Discussion Questions"
 teaching: 5
 exercises: 55
+questions:
+- "How can prior knowledge influence a workshop experience, and how can we plan to adjust to variation?"
+- "How can the structure of information be explored and made explicit to support learning in a workshop?"
+objectives:
+- "Examine relationships between prior knowledge and learning new things."
+- "Plan how to use pre-assessment data in preparing to teach an Instructor Training workshop."
+- "Evaluate the knowledge-organization strategies in terms of ease of use for new Instructors."
+- "Apply a concept map to explore concepts of teaching and learning." 
+keypoints:
+- "Prior knowledge about teaching strategies varies among trainees in Instructor Training workshops. Being attentive to this will improve your impact."
+- "Pre-assessment surveys are a critical component of all Carpentries workshops. Help us make them useful for you!"
+- "Carpentries curriculum templates provide some support for knowledge organization. Instructors can implement additional strategies to help learners create useful connections."
+- "Concept maps are a challenging, minimally structured task. They are useful for exploring concepts and relationships prior to teaching because they can make the organization of knowledge more explicit."
 ---
 ## Reading
 _How Learning Works_: 
@@ -20,6 +33,9 @@ _How Learning Works_:
 
 2\.  Give an example of a time from your experience when a learner’s prior knowledge negatively affected their learning. Why do you think prior knowledge had 
 such an impact in this case? Do you think any of the strategies suggested in this chapter might have helped?
+
+#### Appendix A
+5\. Have a look at the [pre-assessment survey](https://www.surveymonkey.com/r/Preview/?sm=pRLWB3SiycOkcDiF9r3UP5tGr2zOHWJy_2BRNgUdCAjNuIlHUEY1KC2IWSB2dl2tqg) for Instructor Training workshops. (It is a preview but you do need to respond to the first two questions to view the rest.) How might you use the responses of this survey? If you could ask one additional question, what would it be?
     
 #### Chapter 2: How Does the Way Students Organize Knowledge Affect Their Learning
 
@@ -27,9 +43,6 @@ such an impact in this case? Do you think any of the strategies suggested in thi
 you are familiar with? Which do you think best represents a learner who has just taken a Carpentries technical workshop? 
 
 4\. Take a look at the strategies for ways Instructors can assess and enhance their own knowledge organization at the end of Chapter 2 (p. 59-65). Choose one strategy and think about how an instructor could apply it when preparing to teach a Carpentries workshop. On a scale from 1-10, how challenging do you think it would be for a new Instructor to use?  
-
-#### Appendix A
-5\. Have a look at the [pre-assessment survey](https://www.surveymonkey.com/r/Preview/?sm=pRLWB3SiycOkcDiF9r3UP5tGr2zOHWJy_2BRNgUdCAjNuIlHUEY1KC2IWSB2dl2tqg) for Instructor Training workshops. (It is a preview but you do need to respond to the first two questions to view the rest.) How might you use the responses of this survey? If you could ask one additional question, what would it be?
 
 #### Appendix B
 6\. \* (Try not to skip this question) Draft a small concept map (3-5 items with labeled connections) for **your own eyes only (not to be shared!)** that partially explains one of the following topics:
