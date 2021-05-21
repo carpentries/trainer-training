@@ -3,13 +3,16 @@ title: "Week 3 Discussion Questions"
 questions:
 
 objectives:
-- Examine a past experience with learner motivation in terms of environment, efficacy, and value.
-- Classify anticipated goals of learners as learning or performance-based.
-- Assess the usefulness of different strategies related to motivation in Carpentries workshops.
-- Predict the impact of cognitive limitations on both learners and Trainers in Instructor Training workshops.
-- Compare the challenge of preparing different types of learners (Instructor trainees vs. technical) to transfer skills to usable contexts.
+- "Examine a past experience with learner motivation in terms of environment, efficacy, and value."
+- "Classify anticipated goals of learners as learning or performance-based."
+- "Assess the usefulness of different strategies related to motivation in Carpentries workshops."
+- "Predict the impact of cognitive limitations on both learners and Trainers in Instructor Training workshops."
+- "Compare the challenge of preparing different types of learners (Instructor trainees vs. technical) to transfer skills to usable contexts."
 keypoints:
-
+- "Learner motivation in Instructor Training workshops can be very different from the motivation we see in technical workshops."
+- "Instructors can influence learner motivation with three 'levers' of value, expected efficacy, and a supportive environment."
+- "The Carpentries Instructor Training workshop aims to teach several component skills of teaching. However, this does not guarantee that all skills will be actively used. Trainers can prepare trainees to bridge this gap by explicitly discussing application as well as supporting practice and feedback."
+- "Trainers experience expert awareness gaps and cognitive overload too!"
 ---
 
 ## Reading
