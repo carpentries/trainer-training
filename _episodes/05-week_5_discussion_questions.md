@@ -5,9 +5,13 @@ exercises: 0
 questions:  
 - "Key question"    
 objectives: 
-- "First objective."    
+- "Explain the impact of The Carpentries Code of Conduct on classroom climate." 
+- "Predict challenges faced by new Instructors in creating a positive classroom climate and propose possible solutions."
+- "Predict challenges faced by new Instructors and technical trainees in transferring metacognitive skills to a new learning process and propose possible solutions."
+- "Connect common Carpentries classroom practices with strategies that support metacognition and identify the relationship between them."   
 keypoints:  
-- "First key point."    
+- "The Carpentries Code of Conduct is one of many features that creates a positive classroom climate for Carpentries workshops." 
+- "Instructor trainees will face challenges as they develop skill in teaching. As in technical workshops, a core goal of our two-day training is to prepare them to encounter and surmount those challenges."   
 ---
 ## Reading
 _How Learning Works_ Chapter 6, Chapter 7
