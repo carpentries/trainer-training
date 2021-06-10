@@ -3,9 +3,13 @@ title: "Week 6 Discussion Questions"
 teaching: 0 
 exercises: 0    
 questions:  
-- "Key question"    
+- "Key question."    
 objectives: 
-- "First objective."    
+- "Propose one way to support learner interaction early in a workshop even when pressed for time."
+- "Apply a concept map to illustrate the importance of explicit connections in knowledge and learning." 
+- "Distinguish challenges related to skill level faced by learners from those faced by Instructors."
+- "Predict challenges posed by expert awareness gaps in the context of teaching Instructors how to teach."
+- "Propose a strategy to support Instructor trainees in implementing guidance on pacing in spite of competing priorities related to content and time."
 keypoints:  
 - "The Carpentries Instructor Training curriculum offers many opportunities to model, as well as to teach, good practices."
 - "Skill acquisition models explain challenges faced by learners and Instructors, Instructor trainees and Trainers."
