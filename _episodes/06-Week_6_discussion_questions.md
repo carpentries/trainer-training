@@ -23,7 +23,7 @@ keypoints:
 [Instructor Training: Expertise and Instruction](https://data-lessons.github.io/instructor-training/04-expertise/index.html)  
 [Instructor Training: Memory and Cognitive Load](https://data-lessons.github.io/instructor-training/05-memory/index.html)  
 [Instructor Notes](https://carpentries.github.io/instructor-training/guide/index.html)   
-[Etherpad Template](http://pad.software-carpentry.org/ttt-template)  
+[Etherpad Template](https://pad.carpentries.org/ttt-template-0621)  
 
 ## Hypothes.is: 
 1\. Please write comments, questions, and/or replies on the curriculum readings for today. **Be sure you are using our private Hypothes.is group** when you add 
