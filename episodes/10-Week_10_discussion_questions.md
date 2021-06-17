@@ -8,6 +8,8 @@ exercises: 0
 
 Examine [The Carpentries Handbook: Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html)  
 Review [Trainer Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html)
+_How Learning Works_: Conclusion (p. 217-224)
+
 
 ## Closing Questions:
 
@@ -18,3 +20,10 @@ Review [Trainer Guide](https://docs.carpentries.org/topic_folders/instructor_tra
 3\. What are your goals as an Instructor Trainer?
 
 4\. What can The Carpentries Core Team and the Trainer community do to support you in your goals?
+
+### _How Learning Works_
+
+#### Conclusion p. 217-224
+
+6\. What advice might you give to instructors to help them "play to their own strengths and weaknesses"? 
+
