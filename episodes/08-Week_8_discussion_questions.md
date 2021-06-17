@@ -12,11 +12,10 @@ keypoints:
 ## Reading:
  
 [Instructor Training: Preparing to Teach](https://carpentries.github.io/instructor-training/15-lesson-study/index.html)  
-[Instructor Training: More Practice Live Coding](http://carpentries.github.io/instructor-training/17-performance/index.html)  
-[Instructor Training: Managing a Diverse Classroom](https://carpentries.github.io/instructor-training/18-management/index.html)  
+[Instructor Training: More Practice Live Coding](http://carpentries.github.io/instructor-training/17-performance/index.html)   
 [Instructor Training: Checkout Process](https://carpentries.github.io/instructor-training/20-checkout/index.html)  
+[Instructor Training: The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/21-carpentries/index.html)  
 
-_How Learning Works_: Conclusion (p. 217-224)
 
 ## Hypothes.is: 
 1\. Please write comments, questions, or replies on the curriculum readings for today. Be sure you are using our private Hypothes.is group when you add your comments.
@@ -29,19 +28,18 @@ _How Learning Works_: Conclusion (p. 217-224)
 #### [Preparing to Teach](https://carpentries.github.io/instructor-training/15-lesson-study/index.html)
 3\. Identify one concept from this lesson that you think might be challenging to communicate. What makes it difficult? How might you work through it when teaching?
 
-#### [Managing a Diverse Classroom](https://carpentries.github.io/instructor-training/18-management/index.html)
-4\. The prospect of responding to a Code of Conduct violation is frightening, but we want Instructors to feel empowered to act and report if an incident occurs. This confidence starts with their Trainers. How do *you* feel about the prospect of handling an incident at a workshop? What questions do you have? What questions do you worry you won't be able to answer? 
 
 #### [Checkout Process](https://carpentries.github.io/instructor-training/20-checkout/index.html) 
 5\. Not all trainees are interested in completing checkout for certification. We're ok with that! What we worry about is 
 when trainees who *do* want to certify are intimidated or deterred by some part of the process. What role can a Trainer play 
 in supporting or encouraging trainees who want to complete the checkout process?
 
-### _How Learning Works_
+#### [The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/21-carpentries/index.html)
 
-#### Conclusion p. 217-224
+3\. What questions do you have about policies and procedures for running a workshop? Where do you think trainees might find this information confusing or unclear?
 
-6\. What advice might you give to instructors to help them "play to their own strengths and weaknesses"? 
+4\. What content on this page do you think is most important to emphasize for new trainees? 
+
 
 
 
