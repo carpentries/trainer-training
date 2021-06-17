@@ -10,7 +10,7 @@ keypoints:
 
 ## Reading:
  
-[Instructor Training: The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/21-carpentries/index.html)  
+[Instructor Training: Managing a Diverse Classroom](https://carpentries.github.io/instructor-training/18-management/index.html) 
 [Instructor Training: Workshop Introductions](https://carpentries.github.io/instructor-training/23-introductions/index.html)  
 [Instructor Training: Putting It Together](https://carpentries.github.io/instructor-training/24-practices/index.html)  
 [Pre-Workshop Reading: The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)  
@@ -25,11 +25,8 @@ keypoints:
 
 ### Instructor Training Curriculum
 
-#### [The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/21-carpentries/index.html)
-
-3\. What questions do you have about policies and procedures for running a workshop? Where do you think trainees might find this information confusing or unclear?
-
-4\. What content on this page do you think is most important to emphasize for new trainees? 
+#### [Managing a Diverse Classroom](https://carpentries.github.io/instructor-training/18-management/index.html)
+4\. The prospect of responding to a Code of Conduct violation is frightening, but we want Instructors to feel empowered to act and report if an incident occurs. This confidence starts with their Trainers. How do *you* feel about the prospect of handling an incident at a workshop? What questions do you have? What questions do you worry you won't be able to answer? 
 
 #### [Workshop Introductions](https://carpentries.github.io/instructor-training/23-introductions/index.html)
 5\. When we teach trainees to introduce a workshop, we are  talking about how to teach a different kind of content: here they are sharing the skills and knowledge necessary to participate in their workshop. This section includes a LOT of ideas in one place. How might we advise trainees to teach effectively, in addition to delivering complete information, during their introductions? 
