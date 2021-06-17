@@ -11,10 +11,12 @@ keypoints:
 
 ## Reading:
  
-[Instructor Training: Preparing to Teach](https://carpentries.github.io/instructor-training/15-lesson-study/index.html)  
-[Instructor Training: More Practice Live Coding](http://carpentries.github.io/instructor-training/17-performance/index.html)   
-[Instructor Training: Checkout Process](https://carpentries.github.io/instructor-training/20-checkout/index.html)  
-[Instructor Training: The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/21-carpentries/index.html)  
+ 
+[Instructor Training: Checkout Process](https://data-lessons.github.io/instructor-training/14-checkout/index.html)  
+[Instructor Training: The Carpentries: How We Operate](https://data-lessons.github.io/instructor-training/15-carpentries/index.html)
+[Instructor Training: Live Coding is a Skill](https://data-lessons.github.io/instructor-training/17-live/index.html) 
+[Instructor Training: Preparing to Teach](https://data-lessons.github.io/instructor-training/18-preparation/index.html)  
+[Instructor Training: More Practice Live Coding](https://data-lessons.github.io/instructor-training/20-performance/index.html)  
 
 
 ## Hypothes.is: 
@@ -25,22 +27,18 @@ keypoints:
 ### Instructor Training Curriculum
 2\. (Please do not skip.) What stands out or interests you from this week’s reading? You may type your own response but also feel free to paste a snippet from the curriculum itself or from any of the comments/questions/replies in Hypothes.is.
 
-#### [Preparing to Teach](https://carpentries.github.io/instructor-training/15-lesson-study/index.html)
-3\. Identify one concept from this lesson that you think might be challenging to communicate. What makes it difficult? How might you work through it when teaching?
-
-
-#### [Checkout Process](https://carpentries.github.io/instructor-training/20-checkout/index.html) 
-5\. Not all trainees are interested in completing checkout for certification. We're ok with that! What we worry about is 
+#### [Checkout Process](https://data-lessons.github.io/instructor-training/14-checkout/index.html) 
+3\. Not all trainees are interested in completing checkout for certification. We're ok with that! What we worry about is 
 when trainees who *do* want to certify are intimidated or deterred by some part of the process. What role can a Trainer play 
 in supporting or encouraging trainees who want to complete the checkout process?
 
-#### [The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/21-carpentries/index.html)
+#### [The Carpentries: How We Operate](https://data-lessons.github.io/instructor-training/15-carpentries/index.html)
+4\. What questions do you have about policies and procedures for running a workshop? Where do you think trainees might find this information confusing or unclear?
 
-3\. What questions do you have about policies and procedures for running a workshop? Where do you think trainees might find this information confusing or unclear?
+#### [Preparing to Teach](https://carpentries.github.io/instructor-training/15-lesson-study/index.html)
+5\. Write a learner profile for an Instructor trainee and share with the group. How different are your profiles? What kinds of support might each of your 
+imaginary trainees need?
 
-4\. What content on this page do you think is most important to emphasize for new trainees? 
-
-
-
+6\. Examine the learning objectives for this episode. Where in the episode would you expect that objective to be met? How will you know? How will learners know?
 
 
