@@ -5,7 +5,7 @@ exercises: 0
 objectives:
 - "Suggest ways in which Trainers can support Instructor trainees who may be intimidated or confused by checkout procedures."
 - "Identify confusing features of The Carpentries operational landscape."
-- "Predict likely characteristics of Instructor trainees, and compare predictions with others.
+- "Predict likely characteristics of Instructor trainees, and compare predictions with others."
 - "Apply learning objectives to identify checkpoints where objectives are met in a lesson about learning objectives!"
 keypoints:  
 - "Thinking critically about Bloom's Taxonomy is typically beyond the Blooms' level we can expect Instructor trainees to perform at. Examine *your* learning objectives carefully to calibrate your expectations for this episode and meet learners where they are."
