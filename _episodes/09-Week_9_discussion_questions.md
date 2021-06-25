@@ -29,7 +29,7 @@ keypoints:
 4\. The prospect of responding to a Code of Conduct violation is frightening, but we want Instructors to feel empowered to act and report if an incident occurs. This confidence starts with their Trainers. How do *you* feel about the prospect of handling an incident at a workshop? What questions do you have? What questions do you worry you won't be able to answer? 
 
 #### [Launches and Landings](https://data-lessons.github.io/instructor-training/23-introductions/index.html)
-5\. When we teach trainees to introduce a workshop, we are  talking about how to teach a different kind of content: here they are sharing the skills and knowledge necessary to participate in their workshop. This section includes a LOT of ideas in one place. How might we advise trainees to teach effectively, in addition to delivering complete information, during their introductions? 
+5\. Introductions often include a lot of mundane content. How can an introduction cultivate motivation (per our recommendations while still conveying necessary information?
 
 #### [Putting It Together](https://data-lessons.github.io/instructor-training/24-practices/index.html) 
 
