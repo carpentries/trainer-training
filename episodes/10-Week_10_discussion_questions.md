@@ -10,20 +10,22 @@ Examine [The Carpentries Handbook: Teaching and Hosting](https://docs.carpentrie
 Review [Trainer Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html)
 _How Learning Works_: Conclusion (p. 217-224)
 
-
-## Closing Questions:
-
-1\. What questions do you have about your role as an Instructor Trainer?
-
-2\. What questions do you have about The Carpentries community?
-
-3\. What are your goals as an Instructor Trainer?
-
-4\. What can The Carpentries Core Team and the Trainer community do to support you in your goals?
-
 ### _How Learning Works_
 
 #### Conclusion p. 217-224
 
-6\. What advice might you give to instructors to help them "play to their own strengths and weaknesses"? 
+1\. What is one area of teaching skill that you would like to work on? How did you decide on that goal? How could you advise an Instructor to prioritize their 
+skill development goals?
+
+
+## Closing Questions:
+
+2\. What questions do you have about your role as an Instructor Trainer?
+
+3\. What questions do you have about The Carpentries community?
+
+4\. What are your goals as an Instructor Trainer?
+
+5\. What can The Carpentries Core Team and the Trainer community do to support you in your goals?
+
 
