@@ -32,7 +32,42 @@ Preview to get a sense for what is contained in these lengthier references:
 - [Trainers Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html)
 
 
-## Overview of Trainer Training
+## Discussion Questions
+Discussion questions in this curriculum for each week serve the following purposes:
+- To help structure your reading and thinking about topics prior to each meeting
+- To help structure our conversations about topics during each meeting
+Each week, there will generally be more discussion questions than can be addressed during a 1 hour meeting. Leads should always include the first question and 
+any others identified as not to be skipped but otherwise may choose to prioritize questions that are interesting to them. Leads may also choose to ask their 
+own follow-up questions, and may occasionally add a separate question of their own after addressing some of those provided.
+### Carpentries Readings & Previews
+
+1\. What questions do you have about being a Trainer? 
+
+### _How Learning Works_: 
+#### Foreword
+
+2\. What do you think about the distinction between "Science of learning" and "Science of instruction"? How do you expect these 'sciences' to intersect? Where might they be different?
+    
+3\. _How Learning Works_ is presented as a solution to the “too soft/too hard” problem. What experience have you had with sources that are too soft or too hard? In education, programming, or other areas?
+    
+#### About the Authors
+
+4\. How might the backgrounds and research interests of the authors shape their writing?
+  
+#### Introduction
+
+5\.  This book is organized around seven principles for teaching. Discuss an example of how you’ve seen one of these principles influence learners’ experience. 
+If you have experience with Carpentries workshops, can you think of an example in that context?
+    
+6\.  In our discussions, we will often move between levels in the diagram below. We will apply the 7 principles to *teaching about how to teach* (in an 
+instructor training workshop) as well as *teaching technical skills* (in a Carpentries workshop). We'll even talk about *learning how to teach teaching* in your 
+role as a Trainer! Do the 7 principles apply equally well to all of these contexts? Are there any important differences to keep in mind?
+
+
+![Layers of Carpentries Instruction](../fig/Labeled_InstructorTrainers.svg)
+
+
+# Overview of Trainer Training
 This program is an on-boarding course designed to support Carpentries community-members in preparing to teach Instructor 
 Training workshops. It is not a substitute for Instructor Training; in contrast, this training includes fewer contact hours 
 and more independent work time stretched over a 10 week period. 
@@ -117,39 +152,6 @@ search the repository for existing issues on the subject, and add your voice to 
 to work through during our next update. Consider joining Trainer meetings now!
 
 
-## Discussion Questions
-Discussion questions in this curriculum for each week serve the following purposes:
-- To help structure your reading and thinking about topics prior to each meeting
-- To help structure our conversations about topics during each meeting
-Each week, there will generally be more discussion questions than can be addressed during a 1 hour meeting. Leads should always include the first question and 
-any others identified as not to be skipped but otherwise may choose to prioritize questions that are interesting to them. Leads may also choose to ask their 
-own follow-up questions, and may occasionally add a separate question of their own after addressing some of those provided.
-### Carpentries Readings & Previews
-
-1\. What questions do you have about being a Trainer? 
-
-### _How Learning Works_: 
-#### Foreword
-
-2\. What do you think about the distinction between "Science of learning" and "Science of instruction"? How do you expect these 'sciences' to intersect? Where might they be different?
-    
-3\. _How Learning Works_ is presented as a solution to the “too soft/too hard” problem. What experience have you had with sources that are too soft or too hard? In education, programming, or other areas?
-    
-#### About the Authors
-
-4\. How might the backgrounds and research interests of the authors shape their writing?
-  
-#### Introduction
-
-5\.  This book is organized around seven principles for teaching. Discuss an example of how you’ve seen one of these principles influence learners’ experience. 
-If you have experience with Carpentries workshops, can you think of an example in that context?
-    
-6\.  In our discussions, we will often move between levels in the diagram below. We will apply the 7 principles to *teaching about how to teach* (in an 
-instructor training workshop) as well as *teaching technical skills* (in a Carpentries workshop). We'll even talk about *learning how to teach teaching* in your 
-role as a Trainer! Do the 7 principles apply equally well to all of these contexts? Are there any important differences to keep in mind?
-
-
-![Layers of Carpentries Instruction](../fig/Labeled_InstructorTrainers.svg)
 
 
 
