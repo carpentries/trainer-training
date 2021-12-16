@@ -29,6 +29,7 @@ Carpentries readings:
 Preview to get a sense for what is contained in these lengthier references:
 - [Instructor Training Curriculum](http://carpentries.github.io/instructor-training/)
 - [GitHub repository](https://github.com/carpentries/instructor-training) for the Instructor Training Curriculum (check out the "issues" tab in particular)
+- [GitHub repository for the Trainer community](https://github.com/carpentries/trainers)
 - [Trainers Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html)
 
 
