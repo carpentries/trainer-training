@@ -87,24 +87,33 @@ Trainer community after completing this training.
 > the training time frame can fulfill the above requirements for observation if requested. 
 {: .discussion}
 
-Each week, we will discuss assigned readings. Discussion questions are provided to offer a framework for conversation; 
-however, we will always begin with trainee perspectives and interests, and discussion may digress substantially from the 
-discussion questions. While the questions can help to focus attention on important points, please also read to prepare for 
-broader conversation about the ideas and challenges in the readings each week.
+Each week, we will discuss assigned readings. Discussion questions are provided to offer a framework for reading and conversation; 
+these should be completed or at least thought through before each meeting. If you need to miss a meeting, questions may be submitted 
+by email or by adding responses to the Etherpad to enrich your group's conversation. When we meet
+we will always begin with a discussion of the first question about trainee perspectives and interests, facilitated by your host. Discussion may 
+at times digress from the discussion questions, and we will usually will not have time to talk about all questions during our 1 hour meeting slots.
 
-At sessions 3-9, one participant will play each of the following roles:
-- **Lead:** facilitates discusssion of the first question each week and selects from remaining questions to focus additional conversation, using breakout rooms as 
-desired. The Lead role is not about being an authority on the week's reading, but rather is an opportunity to practice guiding discussion on Zoom. Your host will 
-be available to discuss Zoom and facilitation questions during breakouts, and will also address questions or concerns as needed during discussion.
-- **Challenger:** In this role, your job is to imagine questions, concerns, or points of confusion that trainees might have. The challenger also takes notes when the note-taker is speaking.
-- **Notes:** takes notes on conversation in the collaborative document (Etherpad or Google Doc) for the session.
+At sessions 2-9, one participant will play each of the following roles:
+- **Lead:** assumes the Zoom "host" role and faciliates conversation after discussion of the first question has concluded. 
+Selects from remaining Discussion questions to focus conversation, using breakout rooms or other facilitation strategies as desired. 
+The Lead role is not about being an authority, 
+but rather is an opportunity to practice guiding discussion -- a skill you will use when you teach Instructor Training. Your host will 
+be available to help out as needed; if you do use breakouts, you may also consult with your host during that time to further discuss faciliatation strategies.
+- **Notes:** takes notes on conversation in the collaborative document (Etherpad or Google Doc) for the session. 
+- **Challenger:** The Challenger strives to identify hard questions, concerns, or points of confusion that trainees might have. 
+The person assigned to this role has a responsibility to try to think of these things, but anyone may pick up the mantle and 
+"be the Challenger" for a moment if they have something suitable to say. This role is important 
+because truly engaging with ideas demands that we consider opposing viewpoints or alternatives, and preparing to teach demands that we anticipate learner 
+confusion and misconceptions. For those who may feel uncomfortable 'making trouble, the Challenger role also has a helpful dimension: this person should pay 
+attention to who is taking notes, and plan to fill in on notes when that person is speaking. (Notes can also be taken by anyone -- please jump in if you see that no one is typing!)
+
 
 Your host will provide you with a proposed schedule for these roles for the full term. If it is impossible or impractical for you to play a role on any week 
 assigned to you, please let your host know immediately.
 
-### Instructor Training Workshops (in brief)
-Most of our Instructor Training Workshops are taught online, via Zoom; some partner institutions also host workshops in-
-person. All workshops must have a least 2 Instructor Trainers in attendance. New trainees should plan to be 
+### Instructor Training Events (in brief)
+Most of our Instructor Training events are taught online, via Zoom. When circumstances permit, some partner institutions also host events in-
+person. All events must have a least 2 Instructor Trainers in attendance. New trainees should plan to be 
 available for teaching assignments as soon as certification is complete. New Trainers will be matched with experienced 
 Trainers whenever possible. New trainees are also welcome to request a role as a third trainer to reduce the teaching load 
 and enhance observation opportunities during their first workshop.  
@@ -120,18 +129,19 @@ or non-routine discussions, and is also a substitute time when the first week fa
 found on the [Community Calendar](https://carpentries.org/community/#community-events) and joined via links on the [meeting Etherpad](https://pad.carpentries.org/trainers).
 
 Trainers also communicate asynchronously via Topicbox listserv, Slack, and GitHub. New trainees will be 
-invited to join the Topicbox list early in their training, and will be added to the Trainers Slack channel once they have 
-completed certification if they have registered with The [Carpentries Slack community](https://swc-slack-invite.herokuapp.com/). Communications on the [Instructor Training GitHub repository](https://github.com/carpentries/instructor-training) can be received by "following" the repository. 
-We also suggest joining The [Carpentries Discuss listserv](https://carpentries.topicbox.com/groups/discuss) on Topicbox for 
+invited to join the Topicbox list early in their training, and will also be added to the #trainers Slack channel 
+if they have registered with The [Carpentries Slack community](https://swc-slack-invite.herokuapp.com/). 
+Communications on the [Instructor Training GitHub repository](https://github.com/carpentries/instructor-training) can be received by "following" the repository. 
+We also suggest joining our general list, The [Carpentries Discuss listserv](https://carpentries.topicbox.com/groups/discuss) on Topicbox for 
 anyone who has not done so already.
 
 > ## Communications Checklist
 > Take a moment to sign up for commmunications channels:
 > 
 > **Communications channels to participate in**
-> - Carpentries Slack (optional but useful, especially in a pinch): https://swc-slack-invite.herokuapp.com/ Poke your host if you don't receive an invitation to the private Trainers channel within the next 1-2 weeks after signing up.
-> - "Follow" the Instructor Training GitHub repository:  https://github.com/carpentries/instructor-training
-> - Carpentries Discuss listserv: https://carpentries.topicbox.com/groups/discuss This list is for general conversations in the Carpentries community. You will be invited separately to join the private Trainers list on TopicBox.
+> - Carpentries Slack (optional but useful, especially in a pinch): <https://swc-slack-invite.herokuapp.com/> Poke your host if you don't receive an invitation to the private #trainers channel within the next 1-2 weeks after signing up.
+> - "Follow" the Instructor Training GitHub repository:  <https://github.com/carpentries/instructor-training>
+> - Carpentries Discuss listserv: <https://carpentries.topicbox.com/groups/discuss> This list is for general conversations in the Carpentries community. You will be invited separately to join the private Trainers list on TopicBox.
 > 
 > **General sources of information about The Carpentries**
 > - The Carpentries Newsletter: https://carpentries.org/newsletter/
@@ -140,17 +150,28 @@ anyone who has not done so already.
 
 
 ### Trainers Leadership
-A Trainers Leadership committee has been provisionally appointed and is currently in the process of drafting a 
-governance structure specific to the Trainers' community and planning an election. Stay tuned for more details!
+Once upon a time, the Trainer community consisted of a handful of people who met twice monthly: once to discuss training events, and once to make 
+decisions about community business. As our community grew, decision-making became more complex, often falling to a handful of people 
+with time to invest, or to The Carpentries Core Team. This system did not ensure that the interests of all Trainers were adequately addressed in decisions.
+  
+In 2020, some of these active participants were recruited to draft a new governance structure for the Trainer community, and in 2021 our first elections were 
+held. The Trainers Leadership group meets 1-2 times per month, consults with Core Team on matters of interest to Trainers, and proposes changes to management 
+of our curriculum and community to make it more welcoming, fun, and sustainable.
+
+New Trainers are an important voice to represent in Leadership, because they have a fresh perspective on the challenges faced by newcomers. 
+This role is available to all participants, not only those with extra time to share: we suggest that people serving in this role consider reducing 
+their other service activities in the community to compensate during their tenure. The period of service is 1 year. 
 
 
 ### A Culture of Contribution
-Instructor Trainers are a vital part of The Carpentries community, and not only because they teach Instructors! Most Trainers take 
-on leadership roles in their communities, locally or globally. Many assume leadership within the Trainer community, and all 
-are expected to contribute. Whatever your plans, don't wait to get involved! If you see a typo in the 
+Instructor Trainers are a vital part of The Carpentries community. In addition to training Instructors and supporting the collaborative 
+maintenance of our Instructor Training curriculum, Trainers typically take 
+on leadership roles in their own communities, locally or globally. Many assume leadership within the Trainer community, but all 
+are expected to contribute by coming to meetings and/or sharing thoughts or feedback in other ways. Whatever your plans, 
+don't wait to get involved! If you see a typo in the 
 curriculum, try out a pull request to fix it, or ask around to learn how. If you wonder if a section could be better, 
 search the repository for existing issues on the subject, and add your voice to the conversation or start a new issue for us 
-to work through during our next update. Consider joining Trainer meetings now!
+to work through during our next update. If you have time, consider joining Trainer meetings now!
 
 
 
