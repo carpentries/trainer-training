@@ -15,10 +15,6 @@ keypoints:
 ---
 ## Reading
 _How Learning Works_ Chapter 6, Chapter 7
-### Introduction to Hypothes.is
-Please visit [https://web.hypothes.is/](https://web.hypothes.is/)
-
-Try playing with this tool, and report back with any questions or problems. We will begin using it next week.
 
 ## Discussion Questions
 
@@ -34,5 +30,5 @@ Try playing with this tool, and report back with any questions or problems. We w
 
 4\. Most of our learners have rich experience with metacognitive strategies, but may not automatically apply them to the content of our workshops (technical or Instructor Training). Why do you think this is? How can we support our learners in transferring metacognitive skills appropriately? 
 
-5\. (Try not to skip this question.) Try making a concept map that links one or more of the strategies on p.203-215 to one or more practices that could be implemented in a workshop to support metacognition. What concepts did you connect? What relationships did you identify?
+5\. (**Try not to skip this question.**) Try making a concept map that links one or more of the strategies on p.203-215 to one or more practices that could be implemented in a workshop to support metacognition. What concepts did you connect? What relationships did you identify?
 
