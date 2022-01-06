@@ -29,7 +29,8 @@ The Carpentries Instructor Training Curriculum:
 ## Discussion Questions
 
 ### Instructor Training Curriculum
-1\. (Please do not skip) What stands out or interests you from this week’s reading? You may type your own response but also feel free to paste a snippet from the curriculum itself or from any of the comments/questions/replies in Hypothes.is.
+1\. What stood out to you from this week’s reading? Think of things that made sense in light of your own experience, 
+things you’re not convinced of, or questions that you have.
 
 #### [Building Skill With Feedback](https://data-lessons.github.io/instructor-training/06-feedback/index.html)
 2\. Reponses to Carpentries pre- and post- surveys are intended to be useful to Instructors, Hosts, and The Carpentries. In particular, we aspire to using data 
