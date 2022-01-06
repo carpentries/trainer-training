@@ -27,7 +27,8 @@ keypoints:
 
 
 ### Instructor Training Curriculum
-1\. What stands out or interests you from this week's reading? You may type your own response but also feel free to paste a snippet from the curriculum itself or from any of the comments/questions/replies in Hypothes.is. 
+1\. What stood out to you from this week’s reading? Think of things that made sense in light of your own experience, 
+things you’re not convinced of, or questions that you have.
 
 ### [Welcome](https://data-lessons.github.io/instructor-training/01-welcome/)
 2\. This module introduces the Instructor Training workshop. Depending on how Trainers use the curriculum, this section can be more or less interactive and can 
@@ -36,7 +37,7 @@ one opportunity for interaction with learners during this episode. How might you
 clock?
 
 #### [Building Skill With Practice](https://data-lessons.github.io/instructor-training/02-practice-learning/) 
-3\. (Try not to skip this one!) Try creating a concept map that includes the following 3 concepts: 
+3\. (**Try not to skip this question**) Try creating a concept map that includes the following 3 concepts: 
 - mental models
 - analogies
 - concept maps  
