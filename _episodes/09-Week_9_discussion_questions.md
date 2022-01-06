@@ -13,9 +13,9 @@ keypoints:
 
 ## Reading:
  
-[Instructor Training: Working With Your Team](https://data-lessons.github.io/instructor-training/21-management/index.html)  
-[Instructor Training: Launches and Landings](https://data-lessons.github.io/instructor-training/23-introductions/index.html)  
-[Instructor Training: Putting It Together](https://data-lessons.github.io/instructor-training/24-practices/index.html)  
+[Instructor Training: Working With Your Team](https://carpentries.github.io/instructor-training/21-management/index.html)  
+[Instructor Training: Launches and Landings](https://carpentries.github.io/instructor-training/23-introductions/index.html)  
+[Instructor Training: Putting It Together](https://carpentries.github.io/instructor-training/24-practices/index.html)  
 [Pre-Workshop Reading: The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)  
 
 
@@ -32,6 +32,7 @@ things you’re not convinced of, or questions that you have.
 #### [Launches and Landings](https://data-lessons.github.io/instructor-training/23-introductions/index.html)
 3\. Introductions often include a lot of mundane content. How can an introduction cultivate motivation (per our recommendations) while still conveying necessary information?
 
-#### [Putting It Together](https://data-lessons.github.io/instructor-training/24-practices/index.html) 
+
+#### [Putting It Together](https://carpentries.github.io/instructor-training/24-practices/index.html) 
 
 4\. Try the "Organize your knowledge" activity! Report back: what did you learn?

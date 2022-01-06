@@ -18,11 +18,11 @@ keypoints:
 ## Reading:
  
  
-[Instructor Training: Checkout Process](https://data-lessons.github.io/instructor-training/14-checkout/index.html)  
-[Instructor Training: The Carpentries: How We Operate](https://data-lessons.github.io/instructor-training/15-carpentries/index.html)  
-[Instructor Training: Live Coding is a Skill](https://data-lessons.github.io/instructor-training/17-live/index.html)  
-[Instructor Training: Preparing to Teach](https://data-lessons.github.io/instructor-training/18-preparation/index.html)   
-[Instructor Training: More Practice Live Coding](https://data-lessons.github.io/instructor-training/20-performance/index.html)  
+[Instructor Training: Checkout Process](https://carpentries.github.io/instructor-training/14-checkout/index.html)  
+[Instructor Training: The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/15-carpentries/index.html)  
+[Instructor Training: Live Coding is a Skill](https://carpentries.github.io/instructor-training/17-live/index.html)  
+[Instructor Training: Preparing to Teach](https://carpentries.github.io/instructor-training/18-preparation/index.html)   
+[Instructor Training: More Practice Live Coding](https://carpentries.github.io/instructor-training/20-performance/index.html)  
 
 ## Discussion Questions
 

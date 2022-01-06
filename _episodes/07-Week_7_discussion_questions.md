@@ -17,12 +17,12 @@ keypoints:
 
 ## Reading:
 The Carpentries Instructor Training Curriculum:  
-[Building Skill With Feedback](https://data-lessons.github.io/instructor-training/06-feedback/index.html)  
-[Motivation and Demotivation](https://data-lessons.github.io/instructor-training/08-motivation/index.html)  
-[Equity, Inclusion, and Accessibility](https://data-lessons.github.io/instructor-training/09-eia/index.html)  
-[Teaching is a Skill](https://data-lessons.github.io/instructor-training/11-practice-teaching/index.html)  
-[Wrap-up and Homework](https://data-lessons.github.io/instructor-training/12-homework/index.html)  
-[Welcome Back](http://data-lessons.github.io/instructor-training/13-second-welcome/index.html)   
+[Building Skill With Feedback](https://carpentries.github.io/instructor-training/06-feedback/index.html)  
+[Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/index.html)  
+[Equity, Inclusion, and Accessibility](https://carpentries.github.io/instructor-training/09-eia/index.html)  
+[Teaching is a Skill](https://carpentries.github.io/instructor-training/11-practice-teaching/index.html)  
+[Wrap-up and Homework](https://carpentries.github.io/instructor-training/12-homework/index.html)  
+[Welcome Back](https://carpentries.github.io/instructor-training/13-second-welcome/index.html)   
 
 
 
@@ -32,12 +32,15 @@ The Carpentries Instructor Training Curriculum:
 1\. What stood out to you from this week’s reading? Think of things that made sense in light of your own experience, 
 things you’re not convinced of, or questions that you have.
 
+
 #### [Building Skill With Feedback](https://data-lessons.github.io/instructor-training/06-feedback/index.html)
 2\. Reponses to Carpentries pre- and post- surveys are intended to be useful to Instructors, Hosts, and The Carpentries. In particular, we aspire to using data 
+
 from these surveys to improve understanding of the functionality of our programming as well as promote our successes and needs to funders. 
 This is critical to the sustainability of The Carpentries overall.
 However, this requires that surveys be systematically administered. Nobody like surveys, and it's not fun to hound people to take them, either. What can we do to 
 persuade Instructors to make more consistent use of these important assessment tools? (Responses might include ways to make the surveys themselves more useful.)
+
 
 #### [Motivation and Demotivation](https://data-lessons.github.io/instructor-training/08-motivation/index.html)
 3\. Avoiding demotivating learners is at least as important as motivating them, but there are many demotivating "traps" an 

@@ -18,17 +18,18 @@ keypoints:
 - "There are many approaches and supporting documents available to teach Instructor Training. Many of these are referenced in the Instructor Notes."
 ---
 ## Reading:
-[Welcome](https://data-lessons.github.io/instructor-training/01-welcome/index.html)  
-[Instructor Training: Building Skill With Practice](https://data-lessons.github.io/instructor-training/02-practice-learning/index.html)   
-[Instructor Training: Expertise and Instruction](https://data-lessons.github.io/instructor-training/04-expertise/index.html)  
-[Instructor Training: Memory and Cognitive Load](https://data-lessons.github.io/instructor-training/05-memory/index.html)  
-[Instructor Notes](https://carpentries.github.io/instructor-training/guide/index.html)   
-[Etherpad Template](https://pad.carpentries.org/ttt-template-0621)  
+[Welcome](https://carpentries.github.io/instructor-training/01-welcome/index.html)  
+[Instructor Training: Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning/index.html)   
+[Instructor Training: Expertise and Instruction](https://carpentries.github.io/instructor-training/04-expertise/index.html)  
+[Instructor Training: Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/index.html)  
+[Trainer Notes](https://carpentries.github.io/instructor-training/guide/index.html)   
+[Etherpad Template](https://pad.carpentries.org/ttt-template)  
 
 
 ### Instructor Training Curriculum
 1\. What stood out to you from this week’s reading? Think of things that made sense in light of your own experience, 
 things you’re not convinced of, or questions that you have.
+
 
 ### [Welcome](https://data-lessons.github.io/instructor-training/01-welcome/)
 2\. This module introduces the Instructor Training workshop. Depending on how Trainers use the curriculum, this section can be more or less interactive and can 
@@ -36,8 +37,10 @@ take more or less time than it is formally allocated. This is especially importa
 one opportunity for interaction with learners during this episode. How might you use this to establish a positive learning environment without running out the 
 clock?
 
+
 #### [Building Skill With Practice](https://data-lessons.github.io/instructor-training/02-practice-learning/) 
 3\. (**Try not to skip this question**) Try creating a concept map that includes the following 3 concepts: 
+
 - mental models
 - analogies
 - concept maps  
@@ -46,6 +49,7 @@ What connections did you make during this process?
 4\. We introduce skill acquisition in this module, but really dig into expertise in the next. What is the purpose of introducing skill acquisition here? What 
 should be emphasized here, vs in the next section?
     
+
 #### [Expertise and Instruction](https://data-lessons.github.io/instructor-training/04-expertise/)
 5\. Do you think you might have any expert awareness gaps on the subject of teaching or learning? How might such gaps become apparent when teaching others how to teach?
 
