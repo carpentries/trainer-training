@@ -15,13 +15,7 @@ keypoints:
 ---
 ## Reading
 _How Learning Works_ Chapter 6, Chapter 7
-### Introduction to Hypothes.is
-Please visit [https://web.hypothes.is/](https://web.hypothes.is/)
-
-Try playing with this tool, and report back with any questions or problems. We will begin using it next week.
-
 ## Discussion Questions
-
 1\. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
 
 ### _How Learning Works_
