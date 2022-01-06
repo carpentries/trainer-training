@@ -31,14 +31,14 @@ keypoints:
 things you’re not convinced of, or questions that you have.
 
 
-### [Welcome](https://data-lessons.github.io/instructor-training/01-welcome/)
+### [Welcome](https://carpentries.github.io/instructor-training/01-welcome/)
 2\. This module introduces the Instructor Training workshop. Depending on how Trainers use the curriculum, this section can be more or less interactive and can 
 take more or less time than it is formally allocated. This is especially important when workshops get off to a slow start for logistical reasons. Try to identify 
 one opportunity for interaction with learners during this episode. How might you use this to establish a positive learning environment without running out the 
 clock?
 
 
-#### [Building Skill With Practice](https://data-lessons.github.io/instructor-training/02-practice-learning/) 
+#### [Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning/) 
 3\. (**Try not to skip this question**) Try creating a concept map that includes the following 3 concepts: 
 
 - mental models
@@ -50,11 +50,11 @@ What connections did you make during this process?
 should be emphasized here, vs in the next section?
     
 
-#### [Expertise and Instruction](https://data-lessons.github.io/instructor-training/04-expertise/)
+#### [Expertise and Instruction](https://carpentries.github.io/instructor-training/04-expertise/)
 5\. Do you think you might have any expert awareness gaps on the subject of teaching or learning? How might such gaps become apparent when teaching others how to teach?
 
 
-#### [Memory and Cognitive Load](https://data-lessons.github.io/instructor-training/05-memory/index.html)
+#### [Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/index.html)
 6\. This episode explains why we should teach slowly and allow time for practice. However, many of our curricula contain 
 more content than can sometimes be covered in our '2-day' format. How can we help our trainees remember to keep it slow and 
 resist the urge to 'get through' everything by talking faster?
