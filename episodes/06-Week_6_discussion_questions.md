@@ -42,7 +42,7 @@ clock?
 4\. (Try not to skip this one!) Try creating a concept map that includes the following 3 concepts: 
 - mental models
 - analogies
-- concept maps
+- concept maps  
 What connections did you make during this process?
     
 5\. We introduce skill acquisition in this module, but really dig into expertise in the next. What is the purpose of introducing skill acquisition here? What 
