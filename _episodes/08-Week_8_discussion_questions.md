@@ -27,7 +27,8 @@ keypoints:
 ## Discussion Questions
 
 ### Instructor Training Curriculum
-1\. (Please do not skip.) What stands out or interests you from this week’s reading? You may type your own response but also feel free to paste a snippet from the curriculum itself or from any of the comments/questions/replies in Hypothes.is.
+1\. What stood out to you from this week’s reading? Think of things that made sense in light of your own experience, 
+things you’re not convinced of, or questions that you have.
 
 #### [Checkout Process](https://data-lessons.github.io/instructor-training/14-checkout/index.html) 
 2\. Not all trainees are interested in completing checkout for certification. We're ok with that! What we worry about is 
