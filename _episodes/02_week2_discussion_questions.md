@@ -35,7 +35,9 @@ _How Learning Works_:
 such an impact in this case? Do you think any of the strategies suggested in this chapter might have helped?
 
 #### Appendix A
-5\. Have a look at the [pre-assessment survey](https://www.surveymonkey.com/r/Preview/?sm=pRLWB3SiycOkcDiF9r3UP5tGr2zOHWJy_2BRNgUdCAjNuIlHUEY1KC2IWSB2dl2tqg) for Instructor Training workshops. (It is a preview but you do need to respond to the first two questions to view the rest.) How might you use the responses of this survey? If you could ask one additional question, what would it be?
+5\. Have a look at the [pre-assessment survey](https://carpentries.github.io/assessment-archives/instructor-training-pre/instructor-training-pre.html) for 
+Instructor Training workshops. Can you identify one question that might influence how you approach teaching, depending on the distribution of responses? If you 
+could ask one additional question, what would it be?
     
 #### Chapter 2: How Does the Way Students Organize Knowledge Affect Their Learning
 
