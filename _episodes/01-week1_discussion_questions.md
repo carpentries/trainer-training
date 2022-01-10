@@ -60,8 +60,8 @@ Please write or think through short answers to the discussion questions before e
 5\.  This book is organized around seven principles for teaching. Share an example of how you’ve seen one of these principles influence learners’ experience. 
 
     
-6\.  In our discussions, we will often move between levels in the diagram below. We will apply the 7 principles to *teaching about how to teach* (in an 
-instructor training workshop) as well as *teaching technical skills* (in a Carpentries workshop). We'll even talk about *learning how to teach teaching* in your 
+6\.  In our discussions, we will often move between levels in the diagram below. We will apply the 7 principles to *teaching about how to teach* (in 
+instructor training) as well as *teaching technical skills* (in a Carpentries workshop). We'll even talk about *learning how to teach teaching* in your 
 role as a Trainer! Do the 7 principles apply equally well to all of these contexts? Are there any important differences to keep in mind?
 
 
