@@ -36,7 +36,7 @@ by this figure?
 4\. This chapter offers a number of strategies for establishing value and building positive expectancies (p.83-89). Which are most relevant to Carpentries workshops? Are any of them **not** relevant in this setting? Why or why not?
 
 #### Chapter 4: How Do Students Develop Mastery?
-5\. This chapter discusses expert "blind spots" (now re-named in our curriculum as ["expert awareness gaps"](https://carpentries.github.io/instructor-training/03-expertise/index.html#expert-awareness-gap)) and cognitive load. 
+5\. This chapter discusses expert "blind spots" (now re-named in our curriculum as ["expert awareness gaps"](https://carpentries.github.io/instructor-training/04-expertise/index.html#expert-awareness-gap)) and cognitive load. 
 How might these affect learners during an Instructor Training workshop? How about Trainers?
 
 6\. When students learn skills but don’t learn how to apply them, they may fail to use those skills when they are relevant. 
