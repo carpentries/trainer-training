@@ -35,11 +35,9 @@ one opportunity for interaction with learners during this episode. How might you
 clock?
 
 #### [Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning/index.html) 
-3\. (**Try not to skip this one!**) Try creating a concept map that includes the following 3 concepts: 
-- mental models
-- analogies
-- concept maps  
-What connections did you make during this process?
+3\. (**Try not to skip this one!**) Try creating a small concept map that includes "teaching" and "learning" as concepts. 
+How did you describe the relationship between teaching and learning? What other concepts and relationships did you include? 
+If you would like to try an online tool for this, visit <https://excalidraw.com>. 
     
 4\. We introduce skill acquisition in this module, but really dig into expertise in the next. What is the purpose of introducing skill acquisition here? What 
 should be emphasized here, vs in the next section?
