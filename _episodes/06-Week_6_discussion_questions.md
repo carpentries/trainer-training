@@ -22,8 +22,8 @@ keypoints:
 [Instructor Training: Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning/index.html)   
 [Instructor Training: Expertise and Instruction](https://carpentries.github.io/instructor-training/04-expertise/index.html)  
 [Instructor Training: Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/index.html)  
-[Trainer Notes](https://carpentries.github.io/instructor-training/guide/index.html)   
-[Etherpad Template](https://pad.carpentries.org/ttt-template)  
+[Trainer Notes](https://carpentries.github.io/instructor-training/guide/index.html)  
+[Etherpad Template](https://pad.carpentries.org/ttt-template)  - skim
 
 ### Instructor Training Curriculum
 1\. What stood out to you from this week’s reading? Think of things that made sense in light of your own experience, things you’re not convinced of, or questions that you have.
