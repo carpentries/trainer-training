@@ -15,8 +15,7 @@ keypoints:
 - "New Instructors should start their improvement process with 'low hanging fruit' -- teaching techniques they can easily adopt. For some, this might center on presentation style while for others, it might have more to do with classroom mechanics. Focusing on one thing at a time to improve on can help people evaluate and prioritize their goals as they progress."
 ---
 
-## Reading:
-### The Carpentries Instructor Training Curriculum:  
+## Reading: 
 [Building Skill With Feedback](https://carpentries.github.io/instructor-training/06-feedback/index.html)  
 [Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation/index.html)  
 [Equity, Inclusion, and Accessibility](https://carpentries.github.io/instructor-training/09-eia/index.html)  
