@@ -35,16 +35,16 @@ _How Learning Works_:
 such an impact in this case? Do you think any of the strategies suggested in this chapter might have helped?
 
 #### Appendix A
-5\. Have a look at the [pre-assessment survey](https://carpentries.github.io/assessment-archives/instructor-training-pre/instructor-training-pre.html) for 
+3\. Have a look at the [pre-assessment survey](https://carpentries.github.io/assessment-archives/instructor-training-pre/instructor-training-pre.html) for 
 Instructor Training workshops. Can you identify one question that might influence how you approach teaching, depending on the distribution of responses? If you 
 could ask one additional question, what would it be?
     
 #### Chapter 2: How Does the Way Students Organize Knowledge Affect Their Learning
 
-3\. Examine Figure 2.2 (p.50 of the print edition). How do these diagrams relate to knowledge or learner mental models that 
+4\. Examine Figure 2.2 (p.50 of the print edition). How do these diagrams relate to knowledge or learner mental models that 
 you are familiar with? Which do you think best represents a learner who has just taken a Carpentries technical workshop? 
 
-4\. Take a look at the strategies for ways Instructors can assess and enhance their own knowledge organization at the end of Chapter 2 (p. 59-65). Choose one strategy and think about how an instructor could apply it when preparing to teach a Carpentries workshop. On a scale from 1-10, how challenging do you think it would be for a new Instructor to use?  
+5\. Take a look at the strategies for ways Instructors can assess and enhance their own knowledge organization at the end of Chapter 2 (p. 59-65). Choose one strategy and think about how an instructor could apply it when preparing to teach a Carpentries workshop. On a scale from 1-10, how challenging do you think it would be for a new Instructor to use?  
 
 #### Appendix B
 6\. \* (Try not to skip this question) Draft a small concept map (3-5 items with labeled connections) for **your own eyes only (not to be shared!)** that partially explains one of the following topics:
