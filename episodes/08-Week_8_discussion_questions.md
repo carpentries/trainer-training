@@ -39,9 +39,12 @@ in supporting or encouraging trainees who want to complete the checkout process?
 3\. What questions do you have about policies and procedures for running a workshop? Where do you think trainees might find this information confusing or unclear?
 
 #### [Preparing to Teach](https://carpentries.github.io/instructor-training/18-preparation/index.html)
-4\. Write a learner profile for an Instructor trainee and share with the group. How different are your profiles? What kinds of support might each of your 
+4\. Write a learner profile for an Instructor trainee and share with the group (see the ["Additional Exercises" page](https://carpentries.github.io/instructor-training/additional_exercises/index.html#episode-15-preparing-to-teach) for detailed instructions on learner profiles). How different are your profiles? What kinds of support might each of your 
 imaginary trainees need?
 
-5\. Examine the learning objectives for this episode. Where in the episode would you expect that objective to be met? How will you know? How will learners know?
+5\. The exercise on [evaluating learning objectives](https://carpentries.github.io/instructor-training/18-preparation/index.html#evaluate-learning-objectives) still needs work. The goal is to get learners a) looking at learning objectives critically and 
+b) thinking in levels *like* Bloom's Taxonomy without 
+actually introducing the jargon and complexities of the Bloom's model. In practice, however, learners are very prone to thinking in terms of **steps** rather 
+than **levels** of cognitive challenge. Can you think of a change to this exercise, or a different exercise entirely, that might be more effective? 
 
 
