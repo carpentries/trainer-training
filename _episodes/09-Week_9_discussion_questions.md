@@ -25,11 +25,10 @@ keypoints:
 ### Instructor Training Curriculum
 
 #### [Working With Your Team](https://carpentries.github.io/instructor-training/21-management/index.html)
-2\. The prospect of responding to a Code of Conduct violation is frightening, but we want Instructors to feel empowered to act and report if an incident occurs. This confidence starts with their Trainers. How do *you* feel about the prospect of handling an incident at a workshop? What questions do you have? What questions do you worry you won't be able to answer? 
+2\. How do *you* feel about the prospect of handling a Code of Conduct incident at an event? What questions do you have? 
 
 #### [Launches and Landings](https://carpentries.github.io/instructor-training/23-introductions/index.html)
 3\. Introductions often include a lot of mundane content. How can an introduction cultivate motivation (per our recommendations) while still conveying necessary information?
 
 #### [Putting It Together](https://carpentries.github.io/instructor-training/24-practices/index.html) 
-
 4\. Try the "Organize your knowledge" activity! Report back: what did you learn?
