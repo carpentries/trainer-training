@@ -131,7 +131,7 @@ found on the [Community Calendar](https://carpentries.org/community/#community-e
 Trainers also communicate asynchronously via Topicbox listserv, Slack, and GitHub. New trainees will be 
 invited to join the Topicbox list early in their training, and will also be added to the #trainers Slack channel 
 if they have registered with The [Carpentries Slack community](https://swc-slack-invite.herokuapp.com/). 
-Communications on the [Instructor Training GitHub repository](https://github.com/carpentries/instructor-training) can be received by "following" the repository. 
+Communications on the [Instructor Training GitHub repository](https://github.com/carpentries/instructor-training) can be received by "watching" the repository. 
 We also suggest joining our general list, The [Carpentries Discuss listserv](https://carpentries.topicbox.com/groups/discuss) on Topicbox for 
 anyone who has not done so already.
 
