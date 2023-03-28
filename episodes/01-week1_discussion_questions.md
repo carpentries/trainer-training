@@ -23,7 +23,7 @@ keypoints:
 - Introduction 
 
 Carpentries readings: 
-- [Trainer Agreement](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html)
+- [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html)
 - [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 
 Preview to get a sense for what is contained in these lengthier references:
@@ -95,18 +95,15 @@ at times digress from the discussion questions, and we will usually will not hav
 
 At sessions 2-9, one participant will play each of the following roles:
 - **Lead:** assumes the Zoom "host" role and faciliates conversation after discussion of the first question has concluded. 
-Selects from remaining Discussion questions to focus conversation, using breakout rooms or other facilitation strategies as desired. 
-The Lead role is not about being an authority, 
+Importantly, the lead selects from remaining Discussion questions in the curriculum, choosing which to use first, and which to cut if they wish to spend 
+more time on a particular topic. Leads should consider experimenting with structure, e.g. using breakout rooms or other facilitation strategies as 
+desired. This is a great place to get feedback on a method you'd like to try!
+The Lead role is **not** about being an authority, 
 but rather is an opportunity to practice guiding discussion -- a skill you will use when you teach Instructor Training. Your host will 
-be available to help out as needed; if you do use breakouts, you may also consult with your host during that time to further discuss faciliatation strategies.
-- **Notes:** takes notes on conversation in the collaborative document (Etherpad or Google Doc) for the session. 
-- **Challenger:** The Challenger strives to identify hard questions, concerns, or points of confusion that trainees might have. 
-The person assigned to this role has a responsibility to try to think of these things, but anyone may pick up the mantle and 
-"be the Challenger" for a moment if they have something suitable to say. This role is important 
-because truly engaging with ideas demands that we consider opposing viewpoints or alternatives, and preparing to teach demands that we anticipate learner 
-confusion and misconceptions. For those who may feel uncomfortable 'making trouble, the Challenger role also has a helpful dimension: this person should pay 
-attention to who is taking notes, and plan to fill in on notes when that person is speaking. (Notes can also be taken by anyone -- please jump in if you see that no one is typing!)
-
+be available to help out as needed. If you use breakouts, you can decide if you wish to join a group or discuss faciliatation strategies with your host during the breakout time.
+- **Notes:** takes notes on conversation in the collaborative document (Etherpad or Google Doc) for the session. We do not need perfect notes! In fact, lengthy notes can be hard to read. The goal is to create a basic record we can use, e.g. to refresh a prior conversation, review a missed meeting, or see what the other group talked about. It is ok to ask a speaker to make corrections if you feel something important was missed.
+- **Questioner:** The Questioner strives to identify questions, concerns, or points of confusion that trainees might have. 
+The person assigned to this role has a responsibility to set aside time to think about possible questions, but this is a role that everyone should strive to help out with. The person in the Questioner role is also asked to serve as a backup note-taker, which means paying attention to times when the notetaker is speaking or has to step away.
 
 Your host will provide you with a proposed schedule for these roles for the full term. If it is impossible or impractical for you to play a role on any week 
 assigned to you, please let your host know immediately.
