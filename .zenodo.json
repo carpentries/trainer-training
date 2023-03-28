@@ -1,0 +1,58 @@
+{
+  "contributors": [
+    {
+      "type": "Editor",
+      "name": "Karen Word",
+      "orcid": "0000-0002-7294-7231"
+    },
+    {
+      "type": "Editor",
+      "name": "Erin Alison Becker",
+      "orcid": "0000-0002-6832-0233"
+    },
+    {
+      "type": "Editor",
+      "name": "Kelly Barnes"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Karen Word",
+      "orcid": "0000-0002-7294-7231"
+    },
+    {
+      "name": "Erin Becker",
+      "orcid": "0000-0002-6832-0233"
+    },
+    {
+      "name": "Kelly Barnes"
+    },
+    {
+      "name": "Brian Ballsun-Stanton",
+      "orcid": "0000-0003-4932-7912"
+    },
+    {
+      "name": "Angela Li",
+      "orcid": "0000-0002-8956-419X"
+    },
+    {
+      "name": "Zhian Namir Kamvar",
+      "orcid": "0000-0003-1458-7108"
+    },
+    {
+      "name": "Adam Richie-Halford",
+      "orcid": "0000-0001-9276-9084"
+    },
+    {
+      "name": "Jonah Duckles",
+      "orcid": "0000-0002-8985-3119"
+    },
+    {
+      "name": "Sarah M Brown",
+      "orcid": "0000-0001-5728-0822"
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  }
+}
