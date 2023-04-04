@@ -18,23 +18,23 @@ keypoints:
 - "There are many approaches and supporting documents available to teach Instructor Training. Many of these are referenced in the Instructor Notes."
 ---
 ## Reading:
-[Welcome](https://carpentries.github.io/instructor-training/01-welcome/index.html)  
-[Instructor Training: Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning/index.html)   
-[Instructor Training: Expertise and Instruction](https://carpentries.github.io/instructor-training/04-expertise/index.html)  
-[Instructor Training: Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/index.html)  
-[Trainer Notes](https://carpentries.github.io/instructor-training/guide/index.html)  
+[Welcome](https://carpentries.github.io/instructor-training/01-welcome)  
+[Instructor Training: Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning)   
+[Instructor Training: Expertise and Instruction](https://carpentries.github.io/instructor-training/04-expertise)  
+[Instructor Training: Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory)  
+[Trainer Notes](https://carpentries.github.io/instructor-training/guide)  
 [Etherpad Template](https://pad.carpentries.org/ttt-template)  - skim
 
 ### Instructor Training Curriculum
 1\. What stood out to you from this week’s reading? Think of things that made sense in light of your own experience, things you’re not convinced of, or questions that you have.
 
-#### [Welcome](https://carpentries.github.io/instructor-training/01-welcome/index.html)
+#### [Welcome](https://carpentries.github.io/instructor-training/01-welcome)
 2\. This module introduces the Instructor Training workshop. Depending on how Trainers use the curriculum, this section can be more or less interactive and can 
 take more or less time than it is formally allocated. This is especially important when workshops get off to a slow start for logistical reasons. Try to identify 
 one opportunity for interaction with learners during this episode. How might you use this to establish a positive learning environment without running out the 
 clock?
 
-#### [Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning/index.html) 
+#### [Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning) 
 3\. (**Try not to skip this one!**) Try creating a small concept map that includes "teaching" and "learning" as concepts. 
 How did you describe the relationship between teaching and learning? What other concepts and relationships did you include? 
 If you would like to try an online tool for this, visit <https://excalidraw.com>. 
@@ -42,11 +42,11 @@ If you would like to try an online tool for this, visit <https://excalidraw.com>
 4\. We introduce skill acquisition in this module, but really dig into expertise in the next. What is the purpose of introducing skill acquisition here? What 
 should be emphasized here, vs in the next section?
     
-#### [Expertise and Instruction](https://carpentries.github.io/instructor-training/04-expertise/index.html)
+#### [Expertise and Instruction](https://carpentries.github.io/instructor-training/04-expertise)
 5\. Do you think you might have any expert awareness gaps on the subject of teaching or learning? How might such gaps become apparent when teaching others how to teach?
 
 
-#### [Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory/index.html)
+#### [Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory)
 6\. This episode explains why we should teach slowly and allow time for practice. However, many of our curricula contain 
 more content than can sometimes be covered in our '2-day' format. How can we help our trainees remember to keep it slow and 
 resist the urge to 'get through' everything by talking faster?
