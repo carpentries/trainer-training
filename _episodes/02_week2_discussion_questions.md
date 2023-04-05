@@ -3,11 +3,11 @@ title: "Week 2 Discussion Questions"
 teaching: 5
 exercises: 55
 questions:
-- "How can prior knowledge influence a workshop experience, and how can we plan to adjust to variation?"
-- "How can the structure of information be explored and made explicit to support learning in a workshop?"
+- "How can prior knowledge influence a workshop or training experience, and how can we plan to adjust to variation?"
+- "How can the structure of information be explored and made explicit to support learning in a workshop or training event?"
 objectives:
 - "Examine relationships between prior knowledge and learning new things."
-- "Plan how to use pre-assessment data in preparing to teach an Instructor Training workshop."
+- "Plan how to use pre-assessment data in preparing to teach Instructor Training."
 - "Evaluate the knowledge-organization strategies in terms of ease of use for new Instructors."
 - "Apply a concept map to explore concepts of teaching and learning." 
 keypoints:
@@ -36,7 +36,7 @@ such an impact in this case? Do you think any of the strategies suggested in thi
 
 #### Appendix A
 3\. Have a look at the [pre-assessment survey](https://carpentries.github.io/assessment-archives/instructor-training-pre/instructor-training-pre.html) for 
-Instructor Training workshops. Can you identify one question that might influence how you approach teaching, depending on the distribution of responses? If you 
+Instructor Training events. Can you identify one question that might influence how you approach teaching, depending on the distribution of responses? If you 
 could ask one additional question, what would it be?
     
 #### Chapter 2: How Does the Way Students Organize Knowledge Affect Their Learning
@@ -44,7 +44,7 @@ could ask one additional question, what would it be?
 4\. Examine Figure 2.2 (p.50 of the print edition). How do these diagrams relate to knowledge or learner mental models that 
 you are familiar with? Which do you think best represents a learner who has just taken a Carpentries technical workshop? 
 
-5\. Take a look at the strategies for ways Instructors can assess and enhance their own knowledge organization at the end of Chapter 2 (p. 59-65). Choose one strategy and think about how an instructor could apply it when preparing to teach a Carpentries workshop. On a scale from 1-10, how challenging do you think it would be for a new Instructor to use?  
+5\. Take a look at the strategies for ways Instructors can assess and enhance their own knowledge organization at the end of Chapter 2 (p. 59-65). Choose one strategy and think about how an Instructor could apply it when preparing to teach a Carpentries workshop. On a scale from 1-10, how challenging do you think it would be for a new Instructor to use?  
 
 #### Appendix B
 6\. \* (Try not to skip this question) Draft a small concept map (3-5 items with labeled connections) for **your own eyes only (not to be shared!)** that partially explains one of the following topics:
