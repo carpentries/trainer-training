@@ -4,7 +4,7 @@ questions:
 objectives: 
 - "Apply Bloom's Taxonomy to adjust the level of a learning objective."
 - "Describe how common Carpentries classroom practices provide opportunities for practice and feedback."
-- "Evaluate the usefulness of potential sources of workshop feedback for learners."
+- "Evaluate the usefulness of potential sources of feedback for learners."
 - "Assess differences between potential feedback coming from learners vs co-Instructors or co-Trainers."
 keypoints:
 - "The cognitive level of a task is directly related to the action expected from learners -- not the complexity of the material or the stage of a workflow. Bloom's Taxonomy and associated verb charts are useful tools for evaluating the level of cognition required."
@@ -14,7 +14,7 @@ keypoints:
 ## Reading
 *How Learning Works*: 
 - Appendix D
-- Chapter 5
+- Chapter 5 - What Kinds of Practice and Feedback Enhance Learning?
 
 ## Discussion Questions
 1\. What stood out to you from this week’s reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
@@ -31,7 +31,7 @@ this regard? A helper?
 
 4\. Feedback is an essential component of effective practice. In what ways do learners in a technical workshop get feedback on their progress? Is that feedback likely to meet the criteria for *useful* feedback outlined in this chapter? Why or why not?
 
-5\. In all workshops (Instructor Training and technical) Carpentries surveys provide feedback from learners, and additional feedback mechanisms (e.g. minute cards 
+5\. In both Instructor Training and technical workshops, Carpentries surveys provide feedback from learners, and additional feedback mechanisms (e.g. minute cards 
 and one-up-one-down) supplement this for a rich source of information. Do you think there is any additional advantage in asking a co-Instructor or co-Trainer for 
 feedback? Why or why not? If so, how would you go about seeking such feedback?
 
