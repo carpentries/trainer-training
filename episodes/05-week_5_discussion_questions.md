@@ -14,7 +14,10 @@ keypoints:
 - "Instructor trainees will face challenges as they develop skill in teaching. As in technical workshops, a core goal of our two-day training is to prepare them to encounter and surmount those challenges."   
 ---
 ## Reading
-_How Learning Works_ Chapter 6, Chapter 7
+_How Learning Works_ 
+- Chapter 6: Why Do Student Development and Course Climate Matter?
+- Chapter 7: How Do Students Become Self-Directed Learners?
+
 ## Discussion Questions
 1\. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
 
@@ -26,7 +29,7 @@ _How Learning Works_ Chapter 6, Chapter 7
 
 #### Chapter 7: How do Students Become Self-directed Learners?
 
-4\. Most of our learners have rich experience with metacognitive strategies, but may not automatically apply them to the content of our workshops (technical or Instructor Training). Why do you think this is? How can we support our learners in transferring metacognitive skills appropriately? 
+4\. Most of our learners have rich experience with metacognitive strategies, but may not automatically apply them to the content of our technical workshops or Instructor Training. Why do you think this is? How can we support our learners in transferring metacognitive skills appropriately? 
 
 5\. (Try not to skip this question.) Try making a concept map that links one or more of the strategies on p.203-215 to one or more practices that could be implemented in a workshop to support metacognition. What concepts did you connect? What relationships did you identify?
 
