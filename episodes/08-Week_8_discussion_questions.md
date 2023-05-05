@@ -18,11 +18,11 @@ keypoints:
 ## Reading:
  
  
-[Instructor Training: Getting Started on Instructor Certification](https://carpentries.github.io/instructor-training/14-checkout)  
-[Instructor Training: The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/15-carpentries)  
-[Instructor Training: Live Coding is a Skill](https://carpentries.github.io/instructor-training/17-live)  
-[Instructor Training: Preparing to Teach](https://carpentries.github.io/instructor-training/18-preparation)   
-[Instructor Training: More Practice Live Coding](https://carpentries.github.io/instructor-training/20-performance)  
+[Instructor Training: Getting Started on Instructor Certification](https://carpentries.github.io/instructor-training/14-checkout.html)  
+[Instructor Training: The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/15-carpentries.html)  
+[Instructor Training: Live Coding is a Skill](https://carpentries.github.io/instructor-training/17-live.html)  
+[Instructor Training: Preparing to Teach](https://carpentries.github.io/instructor-training/18-preparation.html)   
+[Instructor Training: More Practice Live Coding](https://carpentries.github.io/instructor-training/20-performance.html)  
 
 
 ## Discussion Questions
@@ -30,15 +30,15 @@ keypoints:
 ### Instructor Training Curriculum
 1\. What stood out to you from this week’s reading? Think of things that made sense in light of your own experience, things you’re not convinced of, or questions that you have.
 
-#### [Checkout Process](https://carpentries.github.io/instructor-training/14-checkout) 
+#### [Checkout Process](https://carpentries.github.io/instructor-training/14-checkout.html) 
 2\. Not all trainees are interested in completing checkout for certification. We're ok with that! What we worry about is 
 when trainees who *do* want to certify are intimidated or deterred by some part of the process. What role can a Trainer play 
 in supporting or encouraging trainees who want to complete the checkout process?
 
-#### [The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/15-carpentries)
+#### [The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/15-carpentries.html)
 3\. What questions do you have about policies and procedures for running a workshop? Where do you think trainees might find this information confusing or unclear?
 
-#### [Preparing to Teach](https://carpentries.github.io/instructor-training/18-preparation)
+#### [Preparing to Teach](https://carpentries.github.io/instructor-training/18-preparation.html)
 4\. Write a learner profile for an Instructor trainee and share with the group (see the ["Additional Exercises" page](https://carpentries.github.io/instructor-training/additional_exercises#episode-15-preparing-to-teach) for detailed instructions on learner profiles). How different are your profiles? What kinds of support might each of your 
 imaginary trainees need?
 
