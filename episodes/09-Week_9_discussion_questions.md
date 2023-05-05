@@ -13,9 +13,9 @@ keypoints:
 
 ## Reading:
  
-[Instructor Training: Working With Your Team](https://carpentries.github.io/instructor-training/21-management)  
-[Instructor Training: Launches and Landings](https://carpentries.github.io/instructor-training/23-introductions)  
-[Instructor Training: Putting It Together](https://carpentries.github.io/instructor-training/24-practices)  
+[Instructor Training: Working With Your Team](https://carpentries.github.io/instructor-training/21-management.html)  
+[Instructor Training: Launches and Landings](https://carpentries.github.io/instructor-training/23-introductions.html)  
+[Instructor Training: Putting It Together](https://carpentries.github.io/instructor-training/24-practices.html)  
 [Pre-Workshop Reading: The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)  
 
 ## Discussion Questions
@@ -24,11 +24,11 @@ keypoints:
 
 ### Instructor Training Curriculum
 
-#### [Working With Your Team](https://carpentries.github.io/instructor-training/21-management)
+#### [Working With Your Team](https://carpentries.github.io/instructor-training/21-management.html)
 2\. How do *you* feel about the prospect of handling a Code of Conduct incident at an event? What questions do you have? 
 
-#### [Launches and Landings](https://carpentries.github.io/instructor-training/23-introductions)
+#### [Launches and Landings](https://carpentries.github.io/instructor-training/23-introductions.html)
 3\. Introductions often include a lot of mundane content. How can an introduction cultivate motivation (per our recommendations) while still conveying necessary information?
 
-#### [Putting It Together](https://carpentries.github.io/instructor-training/24-practices) 
+#### [Putting It Together](https://carpentries.github.io/instructor-training/24-practices.html) 
 4\. Try the "Organize your knowledge" activity! Report back: what did you learn?
