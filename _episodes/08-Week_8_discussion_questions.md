@@ -18,11 +18,11 @@ keypoints:
 ## Reading:
  
  
-[Instructor Training: Getting Started on Instructor Certification](https://carpentries.github.io/instructor-training/14-checkout.html)  
-[Instructor Training: The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/15-carpentries.html)  
-[Instructor Training: Live Coding is a Skill](https://carpentries.github.io/instructor-training/17-live.html)  
-[Instructor Training: Preparing to Teach](https://carpentries.github.io/instructor-training/18-preparation.html)   
-[Instructor Training: More Practice Live Coding](https://carpentries.github.io/instructor-training/20-performance.html)  
+[Getting Started on Instructor Certification](https://carpentries.github.io/instructor-training/14-checkout.html)  
+[The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/15-carpentries.html)  
+[Live Coding is a Skill](https://carpentries.github.io/instructor-training/17-live.html)  
+[Preparing to Teach](https://carpentries.github.io/instructor-training/18-preparation.html)   
+[More Practice Live Coding](https://carpentries.github.io/instructor-training/20-performance.html)  
 
 
 ## Discussion Questions
