@@ -27,7 +27,7 @@ life_cycle: 'stable'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/fishtree-attempt/trainer-training/'
+source: 'https://github.com/carpentries/trainer-training'
 
 # Default branch of your lesson
 branch: 'main'
@@ -85,7 +85,6 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: https://preview.carpentries.org/trainer-training
+url: 'https://carpentries.github.io/trainer-training'
 analytics: carpentries
 lang: en
-workbench-beta: yes
