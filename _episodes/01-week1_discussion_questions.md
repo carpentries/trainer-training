@@ -109,7 +109,7 @@ Your host will provide you with a proposed schedule for these roles for the full
 assigned to you, please let your host know immediately.
 
 ### Instructor Training Events (in brief)
-Most of our Instructor Training events are taught online, via Zoom. When circumstances permit, some partner institutions also host events in-
+Most of our Instructor Training events are taught online, via Zoom. When circumstances permit, some Member organisations also host events in-
 person. All events must have a least 2 Trainers in attendance. New trainees should plan to be
 available for teaching assignments as soon as certification is complete. New Trainers will be matched with experienced
 Trainers whenever possible. New trainees are also welcome to request a role as a third trainer to reduce the teaching load
