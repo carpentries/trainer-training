@@ -26,12 +26,12 @@ Bloom's taxonomy does this objective fall under? Examining the chart on p. 246, 
 think this objective is at an appropriate level for Instructor trainees? Why or why not?
 
 #### Chapter 5: What Kinds of Practice and Feedback Enhance Learning?
-3\. This chapter discusses the importance of creating good opportunities for practice. In the context of a technical workshop, what role can an Instructor play in 
+3\. This chapter discusses the importance of creating good opportunities for practice. In the context of a Carpentries workshop, what role can an Instructor play in 
 this regard? A helper?
 
-4\. Feedback is an essential component of effective practice. In what ways do learners in a technical workshop get feedback on their progress? Is that feedback likely to meet the criteria for *useful* feedback outlined in this chapter? Why or why not?
+4\. Feedback is an essential component of effective practice. In what ways do learners in a workshop get feedback on their progress? Is that feedback likely to meet the criteria for *useful* feedback outlined in this chapter? Why or why not?
 
-5\. In both Instructor Training and technical workshops, Carpentries surveys provide feedback from learners, and additional feedback mechanisms (e.g. minute cards 
+5\. In both Instructor Training and workshops, Carpentries surveys provide feedback from learners, and additional feedback mechanisms (e.g. minute cards 
 and one-up-one-down) supplement this for a rich source of information. Do you think there is any additional advantage in asking a co-Instructor or co-Trainer for 
 feedback? Why or why not? If so, how would you go about seeking such feedback?
 
