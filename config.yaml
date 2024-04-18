@@ -1,0 +1,87 @@
+#------------------------------------------------------------
+# Values for this lesson.
+#------------------------------------------------------------
+
+# Which carpentry is this (swc, dc, lc, or cp)?
+# swc: Software Carpentry
+# dc: Data Carpentry
+# lc: Library Carpentry
+# cp: Carpentries (to use for instructor training for instance)
+# incubator: The Carpentries Incubator
+carpentry: 'cp'
+
+# Overall title for pages.
+title: 'The Carpentries Trainer Training Program'
+
+# Date the lesson was created (YYYY-MM-DD, this is empty by default)
+created: 2018-03-19
+
+# Comma-separated list of keywords for the lesson
+keywords: 'software, data, lesson, The Carpentries'
+
+# Life cycle stage of the lesson
+# possible values: pre-alpha, alpha, beta, stable
+life_cycle: 'stable'
+
+# License of the lesson materials (recommended CC-BY 4.0)
+license: 'CC-BY 4.0'
+
+# Link to the source repository for this lesson
+source: 'https://github.com/carpentries/trainer-training'
+
+# Default branch of your lesson
+branch: 'main'
+
+# Who to contact if there are any issues
+contact: 'mailto:lessons@software-carpentry.org'
+
+# Navigation ------------------------------------------------
+#
+# Use the following menu items to specify the order of
+# individual pages in each dropdown section. Leave blank to
+# include all pages in the folder.
+#
+# Example -------------
+#
+# episodes:
+# - introduction.md
+# - first-steps.md
+#
+# learners:
+# - setup.md
+#
+# instructors:
+# - instructor-notes.md
+#
+# profiles:
+# - one-learner.md
+# - another-learner.md
+
+# Order of episodes in your lesson
+episodes: 
+- 01-week1_discussion_questions.md
+- 02_week2_discussion_questions.md
+- 03_week3_discussion_questions.md
+- 04-week_4_discussion_questions.md
+- 05-week_5_discussion_questions.md
+- 06-Week_6_discussion_questions.md
+- 07-Week_7_discussion_questions.md
+- 08-Week_8_discussion_questions.md
+- 09-Week_9_discussion_questions.md
+- 10-Week_10_discussion_questions.md
+
+# Information for Learners
+learners: 
+
+# Information for Instructors
+instructors: 
+
+# Learner Profiles
+profiles: 
+
+# Customisation ---------------------------------------------
+#
+# This space below is where custom yaml items (e.g. pinning
+# sandpaper and varnish versions) should live
+
+
