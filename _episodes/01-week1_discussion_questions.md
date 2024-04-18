@@ -70,7 +70,7 @@ role as a Trainer! Do the 7 principles apply equally well to all of these contex
 
 # Overview of Trainer Training
 This program is an on-boarding course designed to support Carpentries community-members in preparing to teach Instructor
-Training workshops. It is not a substitute for Instructor Training; in contrast, this training includes fewer contact hours
+Training courses. It is not a substitute for Instructor Training; in contrast, this training includes fewer contact hours
 and more independent work time stretched over a 10 week period.
 
 Each participant brings a different skill set to this training. Most trainees have background in educational settings and/or
@@ -81,9 +81,9 @@ Trainer community after completing this training.
 > ## Trainer Checkout
 > In addition to attending weekly meetings, there are additional requirements for Trainer certification. These are:
 > - Observe a teaching demonstration session
-> - Observe (with option to participate) 4 hours of an Instructor Training workshop
+> - Observe (with option to participate) 4 hours of an Instructor Training course
 > - Trainees who are not certified Carpentries Instructors should complete Instructor certification concurrently. This
-> includes attending a full Instructor Training workshop as a learner if not yet attended. Attending a workshop or demo within
+> includes attending a full Instructor Training course as a learner if not yet attended. Attending a course or demo within
 > the training time frame can fulfill the above requirements for observation if requested.
 {: .discussion}
 
@@ -113,7 +113,7 @@ Most of our Instructor Training events are taught online, via Zoom. When circums
 person. All events must have a least 2 Trainers in attendance. New trainees should plan to be
 available for teaching assignments as soon as certification is complete. New Trainers will be matched with experienced
 Trainers whenever possible. New trainees are also welcome to request a role as a third trainer to reduce the teaching load
-and enhance observation opportunities during their first workshop.
+and enhance observation opportunities during their first training.
 
 
 ### The Trainer Community
