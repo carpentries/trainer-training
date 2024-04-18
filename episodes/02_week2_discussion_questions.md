@@ -11,7 +11,7 @@ objectives:
 - "Evaluate the knowledge-organization strategies in terms of ease of use for new Instructors."
 - "Apply a concept map to explore concepts of teaching and learning." 
 keypoints:
-- "Prior knowledge about teaching strategies varies among trainees in Instructor Training workshops. Being attentive to this will improve your impact."
+- "Prior knowledge about teaching strategies varies among trainees in Instructor Training courses. Being attentive to this will improve your impact."
 - "Pre-assessment surveys are a critical component of all Carpentries workshops. Help us make them useful for you!"
 - "Carpentries curriculum templates provide some support for knowledge organization. Instructors can implement additional strategies to help learners create useful connections."
 - "Concept maps are a challenging, minimally structured task. They are useful for exploring concepts and relationships prior to teaching because they can make the organization of knowledge more explicit."
@@ -42,7 +42,7 @@ could ask one additional question, what would it be?
 #### Chapter 2: How Does the Way Students Organize Knowledge Affect Their Learning
 
 4\. Examine Figure 2.2 (p.50 of the print edition). How do these diagrams relate to knowledge or learner mental models that 
-you are familiar with? Which do you think best represents a learner who has just taken a Carpentries technical workshop? 
+you are familiar with? Which do you think best represents a learner who has just taken a Carpentries workshop? 
 
 5\. Take a look at the strategies for ways Instructors can assess and enhance their own knowledge organization at the end of Chapter 2 (p. 59-65). Choose one strategy and think about how an Instructor could apply it when preparing to teach a Carpentries workshop. On a scale from 1-10, how challenging do you think it would be for a new Instructor to use?  
 

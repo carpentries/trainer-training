@@ -20,11 +20,11 @@ skill development goals?
 
 ## Closing Questions:
 
-2\. What questions do you have about your role as an Instructor Trainer?
+2\. What questions do you have about your role as a Trainer?
 
 3\. What questions do you have about The Carpentries community?
 
-4\. What are your goals as an Instructor Trainer?
+4\. What are your goals as a Trainer?
 
 5\. What can The Carpentries Core Team and the Trainer community do to support you in your goals?
 

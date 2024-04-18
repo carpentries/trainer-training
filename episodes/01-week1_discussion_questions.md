@@ -3,15 +3,15 @@ title: "Week 1 Discussion Questions"
 teaching: 30
 exercises: 30
 questions:
-- "What is involved in serving as a Carpentries Instructor Trainer?"
+- "What is involved in serving as a Carpentries Trainer?"
 - "What should you expect from this training?"
 objectives:
-- "Understand what is involved in being an Instructor Trainer."
+- "Understand what is involved in being a Trainer."
 - "Prepare to complete the steps for Trainer checkout."
 - "Predict what they will learn from reading _How Learning Works_."
 - "Recognize that teaching principles may apply differently to different training contexts within The Carpentries."
 keypoints:
-- "The Instructor Trainer role comes with powers and responsibilities. Some powers are limited to preserve sustainability of The Carpentries, but we will work with you to meet your goals as closely as possible."
+- "The Trainer role comes with powers and responsibilities. Some powers are limited to preserve sustainability of The Carpentries, but we will work with you to meet your goals as closely as possible."
 - "Teaching and learning are separate, though related, processes. And then there is learning to teach!"
 - "Most popular texts do not aim to onboard readers to engaging with primary literature in a field. This presents barriers to responsible engagement across disciplines, particularly in education."
 ---
@@ -23,7 +23,7 @@ keypoints:
 - Introduction
 
 Carpentries readings:
-- [Instructor Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html)
+- [Trainers](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html)
 - [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 
 Preview to get a sense for what is contained in these lengthier references:
@@ -70,7 +70,7 @@ role as a Trainer! Do the 7 principles apply equally well to all of these contex
 
 # Overview of Trainer Training
 This program is an on-boarding course designed to support Carpentries community-members in preparing to teach Instructor
-Training workshops. It is not a substitute for Instructor Training; in contrast, this training includes fewer contact hours
+Training courses. It is not a substitute for Instructor Training; in contrast, this training includes fewer contact hours
 and more independent work time stretched over a 10 week period.
 
 Each participant brings a different skill set to this training. Most trainees have background in educational settings and/or
@@ -81,9 +81,9 @@ Trainer community after completing this training.
 > ## Trainer Checkout
 > In addition to attending weekly meetings, there are additional requirements for Trainer certification. These are:
 > - Observe a teaching demonstration session
-> - Observe (with option to participate) 4 hours of an Instructor Training workshop
+> - Observe (with option to participate) 4 hours of an Instructor Training course
 > - Trainees who are not certified Carpentries Instructors should complete Instructor certification concurrently. This
-> includes attending a full Instructor Training workshop as a learner if not yet attended. Attending a workshop or demo within
+> includes attending a full Instructor Training course as a learner if not yet attended. Attending a course or demo within
 > the training time frame can fulfill the above requirements for observation if requested.
 {: .discussion}
 
@@ -109,11 +109,11 @@ Your host will provide you with a proposed schedule for these roles for the full
 assigned to you, please let your host know immediately.
 
 ### Instructor Training Events (in brief)
-Most of our Instructor Training events are taught online, via Zoom. When circumstances permit, some partner institutions also host events in-
-person. All events must have a least 2 Instructor Trainers in attendance. New trainees should plan to be
+Most of our Instructor Training events are taught online, via Zoom. When circumstances permit, some Member organisations also host events in-
+person. All events must have a least 2 Trainers in attendance. New trainees should plan to be
 available for teaching assignments as soon as certification is complete. New Trainers will be matched with experienced
 Trainers whenever possible. New trainees are also welcome to request a role as a third trainer to reduce the teaching load
-and enhance observation opportunities during their first workshop.
+and enhance observation opportunities during their first training.
 
 
 ### The Trainer Community
@@ -161,7 +161,7 @@ their other service activities in the community to compensate during their tenur
 
 
 ### A Culture of Contribution
-Instructor Trainers are a vital part of The Carpentries community. In addition to training Instructors and supporting the collaborative
+Trainers are a vital part of The Carpentries community. In addition to training Instructors and supporting the collaborative
 maintenance of our Instructor Training curriculum, Trainers typically take
 on leadership roles in their own communities, locally or globally. Many assume leadership within the Trainer community, but all
 are expected to contribute by coming to meetings and/or sharing thoughts or feedback in other ways. Whatever your plans,
