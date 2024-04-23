@@ -40,7 +40,13 @@
     <loc>https://carpentries.github.io/trainer-training/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/trainer-training/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/discuss.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/trainer-training/images.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/trainer-training/index.html</loc>
@@ -85,16 +91,34 @@
     <loc>https://carpentries.github.io/trainer-training/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/discuss.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/trainer-training/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/trainer-training/profiles.html</loc>
