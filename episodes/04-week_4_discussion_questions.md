@@ -1,5 +1,7 @@
 ---
-title: Week 4 Discussion Questions
+title: Week 4
+teaching: 5
+exercises: 55
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -15,8 +17,8 @@ title: Week 4 Discussion Questions
 
 *How Learning Works*:
 
-- Appendix D
-- Chapter 5 - What Kinds of Practice and Feedback Enhance Learning?
+- Appendix G: What are Learning Objectives and How Can We Use Them?
+- Chapter 6: What Kinds of Practice and Feedback Enhance Learning?
 
 ## Discussion Questions
 
@@ -24,13 +26,13 @@ title: Week 4 Discussion Questions
 
 ### *How Learning Works*
 
-#### Appendix D: What are Learning Objectives and How Can We Use Them?
+#### Appendix G: What are Learning Objectives and How Can We Use Them?
 
 2\. One of the learning objectives stated in the Instructor Training curriculum is: "Critically analyze a learning objective for your workshop." What level of
-Bloom's taxonomy does this objective fall under? Examining the chart on p. 246, try re-writing this learning objective at a lower level and a higher level. Do you
+Bloom's taxonomy does this objective fall under? Examining the chart on p. 245, try re-writing this learning objective at a lower level and a higher level. Do you
 think this objective is at an appropriate level for Instructor trainees? Why or why not?
 
-#### Chapter 5: What Kinds of Practice and Feedback Enhance Learning?
+#### Chapter 6: What Kinds of Practice and Feedback Enhance Learning?
 
 3\. This chapter discusses the importance of creating good opportunities for practice. In the context of a Carpentries workshop, what role can an Instructor play in
 this regard? A helper?

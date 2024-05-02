@@ -1,7 +1,7 @@
 ---
-title: Week 9 Discussion Questions
-teaching: 0
-exercises: 0
+title: Week 9
+teaching: 5
+exercises: 55
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives

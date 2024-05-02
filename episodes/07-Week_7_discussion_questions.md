@@ -1,7 +1,7 @@
 ---
-title: Week 7 Discussion Questions
-teaching: 0
-exercises: 0
+title: Week 7
+teaching: 5
+exercises: 55
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
