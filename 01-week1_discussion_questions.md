@@ -1,7 +1,7 @@
 ---
-title: Week 1 Discussion Questions
-teaching: 30
-exercises: 30
+title: Week 1
+teaching: 5
+exercises: 55
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives

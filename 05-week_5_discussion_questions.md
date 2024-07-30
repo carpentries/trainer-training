@@ -1,7 +1,7 @@
 ---
-title: Week 5 Discussion Questions
-teaching: 0
-exercises: 0
+title: Week 5
+teaching: 5
+exercises: 55
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -23,8 +23,8 @@ exercises: 0
 
 *How Learning Works*
 
-- Chapter 6: Why Do Student Development and Course Climate Matter?
-- Chapter 7: How Do Students Become Self-Directed Learners?
+- Chapter 7: Why Does Course Climate Matter for Student Learning?
+- Chapter 8: How Do Students Become Self-Directed Learners?
 
 ## Discussion Questions
 
@@ -32,17 +32,17 @@ exercises: 0
 
 ### *How Learning Works*
 
-#### Chapter 6: Why do Student Development and Course Climate Matter for Learning?
+#### Chapter 7: Why Does Course Climate Matter for Student Learning?
 
-2\. How might The Carpentries Code of Conduct function in supporting an "explicitly centralizing"(p.171-172) classroom climate?
+2\. How might The Carpentries Code of Conduct function in supporting an "explicitly centralizing" (p.167) classroom climate?
 
-3\. Choose a strategy among those suggested on pages 180-186 that seems useful or essential to a Carpentries workshop. What factors might prevent an Instructor from effectively implementing this strategy? As a Trainer, how might you help?
+3\. Choose a strategy among those suggested on pages 177-186 that seems useful or essential to a Carpentries workshop. What factors might prevent an Instructor from effectively implementing this strategy? As a Trainer, how might you help?
 
-#### Chapter 7: How do Students Become Self-directed Learners?
+#### Chapter 8: How Do Students Become Self-Directed Learners?
 
 4\. Most of our learners have rich experience with metacognitive strategies, but may not automatically apply them to the content of our workshops or Instructor Training. Why do you think this is? How can we support our learners in transferring metacognitive skills appropriately?
 
-5\. (Try not to skip this question.) Try making a concept map that links one or more of the strategies on p.203-215 to one or more practices that could be implemented in a workshop to support metacognition. What concepts did you connect? What relationships did you identify?
+5\. (Try not to skip this question.) Try making a concept map that links one or more of the strategies on p.200-211 to one or more practices that could be implemented in a workshop to support metacognition. What concepts did you connect? What relationships did you identify?
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 

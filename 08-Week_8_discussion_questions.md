@@ -1,7 +1,7 @@
 ---
-title: Week 8 Discussion Questions
-teaching: 0
-exercises: 0
+title: Week 8
+teaching: 5
+exercises: 55
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
