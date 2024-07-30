@@ -14,27 +14,42 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
+- See discussion questions.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::: prereqs
+
 ## Reading
 
 *How Learning Works*:
 
-- Chapter 4: What Factors Motivate Students to Learn?
-- Chapter 5: How Do Students Develop Mastery? 
+- Chapter 3: How Does the Way Students Organize Knowledge Affect Their Learning? (pp. 64-83)
+- Appendix D: What Are Concept Maps and How Can We Use Them? (pp. 229-231)
+- Chapter 4: What Factors Motivate Students to Learn? (pp. 84-105)
+- Chapter 5: How Do Students Develop Mastery? (pp. 106-129)
+
+:::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ## Discussion Questions
 
-1\. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
+1. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
 
-### *How Learning Works*
+1. Examine Figure 3.2 (p.72). How do these diagrams relate to knowledge or learner mental models that
+you are familiar with? Which do you think best represents a learner who has just taken a Carpentries workshop?
 
-#### Chapter 4: What Factors Motivate Students to Learn?
+1. Take a look at the strategies for ways Instructors can assess and enhance their own knowledge organization at the end of Chapter 3 (p. 78-83). Choose one strategy and think about how an Instructor could apply it when preparing to teach a Carpentries workshop. On a scale from 1-10, how challenging do you think it would be for a new Instructor to use?
 
-2\. Take a moment with Figure 4.2 (p.97). Can you think of an situation you've encountered in a classroom that is explained
+1. Take a moment with Figure 4.2 (p.97). Can you think of an situation you've encountered in a classroom that is explained
 by this figure?
 
-3\. Do you think learners at Carpentries workshops will have primarily learning goals or performance goals? How about at Instructor Training events?
+1. Do you think learners at Carpentries workshops will have primarily learning goals or performance goals? How about at Instructor Training events?
 
-4\. This chapter offers a number of strategies for establishing value and building positive expectancies (p.99-104). Which are most relevant to Carpentries workshops and trainings? Are any of them **not** relevant in this setting? Why or why not?
+1. This chapter offers a number of strategies for establishing value and building positive expectancies (p.99-104). Which are most relevant to Carpentries workshops and trainings? Are any of them **not** relevant in this setting? Why or why not?
 
 #### Chapter 5: How Do Students Develop Mastery?
 
