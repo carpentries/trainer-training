@@ -1,7 +1,7 @@
 ---
-title: Week 6 Discussion Questions
-teaching: 0
-exercises: 0
+title: Week 6
+teaching: 5
+exercises: 55
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -35,7 +35,7 @@ exercises: 0
 
 #### [Welcome](https://carpentries.github.io/instructor-training/01-welcome)
 
-2\. This module introduces the Instructor Training event. Depending on how Trainers use the curriculum, this section can be more or less interactive and can
+2\. This episode introduces the Instructor Training event. Depending on how Trainers use the curriculum, this section can be more or less interactive and can
 take more or less time than it is formally allocated. This is especially important when trainings get off to a slow start for logistical reasons. Try to identify
 one opportunity for interaction with learners during this episode. How might you use this to establish a positive learning environment without running out the
 clock?
@@ -46,7 +46,7 @@ clock?
 How did you describe the relationship between teaching and learning? What other concepts and relationships did you include?
 If you would like to try an online tool for this, visit [https://excalidraw.com](https://excalidraw.com).
 
-4\. We introduce skill acquisition in this module, but really dig into expertise in the next. What is the purpose of introducing skill acquisition here? What
+4\. We introduce skill acquisition in this episode, but really dig into expertise in the next. What is the purpose of introducing skill acquisition here? What
 should be emphasized here, vs in the next section?
 
 #### [Expertise and Instruction](https://carpentries.github.io/instructor-training/04-expertise)
