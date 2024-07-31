@@ -13,13 +13,30 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::: questions
+
+- See discussion questions.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: prereq
+
 ## Reading:
 
-[Getting Started on Instructor Certification](https://carpentries.github.io/instructor-training/14-checkout.html)  
-[The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/15-carpentries.html)  
-[Live Coding is a Skill](https://carpentries.github.io/instructor-training/17-live.html)  
-[Preparing to Teach](https://carpentries.github.io/instructor-training/18-preparation.html)  
-[More Practice Live Coding](https://carpentries.github.io/instructor-training/20-performance.html)
+From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
+
+* Chapter 1: Why Do Students’ Identities and Stages of Development Matter for Learning? (p. 9 - 38)
+* Chapter 7: Why Does Course Climate Matter for Student Learning? (p. 162 - 186)
+* Appendix A: What are Instructor Self-Assessments / Reflections and How Can We Use Them? (p. 219 - 222)
+* Appendix B: What are Ground Rules and How Can We Use Them? (p. 223 - 225)
+
+From The Carpentries [Instructor Training curriculum](https://carpentries.github.io/instructor-training/instructor/index.html): 
+
+* [Equity, Inclusion, and Accessibility](https://carpentries.github.io/instructor-training/instructor/09-eia.html)
+* [Welcome](https://carpentries.github.io/instructor-training/instructor/01-welcome.html)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ## Discussion Questions
 

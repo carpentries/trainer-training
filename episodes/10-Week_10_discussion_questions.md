@@ -4,11 +4,28 @@ teaching: 5
 exercises: 55
 ---
 
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- objectives
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: questions
+
+- See discussion questions. 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: prereq
+
 ## Reading:
 
-Examine [The Carpentries Handbook: Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html)  
-Review [Trainer Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html)  
-*How Learning Works*: Conclusion (p. 212-218)
+From The Carpentries [Instructor Training curriculum](https://carpentries.github.io/instructor-training/instructor/index.html): 
+
+* [Launches and Landings](https://carpentries.github.io/instructor-training/instructor/23-introductions.html)
+* [Putting it Together](https://carpentries.github.io/instructor-training/instructor/24-practices.html)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### *How Learning Works*
 

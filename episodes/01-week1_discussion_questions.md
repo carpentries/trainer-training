@@ -20,9 +20,7 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: prereq
 
-## Required Reading
-
-Read the following before our meeting: 
+## Reading
 
 From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
 

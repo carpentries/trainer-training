@@ -19,15 +19,20 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::: prereq
+::::::::::::::::::::::::::::::::::::::: prereq
 
 ## Reading
 
-From *How Learning Works*:
+From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
 
-- Chapter 1: Why Do Students' Identities and Stages of Development Matter for Learning? (pp. 9-38)
-- Chapter 2: How Does Students' Prior Knowledge Affect Their Learning? (pp. 39-63)
-- Appendix A: What Are Instructor Self-Assessments/Reflections and How Can We Use Them? (pp. 219-225)
+* Chapter 2: How Does Student’s Prior Knowledge Affect Their Learning? (p. 39 - 63)
+* Chapter 3: How Does the Way Students Organize Knowledge Affect Their Learning? (p. 64 - 83)
+* Appendix D: What Are Concept Maps and How Can We Use Them? (p. 229 - 231)
+
+From The Carpentries [Instructor Training curriculum](https://carpentries.github.io/instructor-training/instructor/index.html): 
+
+* [Building Skill with Practice](https://carpentries.github.io/instructor-training/instructor/02-practice-learning.html)
+
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
 

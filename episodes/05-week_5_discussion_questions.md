@@ -15,16 +15,26 @@ exercises: 55
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- Key question
+- See discussion questions.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::: prereq
+
 ## Reading
 
-*How Learning Works*
+From The Carpentries [Instructor Training curriculum](https://carpentries.github.io/instructor-training/instructor/index.html): 
 
-- Chapter 7: Why Does Course Climate Matter for Student Learning?
-- Chapter 8: How Do Students Become Self-Directed Learners?
+* [Preparing to Teach](https://carpentries.github.io/instructor-training/instructor/18-preparation.html)
+* [Working with Your Team](https://carpentries.github.io/instructor-training/instructor/21-management.html)
+
+From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
+
+* Appendix G: What Are Learning Objectives and How Can We Use Them? (p. 244 - 246)
+* Appendix H: What Are Active Learning Strategies and How Can We Use Them? (p. 247 - 249)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ## Discussion Questions
 

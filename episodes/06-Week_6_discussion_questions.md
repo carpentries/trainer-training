@@ -16,18 +16,25 @@ exercises: 55
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- Key question.
+- See discussion questions.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::: prereq
+
 ## Reading:
 
-[Welcome](https://carpentries.github.io/instructor-training/01-welcome)  
-[Instructor Training: Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning)  
-[Instructor Training: Expertise and Instruction](https://carpentries.github.io/instructor-training/04-expertise)  
-[Instructor Training: Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory)  
-[Trainer Notes](https://carpentries.github.io/instructor-training/instructor/instructor-notes.html)  
-[Etherpad Template](https://pad.carpentries.org/ttt-template)  - skim
+From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
+
+* Chapter 6: What Kinds of Practice and Feedback Enhance Learning? (p. 130 - 161)
+
+From The Carpentries [Instructor Training curriculum](https://carpentries.github.io/instructor-training/instructor/index.html): 
+
+* [Teaching is a Skill](https://carpentries.github.io/instructor-training/instructor/11-practice-teaching.html)
+
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ### Instructor Training Curriculum
 

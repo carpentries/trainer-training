@@ -21,16 +21,19 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::: prereqs
+::::::::::::::::::::::::::::::::::: prereq
 
 ## Reading
 
-*How Learning Works*:
+From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
 
-- Chapter 3: How Does the Way Students Organize Knowledge Affect Their Learning? (pp. 64-83)
-- Appendix D: What Are Concept Maps and How Can We Use Them? (pp. 229-231)
-- Chapter 4: What Factors Motivate Students to Learn? (pp. 84-105)
-- Chapter 5: How Do Students Develop Mastery? (pp. 106-129)
+* Chapter 4: What Factors Motivate Students to Learn? (p. 84 - 105)
+* Chapter 8: How Do Students Become Self-Directed Learners? (p. 187 - 211)
+
+From The Carpentries [Instructor Training curriculum](https://carpentries.github.io/instructor-training/instructor/index.html): 
+
+* [Motivation and Demotivation](https://carpentries.github.io/instructor-training/instructor/08-motivation.html)
+
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
 

@@ -12,12 +12,28 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::: questions
+
+- See discussion questions. 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: prereq
+
 ## Reading:
 
-[Instructor Training: Working With Your Team](https://carpentries.github.io/instructor-training/21-management.html)  
-[Instructor Training: Launches and Landings](https://carpentries.github.io/instructor-training/23-introductions.html)  
-[Instructor Training: Putting It Together](https://carpentries.github.io/instructor-training/24-practices.html)  
-[Pre-Workshop Reading: The Science of Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
+From The Carpentries [Instructor Training curriculum](https://carpentries.github.io/instructor-training/instructor/index.html): 
+
+* [Getting Started on Instructor Certification](https://carpentries.github.io/instructor-training/instructor/14-checkout.html)
+* [How we Operate](https://carpentries.github.io/instructor-training/instructor/15-carpentries.html)
+
+From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
+
+* Conclusion: Applying the Eight Principles to Ourselves (p. 212 - 218)
+* Appendix E: What Are Rubrics and How Can We Use Them? (p. 232 - 241)
+* Appendix F: What Are Learner Checklists and How Can We Use Them? (p. 242 - 243)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Discussion Questions
 

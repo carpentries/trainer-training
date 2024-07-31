@@ -14,14 +14,23 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::: questions
+
+- See discussion questions.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: prereq 
+
 ## Reading:
 
-[Building Skill With Feedback](https://carpentries.github.io/instructor-training/06-feedback.html)  
-[Motivation and Demotivation](https://carpentries.github.io/instructor-training/08-motivation.html)  
-[Equity, Inclusion, and Accessibility](https://carpentries.github.io/instructor-training/09-eia.html)  
-[Teaching is a Skill](https://carpentries.github.io/instructor-training/11-practice-teaching.html)  
-[Wrap-up and Homework](https://carpentries.github.io/instructor-training/12-homework.html)  
-[Welcome Back](https://carpentries.github.io/instructor-training/13-second-welcome.html)
+From The Carpentries [Instructor Training curriculum](https://carpentries.github.io/instructor-training/instructor/index.html): 
+
+* [Live Coding is a Skill](https://carpentries.github.io/instructor-training/instructor/17-live.html)
+* [More Practice Live Coding](https://carpentries.github.io/instructor-training/instructor/20-performance.html)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ## Discussion Questions
 

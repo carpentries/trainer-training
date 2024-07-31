@@ -13,12 +13,29 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: questions
+
+- See discussion questions.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: prereq
+
 ## Reading
 
-*How Learning Works*:
+From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
 
-- Appendix G: What are Learning Objectives and How Can We Use Them?
-- Chapter 6: What Kinds of Practice and Feedback Enhance Learning?
+* Chapter 5: How Do Students Develop Mastery? (p. 106 - 129)
+* Appendix C: What Are Student Self-Assessments and How Can We Use Them? (p. 226 - 228)
+
+From The Carpentries [Instructor Training curriculum](https://carpentries.github.io/instructor-training/instructor/index.html): 
+ 
+* [Expertise and Instruction](https://carpentries.github.io/instructor-training/instructor/04-expertise.html)
+* [Memory and Cognitive Load](https://carpentries.github.io/instructor-training/instructor/05-memory.html)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Discussion Questions
 
