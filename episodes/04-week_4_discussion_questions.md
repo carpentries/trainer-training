@@ -13,35 +13,41 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: questions
+
+- See discussion questions.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: prereq
+
 ## Reading
 
-*How Learning Works*:
+From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
 
-- Appendix G: What are Learning Objectives and How Can We Use Them?
-- Chapter 6: What Kinds of Practice and Feedback Enhance Learning?
+* Chapter 5: How Do Students Develop Mastery? (p. 106 - 129)
+* Appendix C: What Are Student Self-Assessments and How Can We Use Them? (p. 226 - 228)
+
+From The Carpentries [Instructor Training curriculum](https://carpentries.github.io/instructor-training/instructor/index.html): 
+ 
+* [Expertise and Instruction](https://carpentries.github.io/instructor-training/instructor/04-expertise.html)
+* [Memory and Cognitive Load](https://carpentries.github.io/instructor-training/instructor/05-memory.html)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Discussion Questions
 
-1\. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
+1. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
 
-### *How Learning Works*
+1. Many of our curricula contain more content than can be covered in our ‘2-day’ format. How can we help our trainees remember to keep it slow and resist the urge to ‘get through’ everything by talking faster?
 
-#### Appendix G: What are Learning Objectives and How Can We Use Them?
+1. What expert awareness gaps might you have on the subject of teaching or learning? How might such gaps become apparent when teaching others how to teach?
 
-2\. One of the learning objectives stated in the Instructor Training curriculum is: "Critically analyze a learning objective for your workshop." What level of
-Bloom's taxonomy does this objective fall under? Examining the chart on p. 245, try re-writing this learning objective at a lower level and a higher level. Do you
-think this objective is at an appropriate level for Instructor trainees? Why or why not?
+1. How might “blind spots” (now re-named in our curriculum as “expert awareness gaps”) and cognitive load affect learners during Instructor Training? What about Trainers?
 
-#### Chapter 6: What Kinds of Practice and Feedback Enhance Learning?
-
-3\. This chapter discusses the importance of creating good opportunities for practice. In the context of a Carpentries workshop, what role can an Instructor play in
-this regard? A helper?
-
-4\. Feedback is an essential component of effective practice. In what ways do learners in a workshop get feedback on their progress? Is that feedback likely to meet the criteria for *useful* feedback outlined in this chapter? Why or why not?
-
-5\. In both Instructor Training and workshops, Carpentries surveys provide feedback from learners, and additional feedback mechanisms (e.g. minute cards
-and one-up-one-down) supplement this for a rich source of information. Do you think there is any additional advantage in asking a co-Instructor or co-Trainer for
-feedback? Why or why not? If so, how would you go about seeking such feedback?
+1. How can we help learners bridge the gap between learning and application? Is this different for Instructor Training vs Carpentries workshops?
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
