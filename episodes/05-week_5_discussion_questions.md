@@ -38,21 +38,16 @@ From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-se
 
 ## Discussion Questions
 
-1\. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
+1. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
 
-### *How Learning Works*
+1. Write a learner profile for an Instructor trainee and share with the group (see the [“Additional Exercises”](https://carpentries.github.io/instructor-training/additional_exercises#episode-15-preparing-to-teach) page for detailed instructions on learner profiles). How different are your profiles? What kinds of support might each of your imaginary trainees need?
 
-#### Chapter 7: Why Does Course Climate Matter for Student Learning?
+1. The exercise on [evaluating learning objectives](https://carpentries.github.io/instructor-training/18-preparation#evaluate-learning-objectives) still needs work. The goal is to get learners a) looking at learning objectives critically and b) thinking in levels like Bloom’s Taxonomy without actually introducing the jargon and complexities of the Bloom’s model. In practice, however, learners are very prone to thinking in terms of steps rather than levels of cognitive challenge. Can you think of a change to this exercise, or a different exercise entirely, that might be more effective?
 
-2\. How might The Carpentries Code of Conduct function in supporting an "explicitly centralizing" (p.167) classroom climate?
+1. How do you feel about the prospect of handling a Code of Conduct incident at an event? What questions do you have?
 
-3\. Choose a strategy among those suggested on pages 177-186 that seems useful or essential to a Carpentries workshop. What factors might prevent an Instructor from effectively implementing this strategy? As a Trainer, how might you help?
+1. One of the learning objectives stated in the Instructor Training curriculum is: “Critically analyze a learning objective for your workshop.” What level of Bloom’s taxonomy does this objective fall under? Examining the chart on p. 245, try re-writing this learning objective at a lower level and a higher level. Do you think this objective is at an appropriate level for Instructor trainees? Why or why not?
 
-#### Chapter 8: How Do Students Become Self-Directed Learners?
-
-4\. Most of our learners have rich experience with metacognitive strategies, but may not automatically apply them to the content of our workshops or Instructor Training. Why do you think this is? How can we support our learners in transferring metacognitive skills appropriately?
-
-5\. (Try not to skip this question.) Try making a concept map that links one or more of the strategies on p.200-211 to one or more practices that could be implemented in a workshop to support metacognition. What concepts did you connect? What relationships did you identify?
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 

@@ -39,22 +39,25 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 ## Discussion Questions
 
-1. What stood out to you from this week's reading? This might be key points, things that made sense in light of your own experience, things you're not convinced of, or questions that you have from each chapter.
 
-1.  Give an example of a time from your experience when a learner's prior knowledge negatively affected their learning. Why do you think prior knowledge had
-such an impact in this case? Do you think any of the strategies suggested in this chapter might have helped?
+1. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
 
-1. Have a look at the [pre-assessment survey](https://carpentries.github.io/assessment-archives/instructor-training-pre/instructor-training-pre.html) for
-Instructor Training events. Can you identify one question that might influence how you approach teaching, depending on the distribution of responses? If you
-could ask one additional question, what would it be?
+1. Give an example of a time from your experience when a learner’s prior knowledge negatively affected their learning. Why do you think prior knowledge had such an impact in this case? Do you think any of the strategies suggested in this chapter might have helped?
 
-1. Draft a small concept map (3-5 items with labeled connections) for **your own eyes only (not to be shared!)** that partially explains one of the following topics:
+1. Read the pre-assessment survey for Instructor Training. How do trainee responses to this survey influence your teaching? 
 
-- Prior knowledge
-- Knowledge organization
-- Workshop organization
+1. Create a concept map (3-5 items with labeled connections) that includes “teaching” and “learning” as concepts. How did you describe the relationship between teaching and learning? What other concepts and relationships did you include? 
 
+1. Examine Figure 3.2 (p.72). How do these diagrams relate to knowledge or learner mental models that you are familiar with? Which do you think best represents a learner who has just taken a Carpentries workshop?
+
+1. Read the strategies for how Instructors can assess and enhance their own knowledge organization at the end of Chapter 3 (p. 78-83). Choose one strategy and think about how an Instructor could apply it when preparing to teach a Carpentries workshop. On a scale from 1-10, how challenging do you think it would be for a new Instructor to use?
+
+1. Create a concept map (3-5 items with labeled connections) that partially explains one of the following topics:
+	- Prior knowledge
+	- Knowledge organization
+	- Workshop organization  
 Then, share your experience with the process. Did you learn anything from making this map? How could you organize it differently if you tried it again?
+
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 

@@ -42,25 +42,20 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 1. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
 
-1. Examine Figure 3.2 (p.72). How do these diagrams relate to knowledge or learner mental models that
-you are familiar with? Which do you think best represents a learner who has just taken a Carpentries workshop?
+1. There are many demotivating “traps” an instructor can fall into. What strategies can we give our instructors for recovering from these slip-ups?
 
-1. Take a look at the strategies for ways Instructors can assess and enhance their own knowledge organization at the end of Chapter 3 (p. 78-83). Choose one strategy and think about how an Instructor could apply it when preparing to teach a Carpentries workshop. On a scale from 1-10, how challenging do you think it would be for a new Instructor to use?
+1. How might the concepts taught in this lesson apply to the process of learning to becoming a better teacher?
 
-1. Take a moment with Figure 4.2 (p.97). Can you think of an situation you've encountered in a classroom that is explained
-by this figure?
+1. How can we support our learners in transferring metacognitive skills to the materials learned in a workshop?
 
-1. Do you think learners at Carpentries workshops will have primarily learning goals or performance goals? How about at Instructor Training events?
+1. Make a concept map (3-5 items with labeled connections) that links one or more of the strategies on p.200-211 to one or more practices that could be implemented in a workshop to support metacognition. What concepts did you connect? What relationships did you identify?
 
-1. This chapter offers a number of strategies for establishing value and building positive expectancies (p.99-104). Which are most relevant to Carpentries workshops and trainings? Are any of them **not** relevant in this setting? Why or why not?
+1. Examine Figure 4.2 (p.97). Think of an situation you’ve encountered in a classroom that is explained by this figure.
 
-#### Chapter 5: How Do Students Develop Mastery?
+1. Will learners at Carpentries workshops  have primarily learning goals or performance goals? What about at Instructor Training events?
 
-5\. This chapter discusses expert "blind spots" (now re-named in our curriculum as ["expert awareness gaps"](https://carpentries.github.io/instructor-training/04-expertise/index.html#expert-awareness-gap)) and cognitive load.
-How might these affect learners during Instructor Training? How about Trainers?
+1. Which are the strategies on p.99-104 are most relevant to Carpentries workshops and trainings? Are any of them not relevant in this setting? Why or why not?
 
-6\. When students learn skills but don't learn how to apply them, they may fail to use those skills when they are relevant.
-How can we help learners bridge the gap between learning and application? Is this different for Instructor Training vs Carpentries workshops?
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 

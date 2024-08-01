@@ -37,21 +37,11 @@ From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-se
 
 ## Discussion Questions
 
-1\. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
+1. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
 
-### Instructor Training Curriculum
+1. Not all trainees are interested in completing checkout for certification. We’re ok with that! What we worry about is when trainees who do want to certify are intimidated or deterred by some part of the process. What role can a Trainer play in supporting or encouraging trainees who want to complete the checkout process?
 
-#### [Working With Your Team](https://carpentries.github.io/instructor-training/21-management.html)
-
-2\. How do *you* feel about the prospect of handling a Code of Conduct incident at an event? What questions do you have?
-
-#### [Launches and Landings](https://carpentries.github.io/instructor-training/23-introductions.html)
-
-3\. Introductions often include a lot of mundane content. How can an introduction cultivate motivation (per our recommendations) while still conveying necessary information?
-
-#### [Putting It Together](https://carpentries.github.io/instructor-training/24-practices.html)
-
-4\. Try the "Organize your knowledge" activity! Report back: what did you learn?
+1. What questions do you have about policies and procedures for running a workshop? Where do you think trainees might find this information confusing or unclear?
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 

@@ -31,40 +31,25 @@ From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-se
 From The Carpentries [Instructor Training curriculum](https://carpentries.github.io/instructor-training/instructor/index.html): 
 
 * [Teaching is a Skill](https://carpentries.github.io/instructor-training/instructor/11-practice-teaching.html)
+* [Building Skill With Feedback](https://carpentries.github.io/instructor-training/instructor/06-feedback.html)
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Discussion Questions
 
-### Instructor Training Curriculum
+1. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
 
-1\. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
+1. When trainees give feedback, especially when giving feedback to themselves, they are VERY likely to comment on the number of times they said “um” or “uh” during their practice presentation. How would you go about helping them to level up their feedback to address more impactful features?
 
-#### [Welcome](https://carpentries.github.io/instructor-training/01-welcome)
+1. Responses to Carpentries pre- and post- surveys are intended to be useful to Instructors, Hosts, and The Carpentries. In particular, we aspire to using data from these surveys to improve understanding of the functionality of our programming as well as promote our successes and needs to funders. This is critical to the sustainability of The Carpentries overall. However, this requires that surveys be systematically administered. Nobody likes surveys, and it’s not fun to hound people to take them, either. What can we do to persuade Instructors to make more consistent use of these important assessment tools? (Responses might include ways to make the surveys themselves more useful.)
 
-2\. This episode introduces the Instructor Training event. Depending on how Trainers use the curriculum, this section can be more or less interactive and can
-take more or less time than it is formally allocated. This is especially important when trainings get off to a slow start for logistical reasons. Try to identify
-one opportunity for interaction with learners during this episode. How might you use this to establish a positive learning environment without running out the
-clock?
+1. In the context of a Carpentries workshop, what role does an Instructor play in creating opportunities for practice? What role does a helper play?
 
-#### [Building Skill With Practice](https://carpentries.github.io/instructor-training/02-practice-learning)
+1. In what ways do learners in a workshop get feedback on their progress? Is that feedback likely to meet the criteria for useful feedback outlined in this chapter? Why or why not?
 
-3\. (**Try not to skip this one!**) Try creating a small concept map that includes "teaching" and "learning" as concepts.
-How did you describe the relationship between teaching and learning? What other concepts and relationships did you include?
-If you would like to try an online tool for this, visit [https://excalidraw.com](https://excalidraw.com).
+1. In both Instructor Training and workshops, Carpentries surveys provide feedback from learners, and additional feedback mechanisms (e.g. minute cards and one-up-one-down) supplement this for a rich source of information. Do you think there is any additional advantage in asking a co-Instructor or co-Trainer for feedback? Why or why not? If so, how would you go about seeking such feedback?
 
-4\. We introduce skill acquisition in this episode, but really dig into expertise in the next. What is the purpose of introducing skill acquisition here? What
-should be emphasized here, vs in the next section?
-
-#### [Expertise and Instruction](https://carpentries.github.io/instructor-training/04-expertise)
-
-5\. Do you think you might have any expert awareness gaps on the subject of teaching or learning? How might such gaps become apparent when teaching others how to teach?
-
-#### [Memory and Cognitive Load](https://carpentries.github.io/instructor-training/05-memory)
-
-6\. This episode explains why we should teach slowly and allow time for practice. However, many of our curricula contain
-more content than can sometimes be covered in our '2-day' format. How can we help our trainees remember to keep it slow and
-resist the urge to 'get through' everything by talking faster?
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
