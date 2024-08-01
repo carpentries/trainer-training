@@ -4,27 +4,48 @@ teaching: 5
 exercises: 55
 ---
 
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- objectives
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: questions
+
+- See discussion questions. 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: prereq
+
 ## Reading:
 
-Examine [The Carpentries Handbook: Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html)  
-Review [Trainer Guide](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html)  
-*How Learning Works*: Conclusion (p. 212-218)
+From The Carpentries [Instructor Training curriculum](https://carpentries.github.io/instructor-training/instructor/index.html): 
 
-### *How Learning Works*
+* [Launches and Landings](https://carpentries.github.io/instructor-training/instructor/23-introductions.html)
+* [Putting it Together](https://carpentries.github.io/instructor-training/instructor/24-practices.html)
 
-#### Conclusion p. 212-218
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
-1\. What is one area of teaching skill that you would like to work on? How did you decide on that goal? How could you advise an Instructor to prioritize their
-skill development goals?
+## Discussion Questions
 
-## Closing Questions:
+1. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
 
-2\. What questions do you have about your role as a Trainer?
+1. What is one area of teaching skill that you would like to work on? How did you decide on that goal? How could you advise an Instructor to prioritize their skill development goals?
 
-3\. What questions do you have about The Carpentries community?
+1. Introductions often include a lot of mundane content. How can an introduction cultivate motivation (per our recommendations) while still conveying necessary information?
 
-4\. What are your goals as a Trainer?
+1. Try the “Organize your knowledge” activity! Report back: what did you learn?
 
-5\. What can The Carpentries Core Team and the Trainer community do to support you in your goals?
+1. What questions do you have about your role as a Trainer?
+
+1. What questions do you have about The Carpentries community?
+
+1. What are your goals as a Trainer?
+
+1. What can The Carpentries Core Team and the Trainer community do to support you in your goals?
+
+
+
 
 

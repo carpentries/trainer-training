@@ -13,39 +13,43 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::: questions
+
+- See discussion questions.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: prereq
+
 ## Reading:
 
-[Getting Started on Instructor Certification](https://carpentries.github.io/instructor-training/14-checkout.html)  
-[The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/15-carpentries.html)  
-[Live Coding is a Skill](https://carpentries.github.io/instructor-training/17-live.html)  
-[Preparing to Teach](https://carpentries.github.io/instructor-training/18-preparation.html)  
-[More Practice Live Coding](https://carpentries.github.io/instructor-training/20-performance.html)
+From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
+
+* Chapter 1: Why Do Students’ Identities and Stages of Development Matter for Learning? (p. 9 - 38)
+* Chapter 7: Why Does Course Climate Matter for Student Learning? (p. 162 - 186)
+* Appendix A: What are Instructor Self-Assessments / Reflections and How Can We Use Them? (p. 219 - 222)
+* Appendix B: What are Ground Rules and How Can We Use Them? (p. 223 - 225)
+
+From The Carpentries [Instructor Training curriculum](https://carpentries.github.io/instructor-training/instructor/index.html): 
+
+* [Equity, Inclusion, and Accessibility](https://carpentries.github.io/instructor-training/instructor/09-eia.html)
+* [Welcome](https://carpentries.github.io/instructor-training/instructor/01-welcome.html)
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ## Discussion Questions
 
-### Instructor Training Curriculum
+1. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
 
-1\. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
+1. What content do you think might be missing from the Equity, Inclusion, and Accessibility episode that would be important for our Instructors to understand in the context of Carpentries workshops?
 
-#### [Checkout Process](https://carpentries.github.io/instructor-training/14-checkout.html)
+1. Try to identify one opportunity for interaction with learners during the Welcome episode. How might you use this to establish a positive learning environment without running out the clock?
 
-2\. Not all trainees are interested in completing checkout for certification. We're ok with that! What we worry about is
-when trainees who *do* want to certify are intimidated or deterred by some part of the process. What role can a Trainer play
-in supporting or encouraging trainees who want to complete the checkout process?
+1. How might The Carpentries Code of Conduct function in supporting an “explicitly centralizing” (p.167) classroom climate?
 
-#### [The Carpentries: How We Operate](https://carpentries.github.io/instructor-training/15-carpentries.html)
+1. Choose a strategy among those suggested on pages 177-186 that seems useful or essential to a Carpentries workshop. What factors might prevent an Instructor from effectively implementing this strategy? As a Trainer, how might you help?
 
-3\. What questions do you have about policies and procedures for running a workshop? Where do you think trainees might find this information confusing or unclear?
-
-#### [Preparing to Teach](https://carpentries.github.io/instructor-training/18-preparation.html)
-
-4\. Write a learner profile for an Instructor trainee and share with the group (see the ["Additional Exercises" page](https://carpentries.github.io/instructor-training/additional_exercises#episode-15-preparing-to-teach) for detailed instructions on learner profiles). How different are your profiles? What kinds of support might each of your
-imaginary trainees need?
-
-5\. The exercise on [evaluating learning objectives](https://carpentries.github.io/instructor-training/18-preparation#evaluate-learning-objectives) still needs work. The goal is to get learners a) looking at learning objectives critically and
-b) thinking in levels *like* Bloom's Taxonomy without
-actually introducing the jargon and complexities of the Bloom's model. In practice, however, learners are very prone to thinking in terms of **steps** rather
-than **levels** of cognitive challenge. Can you think of a change to this exercise, or a different exercise entirely, that might be more effective?
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
