@@ -6,9 +6,8 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Identify areas of uncertainty with regard to handling Code of Conduct violations.
-- Recognize conflicts between demands for introductory content and goals for motivating learners, and propose an approach that addresses both.
-- Apply concept mapping to organize content from the Instructor Training curriculum.
+- Suggest ways in which Trainers can support Instructor trainees who may be intimidated or confused by checkout procedures.
+- Identify confusing features of The Carpentries operational landscape.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

@@ -6,10 +6,10 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Examine relationships between prior knowledge and learning new things.
-- Plan how to use pre-assessment data in preparing to teach Instructor Training.
-- Evaluate the knowledge-organization strategies in terms of ease of use for new Instructors.
-- Apply a concept map to explore concepts of teaching and learning.
+- Examine a past experience with learner motivation in terms of environment, efficacy, and value.
+- Classify learner goals as learning or performance-based.
+- Assess the usefulness of different motivational strategies for Carpentries workshops and trainings.
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -33,6 +33,11 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 * [Building Skill with Practice](https://carpentries.github.io/instructor-training/instructor/02-practice-learning.html)
 
+Other: 
+
+* Instructor Training [pre-survey](https://carpentries.github.io/assessment-archives/instructor-training-pre/instructor-training-pre.html) and [post-survey](https://carpentries.github.io/assessment-archives/instructor-training-post/instructor-training-post.html).
+* Workshop [pre-survey](https://carpentries.github.io/assessment-archives/pre-workshop/pre-workshop.html) and [post-survey](https://carpentries.github.io/assessment-archives/instructor-training-post/instructor-training-post.html).
+
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -44,7 +49,7 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 1. Give an example of a time from your experience when a learner’s prior knowledge negatively affected their learning. Why do you think prior knowledge had such an impact in this case? Do you think any of the strategies suggested in this chapter might have helped?
 
-1. Read the pre-assessment survey for Instructor Training. How do trainee responses to this survey influence your teaching? 
+1. What information do we have about learners prior knowledge in Carpentries workshops? What information do we have for trainees in Instructor Training? Describe some specific actions Instructors and/or Trainers can take based on this information.
 
 1. Create a concept map (3-5 items with labeled connections) that includes “teaching” and “learning” as concepts. How did you describe the relationship between teaching and learning? What other concepts and relationships did you include? 
 

@@ -6,11 +6,7 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Propose approaches to improve the use and usefulness of Carpentries feedback surveys.
-- Suggest ways to prepare trainees to make mistakes in managing learner motivation.
-- Apply concepts related to motivation to the process of learning to teach.
-- Assess completeness and core content of the new episode on Equity, Inclusion, and Accessibility.
-- Propose approaches to support trainees in improving the quality of their feedback.
+- TBD
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

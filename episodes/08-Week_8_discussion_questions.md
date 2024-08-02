@@ -6,10 +6,10 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Suggest ways in which Trainers can support Instructor trainees who may be intimidated or confused by checkout procedures.
-- Identify confusing features of The Carpentries operational landscape.
-- Predict likely characteristics of Instructor trainees, and compare predictions with others.
-- Apply learning objectives to identify checkpoints where objectives are met in a lesson about learning objectives!
+- Explain the impact of The Carpentries Code of Conduct on classroom climate.
+- Predict challenges faced by new Instructors in creating a positive classroom climate and propose possible solutions.
+- Propose one way to support learner interaction early in a workshop even when pressed for time.
+- Identify areas of uncertainty with regard to handling Code of Conduct violations.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

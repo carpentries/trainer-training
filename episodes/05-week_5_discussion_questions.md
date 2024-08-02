@@ -6,10 +6,7 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain the impact of The Carpentries Code of Conduct on classroom climate.
-- Predict challenges faced by new Instructors in creating a positive classroom climate and propose possible solutions.
-- Predict challenges faced by new Instructors and learners in transferring metacognitive skills to a new learning process and propose possible solutions.
-- Connect common Carpentries classroom practices with strategies that support metacognition and identify the relationship between them.
+- TBD
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

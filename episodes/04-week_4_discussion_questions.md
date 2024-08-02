@@ -6,10 +6,10 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Apply Bloom's Taxonomy to adjust the level of a learning objective.
-- Describe how common Carpentries classroom practices provide opportunities for practice and feedback.
-- Evaluate the usefulness of potential sources of feedback for learners.
-- Assess differences between potential feedback coming from learners vs co-Instructors or co-Trainers.
+- Predict the impact of cognitive limitations on both trainees and Trainers in Instructor Training.
+- Compare the challenge of preparing different types of learners (Instructor trainees vs. workshop learners) to transfer skills to usable contexts.
+- Predict challenges posed by expertise awareness gaps in the context of teaching Instructors how to teach.
+- Distinguish challenges related to skill level faced by learners from those faced by Instructors.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

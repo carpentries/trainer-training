@@ -6,7 +6,8 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- objectives
+- Apply concept mapping to organize content from the Instructor Training curriculum.
+- More TBD.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
