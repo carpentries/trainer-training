@@ -6,11 +6,7 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Propose approaches to improve the use and usefulness of Carpentries feedback surveys.
-- Suggest ways to prepare trainees to make mistakes in managing learner motivation.
-- Apply concepts related to motivation to the process of learning to teach.
-- Assess completeness and core content of the new episode on Equity, Inclusion, and Accessibility.
-- Propose approaches to support trainees in improving the quality of their feedback.
+- TBD
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -40,10 +36,7 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- Convincing trainees to collect feedback is a fundamental goal. Teaching them to use it is the next step.
-- Developing awareness of demotivating scenarios is a fundamental goal. Teaching trainees to cope with them is the next step.
-- Many trainees may have a growth mindset with regard to computational skills and a fixed mindset with regard to teaching skills.
-- New Instructors should start their improvement process with 'low hanging fruit' -- teaching techniques they can easily adopt. For some, this might center on presentation style while for others, it might have more to do with classroom mechanics. Focusing on one thing at a time to improve on can help people evaluate and prioritize their goals as they progress.
+- To be added.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

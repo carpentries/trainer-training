@@ -6,9 +6,8 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Identify areas of uncertainty with regard to handling Code of Conduct violations.
-- Recognize conflicts between demands for introductory content and goals for motivating learners, and propose an approach that addresses both.
-- Apply concept mapping to organize content from the Instructor Training curriculum.
+- Suggest ways in which Trainers can support Instructor trainees who may be intimidated or confused by checkout procedures.
+- Identify confusing features of The Carpentries operational landscape.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -45,8 +44,7 @@ From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-se
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- Introducing a workshop has an outsized impact on the overall experience of the workshop. In addition to emphasizing preparation, it can be helpful to encourage trainees to think about this as a teaching challenge.
-- At the end of the workshop, we ask our trainees to take some time to organize some of the information they have learned. This is also a useful exercise to practice when preparing to teach the workshop!
+- To be added.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
