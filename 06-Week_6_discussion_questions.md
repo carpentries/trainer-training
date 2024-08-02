@@ -6,11 +6,9 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Propose one way to support learner interaction early in a workshop even when pressed for time.
-- Apply a concept map to illustrate the importance of explicit connections in knowledge and learning.
-- Distinguish challenges related to skill level faced by learners from those faced by Instructors.
-- Predict challenges posed by expert awareness gaps in the context of teaching Instructors how to teach.
-- Propose a strategy to support Instructor trainees in implementing guidance on pacing in spite of competing priorities related to content and time.
+- Analyze how Carpentries teaching practices align with strategies for designing effective practice opportunities.
+- List two important characteristics of effective feedback.
+- Explain strategies for helping trainees and new Instructors give good feedback.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -53,11 +51,7 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- The Carpentries Instructor Training curriculum offers many opportunities to model, as well as to teach, good practices.
-- Skill acquisition models explain challenges faced by learners and Instructors, Instructor trainees and Trainers.
-- Expert teachers may have filled in awareness gaps in subjects they teach, but may still have gaps on the subject of teaching.
-- Going slowly is a challenge that takes constant effort and compromise.
-- There are many approaches and supporting documents available to teach Instructor Training. Many of these are referenced in the Instructor Notes.
+- To be added.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

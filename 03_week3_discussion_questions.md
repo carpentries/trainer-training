@@ -59,10 +59,7 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- Learner motivation in Instructor Training can be very different from the motivation we see in workshops.
-- Instructors can influence learner motivation with three 'levers' of value, expected efficacy, and a supportive environment.
-- Carpentries Instructor Training aims to teach several component skills of teaching. However, this does not guarantee that all skills will be actively used. Trainers can prepare trainees to bridge this gap by explicitly discussing application as well as supporting practice and feedback.
-- Trainers experience expert awareness gaps and cognitive overload too!
+- To be added.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
