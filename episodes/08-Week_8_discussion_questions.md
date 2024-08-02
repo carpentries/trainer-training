@@ -53,11 +53,7 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- Thinking critically about Bloom's Taxonomy is typically beyond the Blooms' level we can expect Instructor trainees to perform at. Examine *your* learning objectives carefully to calibrate your expectations for this episode and meet learners where they are.
-- Instructors are unlikely to face a Code of Conduct violation, but need to know what to do if this occurs. Reassurance of team support and clear instructions on reporting are the most important elements to communicate.
-- Trainees may be intimidated by many elements of checkout. It is important to emphasize that teaching demonstrations are a friendly opportunity to give and receive feedback, not a high-stakes test, and that our Core Team is there to support them with any questions they may have during the checkout process.
-- Participatory live coding keeps participants engaged, generates immediate feedback, and creates opportunities to model a healthy response to error. These features explicitly support learning and motivation.
-- With instructional support, repeated practice and feedback can lead trainees to examine the component skills of teaching.
+- To be added.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

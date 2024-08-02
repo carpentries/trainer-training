@@ -44,8 +44,7 @@ From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-se
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- Introducing a workshop has an outsized impact on the overall experience of the workshop. In addition to emphasizing preparation, it can be helpful to encourage trainees to think about this as a teaching challenge.
-- At the end of the workshop, we ask our trainees to take some time to organize some of the information they have learned. This is also a useful exercise to practice when preparing to teach the workshop!
+- To be added.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

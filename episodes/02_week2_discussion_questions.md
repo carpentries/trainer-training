@@ -67,9 +67,7 @@ Then, share your experience with the process. Did you learn anything from making
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - Prior knowledge about teaching strategies varies among trainees in Instructor Training courses. Being attentive to this will improve your impact.
-- Pre-assessment surveys are a critical component of all Carpentries workshops. Help us make them useful for you!
-- Carpentries curriculum templates provide some support for knowledge organization. Instructors can implement additional strategies to help learners create useful connections.
-- Concept maps are a challenging, minimally structured task. They are useful for exploring concepts and relationships prior to teaching because they can make the organization of knowledge more explicit.
+- Pre-assessment surveys are a critical component of all Carpentries workshops and trainings.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

@@ -51,9 +51,7 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- The cognitive level of a task is directly related to the action expected from learners -- not the complexity of the material or the stage of a workflow. Bloom's Taxonomy and associated verb charts are useful tools for evaluating the level of cognition required.
-- Exercises and other classroom practices that keep learners actively engaged can provide many small opportunities for practice and feedback.
-- Co-Instructors and co-Trainers can have a different perspective on instruction compared with learners, but we do not have a systematic way of collecting this feedback. A little advance planning and communication can help ease the awkwardness of sharing between peers.
+- To be added.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

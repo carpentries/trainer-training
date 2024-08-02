@@ -46,7 +46,11 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 1. What can The Carpentries Core Team and the Trainer community do to support you in your goals?
 
+:::::::::::::::::::::::::::::::::::::::: keypoints
 
+- To be added.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 

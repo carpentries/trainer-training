@@ -48,8 +48,7 @@ From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-se
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- The Carpentries Code of Conduct is one of many features that creates a positive classroom climate for Carpentries workshops.
-- Instructor trainees will face challenges as they develop skill in teaching. As in Carpentries workshops, a core goal of our two-day training is to prepare them to encounter and surmount those challenges.
+- To be added.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
