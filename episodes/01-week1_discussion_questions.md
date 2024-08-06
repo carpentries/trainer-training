@@ -58,7 +58,7 @@ role as a Trainer! Do the eight principles apply equally well to all of these co
 ## Code of Conduct
 
 To make clear what is expected, everyone participating in The Carpentries activities is required
-to abide by our [Code of Conduct][coc]. Any form of behaviour to exclude, intimidate,
+to abide by our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html). Any form of behaviour to exclude, intimidate,
 or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional
 learning environment we encourage you to:
 
@@ -69,7 +69,7 @@ learning environment we encourage you to:
 - Show courtesy and respect towards other community members
 
 If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries
-Code of Conduct Committee by completing [this form][form-coc].
+Code of Conduct Committee by completing [this form](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl_6rkVtBIVWbb9YNOHQP_XaANDClmVNu0zs-w/viewform).
 
 ## Introductions
 
