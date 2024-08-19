@@ -53,7 +53,7 @@ Other:
 
 1. Create a concept map (3-5 items with labeled connections) that includes “teaching” and “learning” as concepts. How did you describe the relationship between teaching and learning? What other concepts and relationships did you include? 
 
-1. Examine Figure 3.2 (p.72). How do these diagrams relate to knowledge or learner mental models that you are familiar with? Which do you think best represents a learner who has just taken a Carpentries workshop?
+1. Examine Figure 3.2 (p.71). How do these diagrams relate to knowledge or learner mental models that you are familiar with? Which do you think best represents a learner who has just taken a Carpentries workshop?
 
 1. Read the strategies for how Instructors can assess and enhance their own knowledge organization at the end of Chapter 3 (p. 78-83). Choose one strategy and think about how an Instructor could apply it when preparing to teach a Carpentries workshop. On a scale from 1-10, how challenging do you think it would be for a new Instructor to use?
 
