@@ -48,8 +48,11 @@ From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-se
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- To be added.
-
+- To teach effectively, you have to know who you are teaching.
+- Learning objectives reflect the knowledge and skills that learners should gain by the end of the course. All Carpentries lessons should have learning objectives listed at the top of each episode.
+- “Sticky notes” can have multiple roles in a Carpentries Workshop. They can work as ‘flags’ for help, as a formative assessment to check if a learning objective has been met, and as feedback for your teaching.
+- To be added. (Maybe more)
+  
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
