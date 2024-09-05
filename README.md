@@ -44,6 +44,7 @@ by providing suggestions, reviews, and inspiration:
 * [Philipp Matthias Schäfer](https://github.com/fiveop)
 * [Robert Davey](https://github.com/froggleston)
 * [Stéphane Guillou](https://github.com/stragu)
+* [Vasileios Panagiotis Lenis](https://github.com/vasilislenis)
 
 ## Citation
 See [CITATION.cff](CITATION.cff) for citation information, including a list of authors.
