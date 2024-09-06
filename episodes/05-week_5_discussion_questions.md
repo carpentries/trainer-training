@@ -6,7 +6,8 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- TBD
+-	Formulate the Learning Objectives list for your course
+-	Use active learning strategies for formative assessments in your course
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
