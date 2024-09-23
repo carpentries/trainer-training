@@ -53,7 +53,8 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- To be added.
+- Class climate has a major impact on learning.
+- Creating a safe and welcoming space for everyone in your workshop or training takes planning, self-reflection, and humility.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
