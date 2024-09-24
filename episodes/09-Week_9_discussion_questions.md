@@ -44,7 +44,8 @@ From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-se
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- To be added.
+- The Carpentries can appear large and complicated to newcomers, and Instructor Training may be a trainee's first encounter with the community. 
+- Trainers may need to overcome their own expert awareness gaps in relation to The Carpentries while teaching Instructor Training.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

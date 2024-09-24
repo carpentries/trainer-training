@@ -6,7 +6,11 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- TBD
+- Describe the target audience of Instructor Training.
+- Discuss whether a learning objective fits the audience and content of a lesson/curriculum.
+- Identify strategies to handle Code of Conduct incidents during an Instructor Training event.
+- Explain the value of "never teaching alone".
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
