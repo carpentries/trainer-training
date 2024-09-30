@@ -6,7 +6,7 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain the importance of a Trainer's introduction to the success of Instructor Training.
+- Explain the importance of an Instructor Trainer's introduction to the success of Instructor Training.
 - Apply concept mapping to organize content from the Instructor Training curriculum.
 - Reflect on what has been learned during this training.
 - Identify goals for the further development of teaching skill.
@@ -50,8 +50,8 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- Although Trainers are considered experts in teaching within The Carpentries community, we need to keep practising our skills to build and maintain them.
-- Trainers are supported by other members of the Trainer community and The Carpentries Core Team.
+- Although Instructor Trainers are considered experts in teaching within The Carpentries community, we need to keep practising our skills to build and maintain them.
+- Instructor Trainers are supported by each other and by The Carpentries Core Team.
 - Teaching Instructor Training can be demanding but it is also very rewarding and often a lot of fun!
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::

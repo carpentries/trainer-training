@@ -52,7 +52,7 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
 - To be effective Trainers, we must be aware of our own expertise in teaching.
-- Teaching Instructor Training creates a lot of cognitive load! The Trainer community has developed several strategies to help manage this load during training events.
+- Teaching Instructor Training creates a lot of cognitive load! The Instructor Trainer community has developed several strategies to help manage this load during training events.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
