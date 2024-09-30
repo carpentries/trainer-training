@@ -6,8 +6,9 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
--	Formulate the Learning Objectives list for your course
--	Use active learning strategies for formative assessments in your course
+- Identify key features of well-written learning objectives.
+-	Describe how well-written learning objectives facilitate learning.
+-	Plan strategies for supporting Instructor Trainees from a diversity of backgrounds and previous experiences. 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
