@@ -53,6 +53,7 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
+- Student-centred teaching requires teaching students, not content. It requires not treating all students the same (equality) but giving each student what they need (equity).
 - Class climate has a major impact on learning.
 - Creating a safe and welcoming space for everyone in your workshop or training takes planning, self-reflection, and humility.
 
