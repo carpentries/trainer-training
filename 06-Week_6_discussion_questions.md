@@ -51,7 +51,8 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- To be added.
+- Feedback is an essential part of Carpentries workshops and Instructor Training. Trainees often need guidance on how to invite, give, and receive good feedback.
+- The ways that a team of Instructors and Helpers manages the learning environment of a workshop can have a profound effect on how much effective feedback learners receive. Instructor Training should make trainees aware of this and give them strategies to maximise their impact. 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

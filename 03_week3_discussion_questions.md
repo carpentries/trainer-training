@@ -59,7 +59,8 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- To be added.
+- We expect trainees to have diverse motivations for joining Instructor Training.
+- Although Carpentries workshops and trainings are short, there are many strategies that we can employ to keep learners and trainees motivated.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
