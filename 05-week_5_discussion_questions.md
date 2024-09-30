@@ -6,7 +6,9 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- TBD
+- Identify key features of well-written learning objectives.
+-	Describe how well-written learning objectives facilitate learning.
+-	Plan strategies for supporting Instructor Trainees from a diversity of backgrounds and previous experiences. 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
