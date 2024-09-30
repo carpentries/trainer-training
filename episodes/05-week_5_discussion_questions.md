@@ -7,10 +7,11 @@ exercises: 55
 ::::::::::::::::::::::::::::::::::::::: objectives
 
 - Describe the target audience of Instructor Training.
-- Discuss whether a learning objective fits the audience and content of a lesson/curriculum.
+- Plan strategies for supporting Instructor Trainees from a diversity of backgrounds and previous experiences. 
 - Identify strategies to handle Code of Conduct incidents during an Instructor Training event.
 - Explain the value of "never teaching alone".
-
+- Identify key features of well-written learning objectives.
+-	Describe how well-written learning objectives facilitate learning.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
