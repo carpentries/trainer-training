@@ -1,5 +1,5 @@
 ---
-title: Week 3
+title: Motivation
 teaching: 5
 exercises: 55
 ---

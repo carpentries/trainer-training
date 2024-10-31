@@ -1,5 +1,5 @@
 ---
-title: Week 2
+title: Prior Knowledge
 teaching: 5
 exercises: 55
 ---

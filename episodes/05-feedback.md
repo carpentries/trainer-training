@@ -1,5 +1,5 @@
 ---
-title: Week 6
+title: Feedback
 teaching: 5
 exercises: 55
 ---

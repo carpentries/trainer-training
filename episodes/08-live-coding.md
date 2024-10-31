@@ -1,5 +1,5 @@
 ---
-title: Week 7
+title: Live Coding
 teaching: 5
 exercises: 55
 ---

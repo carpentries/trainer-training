@@ -1,5 +1,5 @@
 ---
-title: Week 5
+title: Course Climate and Identity
 teaching: 5
 exercises: 55
 ---

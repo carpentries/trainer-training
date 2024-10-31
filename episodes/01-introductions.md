@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Introductions
 teaching: 5
 exercises: 55
 ---

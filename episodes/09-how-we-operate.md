@@ -1,5 +1,5 @@
 ---
-title: Week 9
+title: How We Operate
 teaching: 5
 exercises: 55
 ---
