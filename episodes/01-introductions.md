@@ -1,7 +1,7 @@
 ---
 title: Introductions
-teaching: 5
-exercises: 55
+teaching: 50
+exercises: 10
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -14,7 +14,9 @@ exercises: 55
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- See discussion questions.
+- What is an Instructor Trainer?  
+- How do I become an Instructor Trainer?  
+- What will I learn in this Training?   
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -76,7 +78,7 @@ Code of Conduct Committee by completing [this form](https://docs.google.com/form
 Hello everyone, and welcome to The Carpentries
 Instructor Trainer Training.  We are very pleased to have you with us.
 
-::::::::::::::::::::::::::::::::::::::  discussion
+::::::::::::::::::::::::::::::::::::::  instructor
 
 ## This Event's Hosts
 
@@ -84,11 +86,15 @@ To begin class, each Host should give a brief introduction of themselves.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::  challenge
+::::::::::::::::::::::::::::::::::::::  instructor
 
 ## Icebreaker
 
-Placeholder
+Ask trainees to introduce themselves using an icebreaker question of your choice. Some examples are: 
+
+- Why is The Carpentries community important to you?
+- Why are you excited to become an Instructor Trainer? 
+- What role does training play in your current job?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
