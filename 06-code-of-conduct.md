@@ -1,5 +1,5 @@
 ---
-title: Week 8
+title: Code of Conduct
 teaching: 5
 exercises: 55
 ---
