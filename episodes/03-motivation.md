@@ -10,14 +10,14 @@ exercises: 55
 - Classify anticipated goals of learners as learning or performance-based.
 - Assess the usefulness of different strategies related to motivation in Carpentries workshops and trainings.
 - Predict the impact of cognitive limitations on both learners and Trainers in Instructor Training.
-- Compare the challenge of preparing different types of learners (Instructor trainees vs. workshop learners) to transfer skills to usable contexts.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- See discussion questions.
+- How can we positively impact learner motivation?
+- How can we empower learners to continue learning after their workshop or training?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
