@@ -1,5 +1,5 @@
 ---
-title: Week 10
+title: Conclusions
 teaching: 5
 exercises: 55
 ---

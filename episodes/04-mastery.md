@@ -1,5 +1,5 @@
 ---
-title: Week 4
+title: Mastery
 teaching: 5
 exercises: 55
 ---
@@ -16,7 +16,8 @@ exercises: 55
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: questions
 
-- See discussion questions.
+- How can we support new Instructors in developing mastery?
+- How can we mitigate our own expert awareness gaps?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
