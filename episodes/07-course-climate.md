@@ -8,32 +8,32 @@ exercises: 55
 
 - Describe the target audience of Instructor Training.
 - Plan strategies for supporting Instructor Trainees from a diversity of backgrounds and previous experiences. 
-- Identify strategies to handle Code of Conduct incidents during an Instructor Training event.
-- Explain the value of "never teaching alone".
-- Identify key features of well-written learning objectives.
--	Describe how well-written learning objectives facilitate learning.
+- Predict challenges faced by new Instructors in creating a positive classroom climate and propose possible solutions.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- See discussion questions.
+- Why is it important to create a welcoming learning environment?
+- How can we support Instructors in creating a welcoming learning environment?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: prereq
 
-## Reading
-
-From The Carpentries [Instructor Training curriculum](https://carpentries.github.io/instructor-training/instructor/index.html): 
-
-* [Preparing to Teach](https://carpentries.github.io/instructor-training/instructor/18-preparation.html)
-* [Working with Your Team](https://carpentries.github.io/instructor-training/instructor/21-management.html)
+## Reading:
 
 From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
 
-* Appendix G: What Are Learning Objectives and How Can We Use Them? (p. 244 - 246)
-* Appendix H: What Are Active Learning Strategies and How Can We Use Them? (p. 247 - 249)
+* Chapter 1: Why Do Students’ Identities and Stages of Development Matter for Learning? (p. 9 - 38)
+* Chapter 7: Why Does Course Climate Matter for Student Learning? (p. 162 - 186)
+* Appendix A: What are Instructor Self-Assessments / Reflections and How Can We Use Them? (p. 219 - 222)
+
+From The Carpentries [Instructor Training curriculum](https://carpentries.github.io/instructor-training/instructor/index.html): 
+
+* [Equity, Inclusion, and Accessibility](https://carpentries.github.io/instructor-training/instructor/09-eia.html)
+* [Welcome](https://carpentries.github.io/instructor-training/instructor/01-welcome.html)
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -44,18 +44,20 @@ From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-se
 
 1. Write a learner profile for an Instructor trainee and share with the group (see the [“Additional Exercises”](https://carpentries.github.io/instructor-training/additional_exercises#episode-15-preparing-to-teach) page for detailed instructions on learner profiles). How different are your profiles? What kinds of support might each of your imaginary trainees need?
 
-1. The exercise on [evaluating learning objectives](https://carpentries.github.io/instructor-training/18-preparation#evaluate-learning-objectives) still needs work. The goal is to get learners a) looking at learning objectives critically and b) thinking in levels like Bloom’s Taxonomy without actually introducing the jargon and complexities of the Bloom’s model. In practice, however, learners are very prone to thinking in terms of steps rather than levels of cognitive challenge. Can you think of a change to this exercise, or a different exercise entirely, that might be more effective?
+1. What content do you think might be missing from the Equity, Inclusion, and Accessibility episode that would be important for our Instructors to understand in the context of Carpentries workshops?
 
-1. How do you feel about the prospect of handling a Code of Conduct incident at an event? What questions do you have?
+1. Try to identify one opportunity for interaction with learners during the Welcome episode. How might you use this to establish a positive learning environment?
 
-1. One of the learning objectives stated in the Instructor Training curriculum is: “Critically analyze a learning objective for your workshop.” What level of Bloom’s taxonomy does this objective fall under? Examining the chart on p. 245, try re-writing this learning objective at a lower level and a higher level. Do you think this objective is at an appropriate level for Instructor trainees? Why or why not?
+1. How might The Carpentries Code of Conduct function in supporting an “explicitly centralizing” (p.167) classroom climate?
+
+1. Choose a strategy among those suggested on pages 177-186 that seems useful or essential to a Carpentries workshop. What factors might prevent an Instructor from effectively implementing this strategy? As a Trainer, how might you help?
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- To teach effectively, you have to know who you are teaching.
-- Learning objectives reflect the knowledge and skills that learners should gain by the end of the course. All Carpentries lessons should have learning objectives listed at the top of each episode.
-- “Sticky notes” can have multiple roles in a Carpentries Workshop. They can work as ‘flags’ for help, as a formative assessment to check if a learning objective has been met, and as feedback for your teaching.
+- Student-centered teaching requires teaching students, not content. It requires not treating all students the same (equality) but giving each student what they need (equity).
+- Class climate has a major impact on learning.
+- Creating a safe and welcoming space for everyone in your workshop or training takes planning, self-reflection, and humility.
   
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
