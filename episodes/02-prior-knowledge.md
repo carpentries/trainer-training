@@ -36,8 +36,8 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 Other: 
 
-* Instructor Training [pre-survey](https://carpentries.github.io/assessment-archives/instructor-training-pre/instructor-training-pre.html) and [post-survey](https://carpentries.github.io/assessment-archives/instructor-training-post/instructor-training-post.html).
-* Workshop [pre-survey](https://carpentries.github.io/assessment-archives/pre-workshop/pre-workshop.html) and [post-survey](https://carpentries.github.io/assessment-archives/post-workshop/post-workshop.html).
+* Instructor Training [pre-survey](https://carpentries.github.io/assessment-archives/instructor-training-pre/instructor-training-pre.html).
+* Workshop [pre-survey](https://carpentries.github.io/assessment-archives/pre-workshop/pre-workshop.html).
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
