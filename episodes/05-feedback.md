@@ -46,7 +46,7 @@ Other:
 
 1. When trainees give feedback, especially when giving feedback to themselves, they are VERY likely to comment on the number of times they said “um” or “uh” during their practice presentation. How would you go about helping them to level up their feedback to address more impactful features?
 
-1. How can you (as a Trainer) use information in the pre and post-Instructor Training surveys to improve your teaching? How can we help Instructors make good use of pre and post-workshop surveys? 
+1. How can you (as an Instructor Trainer) use information in the pre and post-Instructor Training surveys to improve your teaching? How can we help Instructors make good use of pre and post-workshop surveys? 
 
 1. In the context of a Carpentries workshop, what role does an Instructor play in creating opportunities for practice? What role does a helper play?
 

@@ -9,7 +9,7 @@ exercises: 55
 - Examine a past experience with learner motivation in terms of environment, efficacy, and value.
 - Classify anticipated goals of learners as learning or performance-based.
 - Assess the usefulness of different strategies related to motivation in Carpentries workshops and trainings.
-- Predict the impact of cognitive limitations on both learners and Trainers in Instructor Training.
+- Predict the impact of cognitive limitations on both learners and Instructor Trainers in Instructor Training.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 

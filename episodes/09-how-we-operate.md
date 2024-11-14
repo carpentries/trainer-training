@@ -6,7 +6,7 @@ exercises: 55
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Suggest ways in which Trainers can support Instructor trainees who may be intimidated or confused by checkout procedures.
+- Suggest ways in which Instructor Trainers can support Instructor trainees who may be intimidated or confused by checkout procedures.
 - Identify confusing features of The Carpentries operational landscape.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -38,7 +38,7 @@ From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-se
 
 1. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
 
-1. Not all trainees are interested in completing checkout for certification. We’re ok with that! What we worry about is when trainees who do want to certify are intimidated or deterred by some part of the process. What role can a Trainer play in supporting or encouraging trainees who want to complete the checkout process?
+1. Not all trainees are interested in completing checkout for certification. We’re ok with that! What we worry about is when trainees who do want to certify are intimidated or deterred by some part of the process. What role can an Instructor Trainer play in supporting or encouraging trainees who want to complete the checkout process?
 
 1. What questions do you have about policies and procedures for running a workshop? Where do you think trainees might find this information confusing or unclear?
 

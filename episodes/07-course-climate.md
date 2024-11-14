@@ -50,7 +50,7 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 1. How might The Carpentries Code of Conduct function in supporting an “explicitly centralizing” (p.167) classroom climate?
 
-1. Choose a strategy among those suggested on pages 177-186 that seems useful or essential to a Carpentries workshop. What factors might prevent an Instructor from effectively implementing this strategy? As a Trainer, how might you help?
+1. Choose a strategy among those suggested on pages 177-186 that seems useful or essential to a Carpentries workshop. What factors might prevent an Instructor from effectively implementing this strategy? As an Instructor Trainer, how might you help?
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints

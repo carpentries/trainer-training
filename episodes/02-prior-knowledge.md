@@ -50,7 +50,7 @@ Other:
 
 1. Give an example of a time from your experience when a learner’s prior knowledge negatively affected their learning. Why do you think prior knowledge had such an impact in this case? Do you think any of the strategies suggested in this chapter might have helped?
 
-1. What information do we have about learners prior knowledge in Carpentries workshops? What information do we have for trainees in Instructor Training? Describe some specific actions Instructors and/or Trainers can take based on this information.
+1. What information do we have about learners prior knowledge in Carpentries workshops? What information do we have for trainees in Instructor Training? Describe some specific actions Instructors and/or Instructor Trainers can take based on this information.
 
 1. Examine Figure 3.2 (p.71). How do these diagrams relate to knowledge or learner mental models that you are familiar with? Which do you think best represents a learner who has just taken a Carpentries workshop?
 
