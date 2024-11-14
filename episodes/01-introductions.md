@@ -136,6 +136,8 @@ In addition to attending weekly meetings, there are additional requirements for 
 - Observe part of an Instructor Training course (4 hours)
 - (if you are not already a certified Instructor) complete Instructor Training and checkout
 
+For more detailed information about these requirements, please read the [Checkout Instructions](https://carpentries.github.io/trainer-training/checkout.html) page of this curriculum.
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Instructor Training Events (in brief)
