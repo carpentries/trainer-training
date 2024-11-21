@@ -15,7 +15,8 @@ exercises: 55
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: questions
 
-- See discussion questions. 
+- How do I become integrated with the rest of the Instructor Trainer community? 
+- How do I continue to develop my own teaching skills? 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
