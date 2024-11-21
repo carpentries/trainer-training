@@ -28,15 +28,29 @@ exercises: 55
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+:::::::::::::::::::::::::::::::::::::::::::::::::: callout
+
+## Transparency Reports
+
+The Code of Conduct committee publishes quarterly [transparency reports](https://github.com/carpentries/governance/tree/main/code-of-conduct-transparency-reports), which include information on potential Code of Conduct breaches, police matters, policy changes, and committee changes that occurred during the quarter. 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 ## Discussion Questions
 
 1. What questions do you have about our community's Code of Conduct?
 
-1. Plan how you will introduce the Code of Conduct at your trainings. Practice delivering this introduction out loud. 
+1. Plan how you will introduce the Code of Conduct at your trainings. Practice delivering this introduction out loud to yourself
+or to a colleague. A few individuals will be asked to present their introduction during our meeting. 
 
-1. **Placeholder for practice handling CoC scenario(s).**
+1. Scenario practice: You are teaching Instructor Training online. At the end of the first day, you receive a private message from a trainee saying an individual in their breakout group was displaying political insignia which made them feel uncomfortable. They request not to be placed in a breakout group with that individual again. What actions do you take? 
 
-1. How do you feel about the prospect of handling a Code of Conduct incident at an event? What questions do you have?
+1. Scenario practice: You are teaching Instructor Training online. During the training, your co-Trainer uses a word or phrase which you know can be exclusionary or derogatory. You assume that your co-Trainer does not know about this exclusionary or derogatory usage. What actions do you take? 
+
+1. Scenario practice: You are teaching Instructor Training online. While your co-Trainer is teaching, you receive a private message from a trainee saying that something the co-Trainer just said was exclusionary or derogatory. What actions do you take? 
+
+1. How prepared do you feel about handling a Code of Conduct incident at an event? What questions do you have?
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
