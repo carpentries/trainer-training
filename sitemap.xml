@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://carpentries.github.io/trainer-training/01-introductions.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/01-week1_discussion_questions.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/trainer-training/02-prior-knowledge.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/trainer-training/02_week2_discussion_questions.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/trainer-training/03-motivation.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/03_week3_discussion_questions.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/trainer-training/04-mastery.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/04-week_4_discussion_questions.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/trainer-training/05-feedback.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/trainer-training/05-week_5_discussion_questions.html</loc>
@@ -19,16 +34,31 @@
     <loc>https://carpentries.github.io/trainer-training/06-Week_6_discussion_questions.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/trainer-training/06-code-of-conduct.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/07-Week_7_discussion_questions.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/trainer-training/07-course-climate.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/trainer-training/08-Week_8_discussion_questions.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/trainer-training/08-live-coding.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/09-Week_9_discussion_questions.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/trainer-training/09-how-we-operate.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/10-Week_10_discussion_questions.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/trainer-training/10-conclusions.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/trainer-training/404.html</loc>
@@ -43,6 +73,9 @@
     <loc>https://carpentries.github.io/trainer-training/aio.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/trainer-training/checkout.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/discuss.html</loc>
   </url>
   <url>
@@ -52,16 +85,31 @@
     <loc>https://carpentries.github.io/trainer-training/index.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor/01-introductions.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/01-week1_discussion_questions.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor/02-prior-knowledge.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/02_week2_discussion_questions.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor/03-motivation.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/03_week3_discussion_questions.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor/04-mastery.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/04-week_4_discussion_questions.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor/05-feedback.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/05-week_5_discussion_questions.html</loc>
@@ -70,16 +118,31 @@
     <loc>https://carpentries.github.io/trainer-training/instructor/06-Week_6_discussion_questions.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor/06-code-of-conduct.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/07-Week_7_discussion_questions.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor/07-course-climate.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/08-Week_8_discussion_questions.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor/08-live-coding.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/09-Week_9_discussion_questions.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor/09-how-we-operate.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/10-Week_10_discussion_questions.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor/10-conclusions.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/404.html</loc>
@@ -92,6 +155,9 @@
   </url>
   <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/aio.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/trainer-training/instructor/checkout.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/trainer-training/instructor/discuss.html</loc>
