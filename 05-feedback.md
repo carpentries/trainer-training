@@ -1,5 +1,5 @@
 ---
-title: Week 6
+title: Feedback
 teaching: 5
 exercises: 55
 ---
@@ -14,7 +14,8 @@ exercises: 55
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- See discussion questions.
+- How can we use feedback to help new Instructors improve their teaching?
+- How can we use feedback to improve our own teaching? 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -31,6 +32,11 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 * [Teaching is a Skill](https://carpentries.github.io/instructor-training/instructor/11-practice-teaching.html)
 * [Building Skill With Feedback](https://carpentries.github.io/instructor-training/instructor/06-feedback.html)
 
+Other: 
+
+* Instructor Training [post-survey](https://carpentries.github.io/assessment-archives/instructor-training-post/instructor-training-post.html).
+* Workshop [post-survey](https://carpentries.github.io/assessment-archives/post-workshop/post-workshop.html).
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -40,13 +46,13 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 1. When trainees give feedback, especially when giving feedback to themselves, they are VERY likely to comment on the number of times they said “um” or “uh” during their practice presentation. How would you go about helping them to level up their feedback to address more impactful features?
 
-1. Responses to Carpentries pre- and post- surveys are intended to be useful to Instructors, Hosts, and The Carpentries. In particular, we aspire to using data from these surveys to improve understanding of the functionality of our programming as well as promote our successes and needs to funders. This is critical to the sustainability of The Carpentries overall. However, this requires that surveys be systematically administered. Nobody likes surveys, and it’s not fun to hound people to take them, either. What can we do to persuade Instructors to make more consistent use of these important assessment tools? (Responses might include ways to make the surveys themselves more useful.)
+1. How can you (as an Instructor Trainer) use information in the pre and post-Instructor Training surveys to improve your teaching? How can we help Instructors make good use of pre and post-workshop surveys? 
 
 1. In the context of a Carpentries workshop, what role does an Instructor play in creating opportunities for practice? What role does a helper play?
 
 1. In what ways do learners in a workshop get feedback on their progress? Is that feedback likely to meet the criteria for useful feedback outlined in this chapter? Why or why not?
 
-1. In both Instructor Training and workshops, Carpentries surveys provide feedback from learners, and additional feedback mechanisms (e.g. minute cards and one-up-one-down) supplement this for a rich source of information. Do you think there is any additional advantage in asking a co-Instructor or co-Trainer for feedback? Why or why not? If so, how would you go about seeking such feedback?
+1. How can we, as a community, encourage and facilitate co-Instructors (and co-Trainers!) to share feedback with one another and live our core value of "Always Learning"?
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints

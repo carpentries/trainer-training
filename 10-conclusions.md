@@ -1,5 +1,5 @@
 ---
-title: Week 10
+title: Conclusions
 teaching: 5
 exercises: 55
 ---
@@ -15,7 +15,8 @@ exercises: 55
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: questions
 
-- See discussion questions. 
+- How do I become integrated with the rest of the Instructor Trainer community? 
+- How do I continue to develop my own teaching skills? 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -40,13 +41,13 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 1. Try the “Organize your knowledge” activity! Report back: what did you learn?
 
-1. What questions do you have about your role as a Trainer?
+1. What questions do you have about your role as an Instructor Trainer?
 
 1. What questions do you have about The Carpentries community?
 
-1. What are your goals as a Trainer?
+1. What are your goals as an Instructor Trainer?
 
-1. What can The Carpentries Core Team and the Trainer community do to support you in your goals?
+1. What can The Carpentries Core Team and the Instructor Trainer community do to support you in your goals?
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 

@@ -1,7 +1,7 @@
 ---
-title: Week 1
-teaching: 5
-exercises: 55
+title: Introductions
+teaching: 50
+exercises: 10
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
@@ -14,7 +14,9 @@ exercises: 55
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- See discussion questions.
+- What is an Instructor Trainer?  
+- How do I become an Instructor Trainer?  
+- What will I learn in this Training?   
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -51,7 +53,7 @@ This week's questions are:
 
 1.  In our discussions, we will often move between levels in the diagram below. We will apply the eight principles to *teaching about how to teach* (in
 instructor training) as well as *teaching technical skills* (in a Carpentries workshop). We'll even talk about *learning how to teach teaching* in your
-role as a Trainer! Do the eight principles apply equally well to all of these contexts? Are there any important differences to keep in mind?
+role as an Instructor Trainer! Do the eight principles apply equally well to all of these contexts? Are there any important differences to keep in mind?
 
 ![](fig/instructor-training-program.png){alt='A tree diagram of Carpentries instruction and audience in which Instructor Trainers teach Instructors and Instructors teach Learners'}
 
@@ -76,7 +78,7 @@ Code of Conduct Committee by completing [this form](https://docs.google.com/form
 Hello everyone, and welcome to The Carpentries
 Instructor Trainer Training.  We are very pleased to have you with us.
 
-::::::::::::::::::::::::::::::::::::::  discussion
+::::::::::::::::::::::::::::::::::::::  instructor
 
 ## This Event's Hosts
 
@@ -84,16 +86,20 @@ To begin class, each Host should give a brief introduction of themselves.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::  challenge
+::::::::::::::::::::::::::::::::::::::  instructor
 
 ## Icebreaker
 
-Placeholder
+Ask trainees to introduce themselves using an icebreaker question of your choice. Some examples are: 
+
+- Why is The Carpentries community important to you?
+- Why are you excited to become an Instructor Trainer? 
+- What role does training play in your current job?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## Overview of Trainer Training
+## Overview of Instructor Trainer Training
 
 This course is designed to support Carpentries community-members in preparing to teach Instructor
 Training courses. It is not a substitute for Instructor Training; in contrast, this training includes fewer contact hours
@@ -101,7 +107,7 @@ and more independent work time stretched over a 10 week period. If you have not 
 
 Each participant brings a different skill set to this training. Most trainees have background in educational settings and/or
 experience teaching Carpentries-style workshops. Trainees who are new to both should plan to invest extra effort in the
-readings. All trainees, and particularly those new to the community, are expected to seek continuing connection and mentorship through engagement with the
+readings. All trainees, and particularly those new to the community, are expected to seek continuing connection and mentorship through engagement with the Instructor
 Trainer community after completing this training.
 
 Each week's discussion will focus on our assigned readings. Starting next week, trainees (that means you!) will play
@@ -122,33 +128,34 @@ Add your name to the [Training schedule](https://docs.google.com/spreadsheets/d/
 
 ::::::::::::::::::::::::::::::::::::::  discussion
 
-## Trainer Checkout
+## Instructor Trainer Checkout
 
-In addition to attending weekly meetings, there are additional requirements for Trainer certification. These are:
+In addition to attending weekly meetings, there are additional requirements for Instructor Trainer certification. These are:
 
 - Observe a teaching demonstration session (1 hour)
 - Observe part of an Instructor Training course (4 hours)
 - (if you are not already a certified Instructor) complete Instructor Training and checkout
 
+For more detailed information about these requirements, please read the [Checkout Instructions](https://carpentries.github.io/trainer-training/checkout.html) page of this curriculum.
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Instructor Training Events (in brief)
 
-Most of our Instructor Training events are taught online, via Zoom. All events must have a least 2 Trainers in attendance. New trainees should plan to be
-available for teaching assignments as soon as certification is complete. New Trainers will be matched with experienced
-Trainers whenever possible.
+Most of our Instructor Training events are taught online, via Zoom. All events must have a least 2 Instructor Trainers in attendance. New trainees should plan to be
+available for teaching assignments as soon as certification is complete. New Instructor Trainers will be matched with experienced Instructor Trainers whenever possible.
 
-### The Trainer Community
+### The Instructor Trainer Community
 
-[Trainers](https://carpentries.org/trainers/) meet monthly for calls at 2 different time slots to accommodate global time
-zones. Attending these calls is highly recommended (trainees are welcome!), and all Trainers are asked to review meeting
+[Instructor Trainers](https://carpentries.org/trainers/) meet monthly for calls at 2 different time slots to accommodate global time
+zones. Attending these calls is highly recommended (trainees are welcome!), and all Instructor Trainers are asked to review meeting
 notes when they are unable to attend, as
 important information and updates are shared there. Regular meeting times are on the first Thursday of the month; however,
 we keep a 'placeholder' slot on the calendar for the 3rd week of the month. The placeholder can be used for special events
 or non-routine discussions, and is also a substitute time when the first week falls during a holiday. All meetings can be
 found on the [Community Calendar](https://carpentries.org/community/#community-events) and joined via links on the [meeting Etherpad](https://pad.carpentries.org/trainers).
 
-Trainers also communicate asynchronously via Topicbox, Slack, and GitHub. New trainees will be
+Instructor Trainers also communicate asynchronously via Topicbox, Slack, and GitHub. New trainees will be
 invited to join the Topicbox list early in their training, and will also be added to the #trainers Slack channel
 if they have registered with The [Carpentries Slack community](https://slack-invite.carpentries.org/).
 Communications on the [Instructor Training GitHub repository](https://github.com/carpentries/instructor-training) can be received by "watching" the repository.
@@ -175,30 +182,30 @@ Take a moment to sign up for the following commmunication channels:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-### Trainers Leadership
+### Instructor Trainers Leadership
 
-Once upon a time, the Trainer community consisted of a handful of people who met twice monthly: once to discuss training events, and once to make
+Once upon a time, the Instructor Trainer community consisted of a handful of people who met twice monthly: once to discuss training events, and once to make
 decisions about community business. As our community grew, decision-making became more complex, often falling to a handful of people
-with time to invest, or to The Carpentries Core Team. This system did not ensure that the interests of all Trainers were adequately addressed in decisions.
+with time to invest, or to The Carpentries Core Team. This system did not ensure that the interests of all Instructor Trainers were adequately addressed in decisions.
 
-In 2020, some of these active participants were recruited to draft a new governance structure for the Trainer community, and in 2021 our first elections were
-held. The Trainers Leadership group meets 1-2 times per month, consults with Core Team on matters of interest to Trainers, and proposes changes to management
+In 2020, some of these active participants were recruited to draft a new governance structure for the Instructor Trainer community, and in 2021 our first elections were
+held. The Instructor Trainers Leadership group meets 1-2 times per month, consults with Core Team on matters of interest to Instructor Trainers, and proposes changes to management
 of our curriculum and community to make it more welcoming, fun, and sustainable.
 
-New Trainers are an important voice to represent in Leadership, because they have a fresh perspective on the challenges faced by newcomers.
+New Instructor Trainers are an important voice to represent in Leadership, because they have a fresh perspective on the challenges faced by newcomers.
 This role is available to all participants, not only those with extra time to share: we suggest that people serving in this role consider reducing
 their other service activities in the community to compensate during their tenure. The period of service is 1 year.
 
 ### A Culture of Contribution
 
-Trainers are a vital part of The Carpentries community. In addition to training Instructors and supporting the collaborative
-maintenance of our Instructor Training curriculum, Trainers typically take
-on leadership roles in their own communities, locally or globally. Many assume leadership within the Trainer community, but all
+Instructor Trainers are a vital part of The Carpentries community. In addition to training Instructors and supporting the collaborative
+maintenance of our Instructor Training curriculum, Instructor Trainers typically take
+on leadership roles in their own communities, locally or globally. Many assume leadership within the Instructor Trainer community, but all
 are expected to contribute by coming to meetings and/or sharing thoughts or feedback in other ways. Whatever your plans,
 don't wait to get involved! If you see a typo in the
 curriculum, try out a pull request to fix it, or ask around to learn how. If you wonder if a section could be better,
 search the repository [for existing issues](https://github.com/carpentries/instructor-training/issues) on the subject, and add your voice to the conversation or start a new issue for us
-to work through during our next update. If you have time, consider joining Trainer meetings now!
+to work through during our next update. If you have time, consider joining Instructor Trainer meetings now!
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 

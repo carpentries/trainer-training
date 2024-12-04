@@ -1,12 +1,12 @@
 ---
-title: Week 4
+title: Mastery
 teaching: 5
 exercises: 55
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Predict the impact of cognitive limitations on both trainees and Trainers in Instructor Training.
+- Predict the impact of cognitive limitations on both trainees and Instructor Trainers in Instructor Training.
 - Compare the challenge of preparing different types of learners (Instructor trainees vs. workshop learners) to transfer skills to usable contexts.
 - Predict challenges posed by expertise awareness gaps in the context of teaching Instructors how to teach.
 - Distinguish challenges related to skill level faced by learners from those faced by Instructors.
@@ -16,7 +16,8 @@ exercises: 55
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: questions
 
-- See discussion questions.
+- How can we support new Instructors in developing mastery?
+- How can we mitigate our own expert awareness gaps?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -45,7 +46,7 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 
 1. What expert awareness gaps might you have on the subject of teaching or learning? How might such gaps become apparent when teaching others how to teach?
 
-1. How might “blind spots” (now re-named in our curriculum as “expert awareness gaps”) and cognitive load affect learners during Instructor Training? What about Trainers?
+1. How might “blind spots” (now re-named in our curriculum as “expert awareness gaps”) and cognitive load affect learners during Instructor Training? What about Instructor Trainers?
 
 1. How can we help learners bridge the gap between learning and application? Is this different for Instructor Training vs Carpentries workshops?
 

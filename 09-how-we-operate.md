@@ -1,19 +1,20 @@
 ---
-title: Week 9
+title: How We Operate
 teaching: 5
 exercises: 55
 ---
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Suggest ways in which Trainers can support Instructor trainees who may be intimidated or confused by checkout procedures.
+- Suggest ways in which Instructor Trainers can support Instructor trainees who may be intimidated or confused by checkout procedures.
 - Identify confusing features of The Carpentries operational landscape.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: questions
 
-- See discussion questions. 
+- How do instructor trainees become certified? 
+- How do Carpentries workshops operate?  
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -34,13 +35,17 @@ From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-se
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::: challenge 
+
+## Practice Teaching
+
+Individuals who didn't practice teaching last week will be selected to teach 3 minutes of their chosen lesson episode from Instructor Training. You can incorporate negative teaching practices, if desired. After you finish teaching, you will give yourself feedback and then receive feedback from other group members using The Carpentries 2x2 rubric. 
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Discussion Questions
 
-1. What stood out to you from this week's reading? Think of things that made sense in light of your own experience, things you're not convinced of, or questions that you have.
-
-1. Not all trainees are interested in completing checkout for certification. We’re ok with that! What we worry about is when trainees who do want to certify are intimidated or deterred by some part of the process. What role can a Trainer play in supporting or encouraging trainees who want to complete the checkout process?
-
-1. What questions do you have about policies and procedures for running a workshop? Where do you think trainees might find this information confusing or unclear?
+1. What questions do you have about policies and procedures for running a workshop or training? Where do you think trainees might find this information confusing or unclear?
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
