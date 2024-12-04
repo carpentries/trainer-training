@@ -59,16 +59,7 @@ contact: 'mailto:lessons@software-carpentry.org'
 
 # Order of episodes in your lesson
 episodes: 
-- 01-week1_discussion_questions.md
-- 02_week2_discussion_questions.md
-- 03_week3_discussion_questions.md
-- 04-week_4_discussion_questions.md
-- 05-week_5_discussion_questions.md
-- 06-Week_6_discussion_questions.md
-- 07-Week_7_discussion_questions.md
-- 08-Week_8_discussion_questions.md
-- 09-Week_9_discussion_questions.md
-- 10-Week_10_discussion_questions.md
+
 
 # Information for Learners
 learners: 
