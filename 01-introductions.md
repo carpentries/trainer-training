@@ -34,7 +34,7 @@ From [*How Learning Works*](https://search.worldcat.org/title/1373343202):
 From The Carpentries' documentation:
 
 - ["Instructor Trainers"](https://docs.carpentries.org/topic_folders/instructor_training/duties_agreement.html) section of The Carpentries Handbook
-- The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
+- The Carpentries [Code of Conduct](https://docs.carpentries.org/policies/coc/)
 
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
