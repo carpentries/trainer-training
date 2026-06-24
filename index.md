@@ -11,7 +11,6 @@ This is the on-boarding curriculum for new Trainers. This material supports ten 
 
 This curriculum targets individuals who have applied and been accepted as Carpentries Trainers. It is generally expected that learners either have extensive background in teaching or have demonstrated commitment to Carpentries teaching practices through involvement with the community. However, no particular background knowledge is necessary to participate fully in these discussions.
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
