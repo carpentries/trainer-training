@@ -121,7 +121,7 @@ an active role in leading the discussion, with individuals serving in the follow
 
 ## Sign Up!
 
-Add your name to the [Training schedule](https://docs.google.com/spreadsheets/d/1M9udjMm5hUrlMoGekcj3fiGhR_dz7HaZtbeGFFzPfq4/edit?gid=0#gid=0), once each for the Lead and Notetaker roles.
+Add your name to the [Training schedule](https://docs.google.com/spreadsheets/d/1a6kg0gC4Sp3ea13TWKrw-beGqaAjwvOClsQzezr_xAI/edit?gid=0#gid=0), once each for the Lead and Notetaker roles.
 
 ::::::::::::::::::::::::::::::::::::::
 
@@ -142,7 +142,7 @@ For more detailed information about these requirements, please read the [Checkou
 
 ### Instructor Training Events (in brief)
 
-Most of our Instructor Training events are taught online, via Zoom. All events must have a least 2 Instructor Trainers in attendance. New trainees should plan to be
+Most of our Instructor Training events are taught online, via Zoom. All events must have at least 2 Instructor Trainers in attendance. New trainees should plan to be
 available for teaching assignments as soon as certification is complete. New Instructor Trainers will be matched with experienced Instructor Trainers whenever possible.
 
 ### The Instructor Trainer Community
@@ -166,7 +166,7 @@ anyone who has not done so already.
 
 ## Communications Checklist
 
-Take a moment to sign up for the following commmunication channels:
+Take a moment to sign up for the following communication channels:
 
 **Communications channels to participate in**
 
