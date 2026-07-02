@@ -182,14 +182,14 @@ Take a moment to sign up for the following communication channels:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-### Instructor Trainers Leadership
+### Instructor Trainers Leadership committee
 
 Once upon a time, the Instructor Trainer community consisted of a handful of people who met twice monthly: once to discuss training events, and once to make
 decisions about community business. As our community grew, decision-making became more complex, often falling to a handful of people
 with time to invest, or to The Carpentries Core Team. This system did not ensure that the interests of all Instructor Trainers were adequately addressed in decisions.
 
 In 2020, some of these active participants were recruited to draft a new governance structure for the Instructor Trainer community, and in 2021 our first elections were
-held. The Instructor Trainers Leadership group meets 1-2 times per month, consults with Core Team on matters of interest to Instructor Trainers, and proposes changes to management
+held. The [Instructor Trainers Leadership Committee](https://github.com/carpentries/trainers/blob/main/governance.md) meets 1-2 times per month, consults with Core Team on matters of interest to Instructor Trainers, and proposes changes to management
 of our curriculum and community to make it more welcoming, fun, and sustainable.
 
 New Instructor Trainers are an important voice to represent in Leadership, because they have a fresh perspective on the challenges faced by newcomers.
