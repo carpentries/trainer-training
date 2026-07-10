@@ -27,7 +27,7 @@ From The Carpentries [Instructor Training curriculum](https://carpentries.github
 * [Getting Started on Instructor Certification](https://carpentries.github.io/instructor-training/instructor/14-checkout.html)
 * [How we Operate](https://carpentries.github.io/instructor-training/instructor/15-carpentries.html)
 
-From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
+From [*How Learning Works*](https://search.worldcat.org/title/1373343202):
 
 * Conclusion: Applying the Eight Principles to Ourselves (p. 212 - 218)
 * Appendix E: What Are Rubrics and How Can We Use Them? (p. 232 - 241)
