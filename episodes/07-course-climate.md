@@ -23,7 +23,7 @@ exercises: 55
 
 ## Reading:
 
-From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
+From [*How Learning Works*](https://search.worldcat.org/title/1373343202):
 
 * Chapter 1: Why Do Students’ Identities and Stages of Development Matter for Learning? (p. 9 - 38)
 * Chapter 7: Why Does Course Climate Matter for Student Learning? (p. 162 - 186)

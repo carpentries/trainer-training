@@ -26,7 +26,7 @@ exercises: 55
 
 ## Reading
 
-From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
+From [*How Learning Works*](https://search.worldcat.org/title/1373343202):
 
 * Chapter 5: How Do Students Develop Mastery? (p. 106 - 129)
 * Appendix C: What Are Student Self-Assessments and How Can We Use Them? (p. 226 - 228)
