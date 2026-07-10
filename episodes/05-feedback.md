@@ -23,7 +23,7 @@ exercises: 55
 
 ## Reading:
 
-From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
+From [*How Learning Works*](https://search.worldcat.org/title/1373343202):
 
 * Chapter 6: What Kinds of Practice and Feedback Enhance Learning? (p. 130 - 161)
 
