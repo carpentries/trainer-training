@@ -25,7 +25,7 @@ exercises: 55
 
 ## Reading
 
-From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
+From [*How Learning Works*](https://search.worldcat.org/title/1373343202):
 
 * Chapter 4: What Factors Motivate Students to Learn? (p. 84 - 105)
 * Chapter 8: How Do Students Become Self-Directed Learners? (p. 187 - 211)

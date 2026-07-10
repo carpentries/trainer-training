@@ -24,7 +24,7 @@ exercises: 55
 
 ## Reading
 
-From [*How Learning Works*](https://www.worldcat.org/title/how-learning-works-seven-research-based-principles-for-smart-teaching/oclc/468969206):
+From [*How Learning Works*](https://search.worldcat.org/title/1373343202):
 
 * Chapter 2: How Does Student’s Prior Knowledge Affect Their Learning? (p. 39 - 63)
 * Chapter 3: How Does the Way Students Organize Knowledge Affect Their Learning? (p. 64 - 83)
