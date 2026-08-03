@@ -23,7 +23,7 @@ exercises: 55
 
 ## Reading:
 
-* The Carpentries' [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) and [Incident Reporting Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-reporting.html).
+* The Carpentries' [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) and [Incident Reporting Guidelines](https://docs.carpentries.org/policies/coc/incident-reporting.html).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
